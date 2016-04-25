@@ -1,0 +1,102 @@
+<act><title>THE QUALITY OF SERVICE OF BROADBAND SERVICE REGULATIONS, 20061</title> 
+
+  
+ <article><title><number>1</number> Short title, extent and commencement. </title>
+<section><number>i</number> These regulations shall be called as Quality of Service of Broadband Service Regulations, 2006. 
+ 
+ 
+
+
+</section><section><number>ii</number> These regulations shall be applicable to all the Internet Service Providers, Basic Service Providers, Unified Access Service Providers and Cellular Mobile Telecom Service Providers including Mahanagar Telephone Nigam Limited and Bharat Sanchar Nigam Limited, providing Broadband Service. 
+ </section><section><number>iii</number> These regulations shall come into force with effect from 1st January, 2007. 
+</section></article> 
+
+  
+ <article><title><number>2</number> Definitions. </title>In these regulations, unless the context otherwise requires, 
+ 
+ <section><number>a</number> Act' means the Telecom Regulatory Authority of India Act, 1997. 
+ </section><section><number>b</number> Authority' means the Telecom Regulatory Authority of India (TRAI). 
+ </section><section><number>c</number> Basic Service' means service derived from a Public Switched Telephone Network (PSTN) as specified in the license. 
+ </section><section><number>d</number> Broadband' is defined in the Broadband Policy 2004 as An always-on data connection that is able to support interactive services including Internet access and has the capability of the minimum download speed of 256 kilo bits per second (kbps) to an individual subscriber from the Point of Presence (POP) of the service provider intending to provide Broadband service where multiple such individual Broadband connections are aggregated and the subscriber is able to access these interactive services including the Internet through this POP. The interactive services will exclude any services for which a separate licence is specifically required, for example, real-time voice transmission, except to the extent that it is presently permitted under ISP licence with Internet Telephony. 
+ </section><section><number>e</number> CPE' means Customer Premises Equipment. 
+ </section><section><number>f</number> Customer' or Consumer' means a subscriber of Broadband service. 
+ </section><section><number>g</number> DSLAM' means Digital Subscriber Line Access Multiplexer. 
+ </section><section><number>h</number> Internet' is a global information system that is 
+ 
+ 
+ </section><section><number>i</number> logically linked together by a globally unique address, based on Internet Protocol (IP) or its subsequent enhancements/upgradations; 
+ <subsection><number>ii</number> able to support communications using the Transmission Control Protocol/Internet Protocol (TCP/IP) suite or its subsequent enhancements/upgradations, and all other IP compatible protocols. 
+</subsection></section><section><number>i</number> IP Address': Operation of Internet service requires IP addresses which is at present a 32 bit binary address. This address is required for each permanent connection on Internet. Typically, it is required for ports of routers and other ISP equipment and also for leased line connections to be provided to end users. 
+ </section><section><number>j</number> IGSP' means International Gateway Service Provider for Internet services. 
+ </section><section><number>k</number> ILDO' means International Long Distance Operator. 
+ </section><section><number>l</number> ISP' means Internet Service Provider licensed to provide access to Internet Service. 
+ </section><section><number>m</number> ISP Node' means a location where the ISP's Gateway Router is connected with upstream service provider. 
+ </section><section><number>n</number> LAN' means Local Area Network. It is a group of computers and associated devices that share a common communications line or wireless link. 
+ </section><section><number>o</number> 'License' means a licence granted or having effect as if granted under section 4 of the Indian Telegraph Act, 1885 and Indian Wireless Telegraphy Act, 1933. 
+ </section><section><number>p</number> Licensee' means a registered Indian Company that has been awarded licence for providing specified public telecommunication service under sub-section (1) of section 4 of the Indian Telegraph Act, 1885 (13 of 1885) for providing. 
+ </section><section><number>q</number> NAP' means Network Access Point. It is a major overseas Internet interconnection point that serves to logically link global Internet. 
+ </section><section><number>r</number> NIXI' means National Internet Exchange of India. 
+ </section><section><number>s</number> NLDO' means National Long Distance Operator. 
+ </section><section><number>t</number> PC' means Personal Computer. 
+ </section><section><number>u</number> POP' means Point of Presence of the service provider intending to provide Broadband service where multiple such individual Broadband connections are aggregated and the subscriber is able to access interactive services including the Internet through this POP. 
+ </section><section><number>v</number> Quality of Service': The term Quality of Services (QoS) is defined as the collective effect of service performance which determines the degree of satisfaction of a user of the service indicating the performance of a broadband network and of the degree to which the network conforms to the stipulated, norms. 
+ </section><section><number>w</number> Service Provider' means a licensee of Internet Service, Basic Service, Unified Access Service and Cellular Mobile Service, Commercial VSAT Service etc. including Mahanagar Telephone Nigam Limited/Bharat Sanchar Nigam Limited, who is licensed to provide Internet service. 
+ </section><section><number>x</number> Time Consistent Busy Hour' (TCBH): The one hour period starting at the same time each day for which the average traffic of the resource group concerned is greatest over the days under consideration. ITU recommends analysis of 90 days to establish TCBH. 
+ </section><section><number>y</number> UASP' means Unified Access Service Provider. 
+</section>
+
+
+</article> 
+
+  
+ <article><title><number>4</number> Reporting Requirement. </title>The service providers shall submit the Performance Monitoring Reports on the QoS benchmarks for all the parameters in the format to be prescribed by the Authority on Quarterly basis, ending 31st March, 30th June, 30th September and 31st December, but not later than 6 weeks from the end of the Quarter. The Authority may review from time to time the periodicity and the format of such report. 
+
+
+</article> 
+
+  
+ <article><title><number>5</number> Registration of Demands for Broadband Connections. </title>5.1 Service Providers, who intend to provide Broadband service, in a particular service area or exchange area/locality/city shall advertise and make public the Broadband availability plan at periodic interval of at least once in 6 months so that prospective customers can make registration. 
+ </article><article><number>5</number>2 In order to ensure that applications for Broadband connections are registered without any discrimination, the service provider shall register all demands for Broadband connections and give registration number to the prospective customer. If it is technically feasible to provide the Broadband connection on demand, the same shall be provided within the time frames indicated in the regulation. In all other cases, waiting list shall be maintained and connections released in a non-discriminatory manner as per the waiting list. 
+
+
+</article> 
+
+  
+ <article><title><number>6</number> Auditing. </title>6.1 The service providers shall maintain complete and accurate records of Service Provisioning/Activation, Fault Repair/Restoration, Billing complaints, Response time to the customer for assistance, Bandwidth Utilization/Throughput, Service Availability/Uptime, Packet Loss and Latency measurements. 
+ </article><article><number>6</number>2 Network performance parameters like Bandwidth Utilization/Throughput including Broadband Connection Speed, Packet Loss and Latency shall be measured on sample basis by the Authority from time to time, directly or if need so arises, through an independent agency. 
+ </article><article><number>6</number>3 The Authority shall audit/inspect, either directly or through an independent agency, the records relating to the reporting of compliance to the QoS parameters. The Authority, if it thinks fit, may require the service providers to get the reports submitted to the Authority audited, at its own cost, through independent and qualified agencies. 
+
+
+</article> 
+
+  
+ <article><title><number>7</number> Customer Perception of Service. </title>The Quality of Service parameter for Customer perception regarding Broadband service shall be measured through customer survey conducted by the Authority through an independent agency. The result of this survey may be made public for the information of the customers to generate healthy competition amongst service providers to improve service. 
+
+
+</article> 
+
+  
+ <article><title><number>8</number> Broadband Connection Speed (download). </title>The service providers shall make available a facility for measuring Broadband Connection Speed (download) at ISP node within a period of three months of coming into force of these regulations. 
+
+
+</article> 
+
+  
+ <article><title><number>9</number> Review. </title>The Authority, suo motu or on reference from any affected party, or for good and sufficient reasons, may review and modify these regulations. 
+
+
+</article> 
+
+  
+ <article><title><number>10</number> Interpretation. </title>In case of any doubt regarding interpretation of any of the provisions of these regulations, the decision of the Authority shall be final and binding. 
+
+
+</article> 
+
+  
+ <article> <title><number>11</number> Explanatory Memorandum. </title>These regulations contain at Annexan Explanatory Memorandum to provide the background and reasons for the issuance of these regulations, detailed meaning of the various parameters and their measurement methods. 
+
+
+</article>
+<pagefootnote></pagefootnote>
+</act>

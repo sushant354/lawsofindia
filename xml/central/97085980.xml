@@ -1,0 +1,547 @@
+<act><title>THE TELECOMMUNICATION (BROADCASTING AND CABLE SERVICES) INTERCONNECTION REGULATIONS, 20041</title> 
+
+  
+  
+ <article><title><number>1</number> Short title, extent and commencement. </title>-
+<section><number>i</number> This regulation shall be called the Telecommunication (Broadcasting and Cable Services) Interconnection Regulations, 2004. 
+ 
+ 
+
+
+</section><section><number>ii</number> This regulation shall cover arrangements among service providers for interconnection and revenue share, for all Telecommunication (Broadcasting and Cable Services) throughout the territory of India . 
+ </section><section><number>iii</number> This regulation shall come into force with effect from the date of its publication in the Official Gazette. 
+</section></article> 
+
+  
+  
+ <article><title><number>2</number> Definitions. </title>-In this regulation, unless the context otherwise requires,- 
+ 
+ <section><footcitenum>1</footcitenum>[<number>a</number> "addressable system" means an electronic device or more than one electronic device put in an integrated system through which signals of television channels can be sent in encrypted or unencrypted form, which can be decoded by the device or devices at the premises of the subscriber within limits of the authorization made, on the choice and request of such subscriber, by the service provider to the subscriber;] 
+ </section><section><footcitenum>2</footcitenum>[<number>aa</number> "Act" means the Telecom Regulatory Authority of India Act, 1997 (24 of 1997);] 
+ </section><section><number>b</number> "agent or intermediary" means any person including an individual, group of persons, public or body corporate, firm or any organisation or body authorised by a broadcaster/multi-system operator to make available TV channel(s), to a distributor of TV channels; 
+ </section><section><number>c</number> "authority" means the Telecom Regulatory Authority of India established under sub-section (1) of section 3 of the Telecom Regulatory Authority of India Act; 
+ </section><section><number>d</number> "authorised officer" has the same meaning as given in the sub-section (a) of the section 2 of the Cable Television Networks (Regulation) Act, 1995, as amended; 
+ </section><section><number>e</number> "broadcaster" means any person including an individual, group of persons, public or body corporate, firm or any organisation or body who/which is providing broadcasting service and includes his/her authorised distribution agencies; 
+ </section><section><number>f</number> "broadcasting services" means the dissemination of any form of communication like signs, signals, writing, pictures, images and sounds of all kinds by transmission of electromagnetic waves through space or through cables intended to be received by the general public either directly or indirectly and all its grammatical variations and cognate expressions shall be constructed accordingly; 
+ </section><section><number>g</number> "cable operator" means any person who provided cable service through a cable television network or otherwise controls or is responsible for the management and operation of a cable television network; 
+ </section><section><number>h</number> "cable service" means the transmission by cables of programmes including re-transmission by cables of any broadcast television signals; 
+ </section><section><number>i</number> "cable television network" means any system consisting of a set of closed transmission paths and associated signal generation, control and distribution equipment designed to provide cable service for reception by multiple subscribers; 
+ </section><section><footcitenum>3</footcitenum>[<number>ia</number> "carriage fee" means any fee paid by a broadcaster to a distributor of TV channels, for carriage of the channels or bouquets of channels of that broadcaster on the distribution platform owned or operated by such distributor of TV channels, without specifying the placement of various channels of the broadcaster vis-a-vis channels of other broadcasters;] 
+ <footcitenum>4</footcitenum>[ <footcitenum>5</footcitenum>[(ib)] "commercial subscriber" means any subscriber who receives a programming service at a place indicated by him to a service provider and uses signals of such service for the benefit of his clients, customers, members or any other class or group of persons having access to such place;] 
+ </section><section><number>j</number> "distributor of TV channels" means any person including an individual, group of persons, public or body corporate, firm or any organisation or body re-transmitting TV channels through electromagnetic waves through cable or through space intended to be received by general public directly or indirectly. The person may include, but is not limited to a cable operator, direct to home operator, multi-system operator, head ends in the sky operator; 
+ </section><section><number>k</number> "direct to home operator" means an operator licensed by the Central Government to distribute multi-channel TV programmes <footcitenum>6</footcitenum>[***] by using a satellite system directly to subscriber's premises without passing through intermediary such as cable operator or any other distributor of TV channels; 
+ </section><section><footcitenum>7</footcitenum>[<number>ka</number> "direct to home service" means distribution of multi channel TV programmes by using a satellite system by providing TV signals directly to subscriber's premises without passing through an intermediary such as cable operator or any other distributor of TV channels;] 
+ </section><section><footcitenum>7</footcitenum>[<number>kb</number> "direct to home subscriber" means a subscriber who receives the signals of a direct to home service;] 
+ </section><section><footcitenum>8</footcitenum>[<number>l</number> <title></title>"head end in the sky operator" or "HITS operator" means any person permitted by the Central Government to- <title></title>
+ 
+ 
+ </section><section><number>a</number> distribute multi channel TV programmes in C band or Ku band- 
+ 
+ <subsection><number>i</number> by using a satellite system, to intermediaries like cable operators and not directly to subscribers; and 
+ </subsection><subsection><number>ii</number> by using its own cable network, if any, to the subscribers of such cable network through Quadrature Amplitude Modulation (QAM) set top boxes, after first downlinking the signals at its terrestrial receiving station; and 
+</subsection>
+ </section><section><number>b</number> provide passive infrastructure facilities like transponder space on satellite, earth station facilities, etc. to one or more multi system operators or to any consortium of multi system operators or cable operators, for distribution of multi channel TV programmes, in C band or Ku band through QAM set top boxes, using such infrastructure facilities;] 
+</section><section><footcitenum>9</footcitenum>[<number>la</number> "Internet Protocol Television Service" means delivery of multi channel TV programmes in addressable mode by using Internet Protocol over a closed network of one or more service providers;] 
+ </section><section><footcitenum>10</footcitenum>[<number>m</number> "multi system operator" means any person who receives a broadcasting service from broadcasters or their authorized agencies or from a headend-in-the-sky operator and re-transmits the same to one or more cable operators or to consumers or to both and includes its authorised distribution agencies;] 
+ </section><section><footcitenum>7</footcitenum>[<number>ma</number> "ordinary subscriber" means any subscriber who receives a programming service from a service provider and uses the same for his domestic purposes;] 
+ </section><section><footcitenum>7</footcitenum>[<number>mb</number> "pay channel" means a channel for which fees is to be paid to the broadcaster by the person receiving the signals from the broadcaster, for its re-transmission through electromagnetic waves through cable or through space intended to be received by the general public either directly or indirectly;] 
+ </section><section><footcitenum>9</footcitenum>[<number>mc</number> "placement fee" means any fee paid by a broadcaster to a distributor of TV channels, for placement of the channels of such broadcaster vis-à-vis channels of other broadcasters on the distribution platform owned or operated by such distributor of TV channels;] 
+ <footcitenum>7</footcitenum>[ <footcitenum>11</footcitenum>[(md)] "programme" means any television broadcast and includes- 
+ 
+ <subsection><number>i</number> exhibition of films, features, dramas, advertisements and serials through video cassette recorders or video cassette players; 
+ </subsection><subsection><number>ii</number> any audio or visual or audio-visual live performance or presentation, and the expression 'programming service' shall be construed accordingly;] 
+</subsection>
+ </section><section><number>n</number> "service provider" means the Government as a service provider and includes a licensee as well as any broadcaster, multi-system operator, cable operator or distributor of TV channels. 
+ </section><section><footcitenum>12</footcitenum>[<number>na</number> "subscriber" means a person who receives the signals of a service provider at a place indicated to the service provider by him without further transmitting it to any other person and includes ordinary subscribers and commercial subscribers unless specifically excluded;] 
+ </section><section><footcitenum>13</footcitenum><number>o</number> "RIO" means the Reference Interconnect Offer published by a Party, prescribing conditions by fulfilling which other Parties would be entitled to obtain interconnection from that party;] 
+ </section><section><footcitenum>13</footcitenum>[<number>p</number> "subscriber base" means the number of subscribers- 
+ 
+ <subsection><number>i</number> as agreed to by two service providers in a non-addressable system on the basis of which payments are made by one service provider to the other, or 
+ </subsection><subsection><number>ii</number> as reflected by the Subscriber Management System, where addressable systems are employed;] 
+</subsection>
+ </section><section><footcitenum>13</footcitenum>[<number>q</number> "subscriber line report" or "SLR" means a monthly statement wherein, in a non-addressable system, a multi system operator and a cable operator agree upon the subscriber base for that month;] 
+ </section><section><footcitenum>13</footcitenum>[<number>r</number> "subscriber management system" or "SMS" means a system or device which, in an addressable system, stores the subscriber records and details with respect to name, address, etc., as well as information regarding the hardware being utilized by the subscriber, channels/bouquets of channels subscribed to by the subscriber, price of such channels or bouquets of channels as defined in the system, the activation/deactivation dates and time for any channel or bouquet of channels, a log of all actions performed on a subscriber's record, invoices raised on each subscriber and the amounts paid by the subscriber for each billing period.] 
+</section>
+
+
+
+
+
+
+
+
+
+
+ 
+ '(l) "head ends in the sky operator" means any person permitted by the Central Government to distribute multi-channel TV programmes in C band by using a satellite system to the intermediaries like cable operators and not directly to subscribers;'. 
+
+
+
+ 
+ '(m) "multi-system operator" means any person who receives a broadcasting service from a broadcaster and/or their authorised agencies and re-transmits the same to consumers and/or re-transmits the same to one or more cable operators and includes his/her authorised distribution agencies.'. 
+
+
+
+
+</article> 
+
+  
+  
+ <article><title><number>3</number> General Provisions relating to Non-Discrimination in Interconnect Agreements. </title>-3.1 No broadcaster of TV channels shall engage in any practice or activity or enter into any understanding or arrangement, including exclusive contracts with any distributor of TV channels that prevents any other distributor of TV channels from obtaining such TV channels for distribution. 
+ </article><article><number>3</number>2 Every broadcaster shall provide on request signals of its TV channels on non-discriminatory terms to all distributors of TV channels, which may include, but be not limited to a cable operator, direct to home operator, multi-system operator, head ends in sky operator; <footcitenum>14</footcitenum>[HITS operators and multi system operators shall also, on request, re-transmit signals received from a broadcaster, on a non-discriminatory basis to cable operators:] 
+ Provided that this provision shall not apply in the case of a distributor of TV channels having defaulted in payment: 
+ Provided further that any imposition of terms which are unreasonable shall be deemed to constitute a denial of request: 
+ <footcitenum>15</footcitenum>[Provided also that the provisions of this sub-regulation shall not apply in the case of distributor of TV channels, who seeks signals of a particular TV channel from a broadcaster, while at the same time demanding carriage fee for carrying that channel on its distribution platform.] 
+ <footcitenum>16</footcitenum>[<footcitenum>17</footcitenum>[ Explanation 1 ].-The applicant distributors of TV channels intending to get signal feed from any multi-system operator other than the presently-affiliated multi system operator, or from any agent/any other intermediary of the broadcaster/multi system operator, or directly from broadcasters shall produce along with their request for services, a copy of the latest monthly invoice showing the dues, if any, from the presently-affiliated multi system operator, or from any agent/any other intermediary of the broadcaster/multi system operator who collects the payment for providing TV channel signals.] 
+ <footcitenum>18</footcitenum>[ Explanation 2.-The stipulation of "placement frequency" or "package/tier" by the broadcaster from whom the signals have been sought by a distributor of TV Channels , as a "pre-condition" for making available signals of the requested channel(s) shall also amount to imposition of unreasonable terms.] 
+ </article><article><footcitenum>16</footcitenum>[<number>3</number>3. Any broadcaster/multi system operator or any agent/any other intermediary of the broadcaster/multi system operator, who collects the payment for providing TV channel signals to any distributor of TV channels, shall issue monthly invoices to the distributor of TV channels. The monthly invoice shall clearly specify the arrears and current dues along with the due date for payment of the same. 
+ Explanation.- Any claim for arrears should be accompanied by proof of service of invoices for the period to which the arrears pertain.] 
+ </article><article><footcitenum>19</footcitenum>[<number>3</number>4] A broadcaster or his/her authroised distribution agency would be free to provide signals of TV channels either directly or through a particular designated agent or any other intermediary. A broadcaster shall not be held to be in violation of clauses 3.1 and 3.2 if it is ensured that the signals are provided through a particular designated agent or any other intermediary and not directly. Similarly a multi-system operator shall not be held to be in violation of clauses 3.1 and 3.2 if it is ensured that signals are provided through a particular designated agent or any other intermediary any not directly: 
+ Provided that where the signals are provided through an agent or intermediary the broadcaster/multi-system operator should ensure that the agent/intermediary acts in a manner that is 
+<section><number>a</number> consistent with the obligations placed under this regulation and (b) not prejudicial to competition. 
+ <footcitenum>20</footcitenum>[***] 
+ </section></article><article><footcitenum>16</footcitenum>[<number>3</number>5 Any <footcitenum>21</footcitenum>[broadcaster, multi system operator or HITS operator, as the case may be] or any agent/any other intermediary of the <footcitenum>21</footcitenum>[broadcaster, multi system operator or HITS operator, as the case may be] to whom a request for providing TV channel signals is made, should either provide the signals on mutually agreed terms to the distributor of TV channels who is seeking signals, or specify the terms and conditions on which they are willing to provide TV channel signals, in a reasonable time period but not exceeding sixty days from the date of the request. In case, the <footcitenum>21</footcitenum>[broadcaster, multi system operator or HITS operator, as the case may be] or any agent/any other intermediary of the <footcitenum>21</footcitenum>[broadcaster, multi system operator or HITS operator, as the case may be] to whom a request for providing TV channel signals is made, turns down the request for TV channel signals, the reasons for such refusal must also be conveyed within sixty days from the date of the request for providing TV channel signals so as to enable the distributor of TV channels to agitate the matter at the appropriate forum. 
+ Explanation. -The time limit of sixty days shall also include time taken by the broadcaster to refer the distributor of TV channels, who has made a request for signals, to its agent or intermediary and vice versa .] 
+ </article><article><footcitenum>22</footcitenum>[<number>3</number>6] The volume related scheme to establish price differentials based on number of subscribers shall not amount to discrimination if there is a standard scheme equally applicable to all similarly based distributors of TV channel(s). 
+ <footcitenum>23</footcitenum>[ Explanation. -"Similarly based distributor of TV channels" means distributors of TV channels operating under similar conditions. The analysis of whether distributors of TV channels are similarly based includes consideration of, but is not limited to, such factors as whether distributors of TV channels operate within a geographical region and neighbourhood, have roughly the same number of subscribers, purchase a similar service, use the same distribution technology. 
+ For the removal of doubts, it is further clarified that the distributors of TV channels using addressable systems including DTH, IPTV and such like cannot be said to be similarly based vis-a-vis distributors of TV channels using non addressable systems.] 
+ </article><article><number>3</number>7 The provisions of clauses 3.1 to 3.6 shall apply to the contracts already entered into, after <footcitenum>24</footcitenum>[90 days] from the date of this regulation coming into force. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+</article> 
+
+  
+  
+ <article><footcitenum>25</footcitenum>[<title><number>4</number> Disconnection of TV channel signals</title>. -4.1 No <footcitenum>26</footcitenum>[broadcaster, multi system operator or HITS operator, as the case may be] shall disconnect the TV channel signals to a distributor of TV channels without giving three weeks notice to the distributor clearly giving the reasons for the proposed action: 
+ Provided that a notice would also be required before disconnection of signals to a distributor of TV channels if there was <footcitenum>27</footcitenum>[a written agreement], permitting the distribution of the broadcasting service, which has expired due to efflux of time: 
+ Provided further that no notice would be required if there is no <footcitenum>28</footcitenum>[written agreement], permitting the distribution of the signals. 
+ </article><article><number>4</number>2 No distributor of TV channels shall disconnect the re-transmission of any TV channel without giving three weeks notice to the <footcitenum>26</footcitenum>[broadcaster, multi system operator or HITS operator, as the case may be] clearly giving the reasons for the proposed action. 
+ </article><article><number>4</number>3 A broadcaster/multi system operator/distributor of TV channels shall inform the consumers about such dispute to enable them to protect their interests. Accordingly, the notice to disconnect signals shall also be given in two local newspapers out of which at least one notice shall be given in local language in a newspaper which is published in the local language, in case the distributor of TV channels is operating in one district and in two national newspapers in case the distributor of TV channels is providing services in more than one district. The period of three weeks mentioned in sub-clauses 4.1 and 4.2 of this regulation shall start from the date of publication of the notice in the newspapers or the date of service of the notice on the service provider, whichever is later. 
+ Explanation 1.-In case the notice is published in two newspapers on different dates then the period of three weeks shall start from the latter of the two dates. 
+ <section><number>2</number> Broadcaster/multi system operator/distributors of TV channels may also inform the consumers through scrolls, on the concerned channel(s). However, issue of notice in newspapers shall be compulsory. 
+ </section></article><article><number>4</number>4 The notice in the newspapers must give the reasons in brief for the disconnection.] 
+
+
+
+
+
+
+</article> 
+
+  
+  
+ <article><footcitenum>29</footcitenum>[<title><number>4A</number> Interconnection Agreements to be in writing. </title>- 4A.1 It shall be mandatory for the broadcasters of pay channels and distributors of TV channels to reduce the terms and conditions of all their interconnection agreements to writing. 
+ </article><article><number>4A</number>2 No broadcaster of pay channels or distributor of TV channels, such as multi system operator or head/end in the sky operator, shall make available signals of TV channels to any distributor of TV channels without entering into a written interconnection agreement. 
+ </article><article><number>4A</number>3 Nothing contained in Regulation 4A.l or 4A.2 shall apply to any supply of signals or continuance of supply of signals of TV channels by a broadcaster or distributor of TV channels, such as multi system operator or head/end in the sky operator, in pursuance of or in compliance with any order or direction or judgment of any court or tribunal, including any order or direction or judgment of any court or tribunal on any proceeding pending before such court or tribunal. 
+ </article><article><number>4A</number>4 It shall be the responsibility of every broadcaster of pay channels who enters into an interconnection agreement with a distributor of TV channels to hand over a copy a signed interconnection agreement to such distributor of TV channels and obtain an acknowledgement in this regard within a period of 15 days from the date of execution of the agreement and, similarly, it shall be the responsibility of every multi system operator or head/end in the sky operator, as the case may be, who enters into an interconnection agreement with a cable operator to hand over a copy of signed interconnection agreement to such cable operator and obtain an acknowledgement in this regard within a period of 15 days from the date of execution of the agreement.] 
+
+
+
+</article> 
+
+  
+  
+ <article><footcitenum>30</footcitenum>[<title><number>5</number> Standard Interconnection Agreements. </title>-5.1 All broadcasters, multi system operators and cable <title></title>operators shall mutually negotiate and finalise their interconnection agreements in respect of areas notified by the Central Government under section 4A
+<section><number>1</number> of the Cable Television Networks (Regulation) Act, 1995 (7 of 1995) vide Notification No. S.O. 1231(E), dated 31-7-2006. <title></title>
+ </section></article><article><number>5</number>2 In case any of the service providers in the areas as notified by the Central Government vide Notification No. S.O. 1231(E), dated 31-7-2006, are not able to arrive at a mutually acceptable interconnection agreement within a time-period to be specified by the Authority through a direction, then they shall enter into interconnection agreements in terms of the standard interconnection agreements as specified in Schedule I (between broadcaster and multi system operator) or in Schedule II (between multi system operator and cable operator) to this Regulation, as the case may be, within a time period to be specified by the Authority for entering into standard interconnection agreements. 
+ Explanation. -For removal of doubts, in respect of areas notified by the Central Government referred to in clauses 5.1 and 5.2 above, it is clarified that if the service providers have already entered into mutually acceptable interconnection agreements by such date as specified in the direction issued by the Authority, then they need not take recourse to standard interconnection agreements specified in Schedules I and II. Further, those service providers, who have a pre-existing interconnection agreement as on the date of issue of this regulation, will also have the option, after the expiry of their existing agreement, to either enter into a mutually acceptable interconnection agreement, or failing which to enter into interconnection agreements as per the standard agreements specified in Schedules I and II, within a period to be specified by the Authority in the direction. 
+ </article><article><number>5</number>3 If the provisions of the standard interconnection agreements in Schedule I and II are in conflict with any Act, rule, regulation, direction or order of the Government, TDSAT or TRAI, as the case may be, then the provisions of such Act, rule, regulation, direction or order shall prevail.] 
+
+
+
+</article> 
+
+  
+  
+ <article><footcitenum>31</footcitenum>[
+
+ 
+<title><number>6</number> Prohibition of minimum guarantee clause. </title>-Where a distributor of TV channels is using a technology by which pay channels can only be seen through an addressable system, then no service provider shall stipulate, insist or provide for any clause in an interconnection agreement with such a distributor which would require such distributor to pay a minimum guaranteed amount as subscription fee for the services provided.] 
+
+
+
+</article> 
+
+  
+  
+ <article><footcitenum>32</footcitenum>[<title><number>7</number> Conversion of a Free To Air channel/Pay channel. </title>-7.1 The nature of any channel, i.e.,  Free To Air or Pay will normally remain the same for a period of one year. Any broadcaster of a Free To Air channel intending to convert the channel into a Pay Channel or any broadcaster of a Pay channel intending to convert the channel into a Free To Air channel shall inform the Authority and give public notice in the manner specified in clause 4.3, one month before the scheduled date of conversion.] <title></title>
+
+
+
+</article> 
+
+  
+  
+ <article>[
+
+ 
+<title><number>8</number> Time period for renewal of existing agreements </title>.-8.1 Parties to an interconnection agreement for supply of TV channel signals shall begin the process of negotiations for renewal of existing agreement at least two months before the due date of expiry of the existing agreement:
+ Provided that if the negotiations for renewal of the interconnection agreement continue beyond the due date of expiry of the existing agreement then the terms and conditions of the existing agreement shall continue to apply till a new agreement is reached or for the next three months from the date of expiry of the original agreement, whichever is earlier. However, once the parties reach an agreement, the new commercial terms shall become applicable from the date of expiry of the original agreement: 
+ Provided further that if the parties are not able to arrive at a mutually acceptable new agreement, then any party may disconnect the retransmission of TV channel signals at any time after the expiry of the original agreement after giving a three weeks notice in the manner specified in clause 4.3. The commercial terms of the original agreement shall apply till the date of disconnection of signals.] 
+
+
+</article> 
+
+  
+  
+ <article><footcitenum>33</footcitenum>[<title><number>9</number> Finalising Subscriber Base at the time of first agreement. </title>-9.1 First agreement between Multi System Operator and Cable Operator. -In non-addressable systems, while executing an interconnection agreement for the first time between a multi system operator and a cable operator, the parties to the agreement shall take into account the subscriber base of the cable operator on the basis of the Subscriber Line Report (SLR) where such SLR exists. Where such SLR does not exist, this shall be negotiated on the basis of the evidence provided by the two parties on the subscriber base, including the subscriber base of similarly placed cable operators and local survey. 
+ Explanation. -The Subscriber Line Report (SLR) is only an indicative basis for arriving at the subscriber base and the subscriber base as mutually agreed by the two parties could be more than or less than the number indicated by the SLR. 
+ </article><article><number>9</number>2 First agreement between Multi System Operator and Broadcaster. -In non-addressable systems, while executing an interconnection agreement for the first time between a multi system operator and a broadcaster, the multi system operator shall furnish a list of the cable operators who will be getting signals from its network along with their subscriber base. The parties to the agreement shall take into account the subscriber base of cable operators connected to the multi system operator while negotiating the subscriber base of the multi system operator. For the consumers proposed to be directly served by the multi system operator, the procedure as laid down in sub-clause 9.1 of this regulation shall be followed.] 
+
+
+
+</article> 
+
+  
+  
+ <article><footcitenum>34</footcitenum>[<title><number>10</number> Variation of Subscriber Base during validity of agreement </title>.-10.1 Between Multi System Operator and Cable Operator. -In non-addressable systems, the subscriber base agreed upon by the parties at the time of execution of the interconnection agreement between a multi system operator and a cable operator shall remain fixed during the course of the agreement except in exceptional circumstances that warrant an increase or decrease in the subscriber base. In such an eventuality, it is for the service provider seeking a change in the subscriber base to provide reasons and accompanying evidence including local survey for the proposed change. 
+ </article><article><number>10</number>2 Between Multi System Operator and Broadcaster. -In non-addressable systems, the subscriber base agreed upon by the parties at the time of execution of the interconnection agreement between a multi system operator and a broadcaster shall remain fixed during the course of the agreement except in exceptional circumstances that warrant an increase or decrease in the subscriber base. In such an eventuality, it is for the service provider seeking a change in the subscriber base to provide reasons and accompanying evidence including local survey for the proposed change: 
+ Provided that this sub-clause shall not apply to changes in the subscriber base of a multi system operator on account of any cable operator joining or leaving the multi system operator: 
+ Provided further that any change in the subscriber base of a multi system operator, which is the basis of payment to a broadcaster, on account of any cable operator joining or leaving the network of the multi system operator shall be equal to the subscriber base of the cable operator, joining or leaving the network.] 
+
+
+
+</article> 
+
+  
+  
+ <article><footcitenum>35</footcitenum>[<title><number>11</number> Finalising Subscriber Base at the time of Renewal of agreement. </title>-11.1 Between Multi System Operator and Cable Operator. -In non-addressable systems, negotiations on revision of subscriber base at the time of renewal of interconnection agreement between a multi system operator and a cable operator shall take into account the changes in subscriber base of the cable operator over the past three years, as well as the changes in subscriber base of other cable operators operating in the area in which the cable operator is operating and its adjoining areas for the current period. 
+ </article><article><number>11</number>2 Between Multi System Operator and Broadcaster. -In non-addressable systems, negotiations on revision of subscriber base at the time of renewal of interconnection agreement between a multi system operator and a broadcaster shall take into account the changes in subscriber base of the multi system operator over the past three years, as well as the changes in subscriber base of other multi system operators operating in the area in which the multi system operator is operating and its adjoining areas for the current period.] 
+
+
+
+</article> 
+
+  
+  
+ <article><footcitenum>36</footcitenum>[<title><number>12</number> Monthly Subscriber Base Statement. </title>-12.1 In non-addressable systems, the multi system operators shall furnish the updated list of cable operators along with their subscriber base to the broadcasters on a monthly basis.] 
+
+
+
+</article> 
+
+  
+  
+ <article><footcitenum>37</footcitenum>[<title><number>13</number> </title><title><footcitenum>38</footcitenum>[Reference Interconnect Offers for non-addressable systems. </title>-13.1 All broadcasters shall submit] within 90 days of issue of this Regulation, copies of their Reference Interconnect Offers (RIO) describing, inter-alia , the technical and commercial conditions for interconnection for non-addressable systems to the Authority. The same shall be published by the broadcasters and a copy shall also be put up on their websites after the terms and conditions of the draft reference interconnect offer are submitted to the Authority. The reference interconnect offer so published by the broadcaster shall form the basis for all interconnection agreements to be executed thereafter. 
+ </article><article><number>13</number>2 A published reference interconnect offer may undergo any change only after prior intimation to the Authority. Interconnection agreements shall be entered into by all broadcasters based on the reference interconnect offers so published, provided, however, that by mutual agreement, the parties concerned may modify and/or add to the terms and conditions stipulated in the published reference interconnect offer for entering into an individualised agreement.] 
+ </article><article><title> </title><title><footcitenum>39</footcitenum></title>[<number>13</number>2A Reference Interconnect Offers for direct to home service. 
+ </article><article><title> </title><title><footcitenum>40</footcitenum></title>[<number>13</number>2A.1 Every broadcaster, providing broadcasting services before the date of commencement of the <title> </title><title><footcitenum>41</footcitenum></title>[Telecommunication (Broadcasting and Cable Services) Interconnection (Sixth Amendment) Regulation, 2010 (4 of 2010)] and continues to provide such services after such commencement shall, within thirty days from the date of such commencement, intimate to all the direct to home operators existing on that date and coming into existence within the said period of thirty days, its Reference Interconnect Offer specifying, inter-alia , the technical and commercial terms and conditions for interconnection for the direct to home platform, including the terms and conditions listed in Schedule III to these regulations: 
+ Provided that no broadcaster shall, directly or indirectly, compel any direct to home operator not to make available its direct to home service to any class of subscribers including commercial subscribers: 
+ Provided further that a broadcaster may have a different Reference Interconnect Offer for supply of signals by the direct to home operators:- 
+ 
+ <section><number>a</number> to the following categories of commercial subscribers, namely:- 
+ 
+ <subsection><number>i</number> hostels with rating of three star and above; 
+ </subsection><subsection><number>ii</number> heritage hotels (as described in the guidelines for classification of hotels issued by Department of Tourism, Government of India); 
+ </subsection><subsection><number>iii</number> any other hotel, motel, inn and such other commercial establishment providing board and lodging and having fifty or more rooms; and 
+</subsection>
+ </section><section><number>b</number> in respect of programmes of such broadcaster, shown on the occasion of a special event for common viewing, at any place registered under the Entertainment Tax Law and to which access is allowed on payment basis for a minimum of fifty persons. 
+</section>
+ Explanation .-For removal of doubts, it is clarified that the reference interconnect offer containing various terms and conditions including commercial terms, published by a broadcaster for provision of signals to ordinary subscribers shall apply to provision of signals to commercial subscribers not specified in the second proviso.] 
+ </article><article><number>13</number>2A.2 Every broadcaster shall publish a copy of the Reference Interconnect Offer, referred to in sub regulation 13.2A.1, on its website: 
+ Provided that any broadcaster, who had intimated or published on its website, before the commencement of <title><footcitenum>42</footcitenum></title>[the Telecommunication (Broadcasting and Cable Service) Interconnection (Sixth Amendment) Regulation, 2010 (4 of 2010)] any Reference Interconnect Offer, shall modify such Reference Interconnect Offer so as to be in conformity with the Reference Interconnect offer referred to in regulation 13.2A.1 and publish the same as required under this sub-regulation. 
+ </article><article><number>13</number>2A.3 Every broadcaster, who begins to provide broadcasting services after the date of commencement of <title><footcitenum>42</footcitenum></title>[the Telecommunication (Broadcasting and Cable Services) Interconnection (Sixth Amendment) Regulation, 2010 (4 of 2010)] shall, within ninety days of such commencement or before providing such services, whichever is later, intimate to all the direct to home operators existing on that date, its Reference Interconnect Offer specifying therein the the technical and commercial terms and conditions referred to in sub-regulation 13.2A.l and publish the same, before or simultaneously with such intimation, on its website. 
+ </article><article><number>13</number>2A.4 Every direct to home operator, who has been granted a licence after <title><footcitenum>43</footcitenum></title>[thirty days] from the date of commencement of <title><footcitenum>42</footcitenum></title>[the Telecommunication (Broadcasting and Cable Service) Interconnection (Sixth Amendment) Regulation, 2010 (4 of 2010)] , may request a broadcaster for being provided with a copy of Reference Interconnect Offer of such broadcaster and such broadcaster shall, within ten working days from the date of receipt of such a request, provide the same to the direct to home operator. 
+ </article><article><number>13</number>2A.5 Every broadcaster, who makes any modification to its Reference Interconnect Offer referred to in sub-regulation 13.2A.1 or sub-regulation 13.2A.3, shall, immediately after such modifications, intimate to all the direct to home operators such modifications so made to its Reference Interconnect Offer: 
+ Provided that all such modifications shall be published and exhibited on its website in the same manner as the Reference Interconnect Offer had been intimated to the direct to home operators and published on the website of the broadcasters. 
+ Agreements between the broadcasters and direct to home operators 
+ </article><article><number>13</number>2A.6 
+<section><number>1</number> The Reference Interconnect Offer of a broadcaster referred to in clause 13.2A.1 or 13.2A.3 or 13.2A.5, as the case may be, and intimated to the direct to home operators and published by the broadcaster on its website shall be the basis for all interconnection agreements to be entered into between the broadcaster and direct to home operators: 
+ Provided that the broadcaster may enter, on non-discriminatory basis, into agreements with different direct to home operators modifying the Reference Interconnect Offer on such terms and conditions as may be agreed upon between them: 
+ Provided further that in case a broadcaster had entered, before the commencement of <title><footcitenum>44</footcitenum></title>[the Telecommunication (Broadcasting and Cable Services) Interconnection (Sixth Amendment) Regulation, 2010 (4 of 2010)], into an agreement with any direct to home operator and publishes, subsequently, its Reference Interconnect Offer (including its modifications) under said regulations, such broadcaster shall, after publication of the said offer, give an option to such direct to home operator to either enter into an agreement in accordance with these regulations or continue with the agreement entered before such commencement till its validity. 
+ </section><section><number>2</number> No broadcaster, who had, before the commencement of <title><footcitenum>44</footcitenum></title>[the Telecommunication (Broadcasting and Cable Services) Interconnection (Sixth Amendment) Regulation, 2010 (4 of 2010)], entered into an agreement with a direct to home operator and such direct to home operator has given an option under sub-regulation (1), to enter into an agreement with such broadcaster in accordance with the Reference Interconnect Offer published after such commencement, shall disconnect signals (except in accordance with these regulations or any other law for the time being in force) during the period beginning from the date on which such operator gave the option and ending on the date on which such agreement was entered in accordance with the Reference Interconnect Offer or the date of expiry of earlier agreement, whichever was earlier. 
+ </section><section><number>3</number> No broadcaster, who had, before the commencement of <title><footcitenum>44</footcitenum></title>[the Telecommunication (Broadcasting and Cable Services) Interconnection (Sixth Amendment) Regulation, 2010 (4 of 2010)], entered into an agreement with a direct to home operator and such direct to home operator has given an option under sub-regulation (1), to continue with the agreement entered, before such commencement, with such broadcaster, shall disconnect signals of such operator (except in accordance with these regulations or any other law for the time being in force) during the validity of such agreement. 
+ Time limit for entering into agreements between the broadcasters  
+  and direct to home operators. 
+ </section></article><article><number>13</number>2A.7 
+<section><number>1</number> Every broadcaster shall, within a period of forty-five days from the date of receipt of request from a direct to home operator for entering into interconnection agreement or for modification of an interconnection agreement already entered, shall enter into an agreement, or, modify such agreement already entered, with such direct to home operator, in accordance with the Reference Interconnect Offer published under these regulations. 
+ </section><section><number>2</number> In case a broadcaster intimates any modification as referred to in Regulation 13.2A.5, the agreement referred to in sub-regulation (1) shall be modified at the option of the direct to home operator, in the same manner as that of entering into of an agreement under sub-regulation (1). 
+ </section></article><article><number>13</number>2A.8 In case the broadcaster and the direct to home operator fail to enter into an interconnection agreement, then both of them may jointly, without prejudice to the provisions of Section 14A of the Act, at any time, request the Authority to facilitate in the process for entering into an interconnection agreement. 
+ </article><article><number>13</number>2A.9 Nothing contained in clause 13.2A.8 shall be construed to take away any legal right conferred upon the broadcaster and the direct to home operator under any law for the time being in force and either of them may, at any time during the facilitation process, exercise such right conferred upon them under any law for the time being in force. 
+ </article><article><number>13</number>2A.10 Nothing contained in Clause 13.2A.8 or 13.2A.9 shall apply to any matter or issue for which - 
+ 
+ <section><number>a</number> any proceedings are pending before any court or tribunal under the Act or any other law for the time being in force; or 
+ </section><section><number>b</number> a decree, award or an order has already been passed by any competent court or tribunal or Authority, as the case may be. 
+</section>
+ Compulsory offering of channels on a-la-carte basis. 
+ </article><article><number>13</number>2A.11 It shall be mandatory on the part of the broadcasters to offer pay channels on a-la-carte basis to direct to home operators and such offering of channels on a-la-carte basis shall not prevent the broadcaster from offering such pay channels additionally in the form of bouquets: 
+ Provided that no broadcaster shall, directly or indirectly, compel any direct to home operator to offer <title><footcitenum>45</footcitenum></title>[any channel or channels or bouquet] or bouquets offered by the broadcaster to such operator in any package or scheme being offered by such direct to home operator to its direct to home subscribers. 
+ </article><article><number>13</number>2A.12 The rates for pay channels on a-la-carte basis and rates for bouquets shall be subject to the following conditions, namely:- 
+ 
+ <section><number>a</number> The sum of the a-la-carte rates of the pay channels forming part of such a bouquet shall in no case exceed one and half times of the rate of that bouquet of which such pay channels are a part; and 
+ </section><section><number>b</number> the a-la-carte rates of each pay channel, forming part of such a bouquet, shall in no case exceed three times the average rate of a pay channel of that bouquet of which such pay channel is a part and the average rate of a pay channel of the bouquet be calculated in the following manner, namely:- 
+</section>
+ If the bouquet rate is Rs. 'X' per month per subscriber and the number of pay channels is 'Y' in a bouquet, then the average pay channel rate of the bouquet shall be Rs. 'X' divided by number of pay channels 'Y'. 
+ </article><article><number>13</number>2A.13 Every direct to home operator, who, after the commencement of the Telecommunication (Broadcasting and Cable Services) Interconnection (Fourth Amendment) Regulation, 2007 (9 of 2007), opts for one bouquet or more bouquets (hereafter referred to as the opted bouquet) offered by a broadcaster, may decide the packaging of the channels from such bouquet or bouquets which may be offered by it to its direct to home subscribers: 
+ Provided that in a case where a direct to home operator- 
+ 
+ <section><number>a</number> does not offer such opted bouquet as a whole to its direct to home subscribers but offers to such subscribers only certain channels comprised in such opted bouquet; or 
+ </section><section><number>b</number> packages the channels comprised in such opted bouquet in a manner resulting in different subscriber base for different channels comprised in such opted bouquet, 
+</section>
+ then, the payment, to the broadcaster for such entire opted bouquet by the direct to home operator, shall be calculated on the basis of the subscriber base for the channel which has the highest subscriber base amongst the channels comprised in that bouquet.] 
+ </article><article><title><footcitenum>46</footcitenum></title>[<number>13</number>2B Reference Interconnect Offers for addressable systems other than direct to home service. 
+ </article><article><number>13</number>2B.1 Every broadcaster, providing broadcasting services before the date of commencement of <title><footcitenum>47</footcitenum></title>[the Telecommunication (Broadcasting and Cable Services) Interconnection (Sixth Amendment) Regulation, 2010 (4 of 2010)] and continues to provide such services after such commencement shall, within thirty days from the date of such commencement, submit its Reference Interconnect Offer specifying, inter alia , the technical and commercial terms and conditions including those listed in Schedule III for interconnection with addressable systems other than- 
+ 
+ <section><number>a</number> cable service in areas notified by the Central Government under sub-section (1) of Section 4A of the Cable Television Networks (Regulation) Act, 1995 (7 of 1995); 
+ </section><section><number>b</number> the direct to home service, to the Authority. 
+</section>
+ </article><article><number>13</number>2B.2 Every broadcaster, who begins to provide broadcasting services after the date of commencement of 2 [the Telecommunication (Broadcasting and Cable Services) Interconnection (Sixth Amendment) Regulation, 2010 (4 of 2010)] shall, within thirty days of such commencement or before providing such services, whichever is later, submit to the Authority, its Reference Interconnect Offer specifying therein the technical and commercial terms and conditions referred to in sub-regulation 13.2B.1 and publish the same, before or simultaneously with such intimation, on its website. 
+ </article><article><number>13</number>2B.3 The provisions of Regulations 13.2A1, 13.2A.2, 13.2A.4, 13.2A.5, 13.2A.6, 13.2A.7, 13.2A.8, 13.2A.9, 13.2A.10, 13.2A.11, 13.2A.12, and 13.2A.13, relating to Reference Interconnect Offers for direct to home service, shall apply, mutatis mutandis , to such a Reference Interconnect Offer for interconnection with addressable systems other than cable service in areas notified by the Central Government under sub-section 
+<section><number>1</number> of Section 4-A of the Cable Television Networks (Regulation) Act, 1995 (7 of 1995) and the direct to home service: 
+ Provided that a broadcaster may have different Reference Interconnect Offers for different types of addressable systems. 
+ </section></article><article><number>13</number>2B.4 Any distributor of TV channels using an addressable system for distribution of TV channels seeking interconnection with a broadcaster in terms of the Reference Interconnect Offer referred to in Regulation 13.2B.l or 13.2B.2, as the case may be, shall ensure that the addressable system being used for distribution of TV channels satisfies the minimum specifications for addressable systems as specified in Schedule IV to these regulations: 
+ Provided that in cases where a broadcaster is of the opinion that the addressable system being used for distribution of TV channels does not satisfy the minimum specifications for addressable systems as specified in Schedule IV to these regulations, upon being informed of such opinion by the broadcaster, the distributor of TV channels shall get the addressable system audited by M/s. Broadcast Engineering Consultants India Ltd., or any other agency as may be notified by the Authority from time to time for the purpose of such audit and obtain a certificate to the effect that the addressable system being used for distribution of TV channels satisfies the minimum specifications for addressable systems as specified in Schedule IV to these regulations: 
+ Provided further that the finding of M/s Broadcast Engineering Consultants India Ltd., or any other agency notified by the Authority in this regard, as the case may be, based on such audit as referred to in the first proviso, about the addressable system being used for distribution of TV channels satisfying or not satisfying the minimum specifications for addressable systems as specified in Schedule IV to these regulations, shall be final.] 
+ </article><article><title><footcitenum>48</footcitenum></title>[<number>13</number>3 In case the Authority is of the opinion that the Reference Interconnect Offer requires modifications so as to protect the interests of service providers or consumers of the broadcasting sector and cable sector, or to promote or ensure orderly growth of the broadcasting sector and cable sector or the Reference Interconnect Offer has not been prepared in accordance with the provisions of these regulations, it may, after giving an opportunity of being heard to the concerned broadcaster, require the concerned broadcaster to modify the said offer and such broadcaster shall make such modifications and publish, within fifteen days of receipt of requirement for the modifications, the said offer after incorporating such modifications.] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</article> 
+
+  
+  
+ <article><footcitenum>49</footcitenum>[<title>14]. Explanatory Memorandum. </title>-5.1 Annex A to this order contains an Explanatory Memorandum for the issue of this regulation. (Annex A not published) 
+
+
+
+</article><form>
+ 
+
+THE TELECOMMUNICATION (BROADCASTING AND CABLE SERVICES) INTERCONNECTION REGULATIONS, 20041
+ 
+
+ 
+ 
+
+ 
+ 
+
+SCHEDULE I 
+ 
+
+(See clause 5.2) 
+ 
+
+STANDARD TECHNICAL AND COMMERCIAL INTERCONNECTION AGREEMENTS [BETWEEN BROADCASTER AND  
+
+  MULTI SYSTEM OPERATOR (MSO)] 
+ 
+
+-----
+ 
+
+1. Vide Notification No. 402-30/2001-FN, dated 15th November, 2002.
+</form><form>
+ 
+
+THE TELECOMMUNICATION (BROADCASTING AND CABLE SERVICES) INTERCONNECTION REGULATIONS, 20041
+ 
+
+ 
+ 
+
+ 
+ 
+
+SCHEDULE II 
+ 
+
+(See clause 5.2) 
+ 
+
+STANDARD TECHNICAL AND COMMERCIAL INTERCONNECTION AGREEMENTS [BETWEEN MULTI SYSTEM OPERATOR (MSO)  
+
+  AND CABLE OPERATOR (CO)] 
+ 
+
+ 
+ 
+
+-----
+ 
+
+1. Vide Notification No. 402-30/2001-FN, dated 15th November, 2002.
+</form><form>
+ 
+
+THE TELECOMMUNICATION (BROADCASTING AND CABLE SERVICES) INTERCONNECTION REGULATIONS, 20041
+ 
+
+ 
+ 
+
+ 
+ 
+
+SCHEDULE III 
+ 
+
+TERMS AND CONDITIONS WHICH SHOULD COMPULSORILY 
+  FORM PART OF REFERENCE INTERCONNECT OFFERS FOR  
+
+  INTER-CONNECTION FOR THE DIRECT TO HOME 
+  PLATFORM AND OTHER ADDRESSABLE PLATFORMS. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+-----
+ 
+
+1. Vide Notification No. 402-30/2001-FN, dated 15th November, 2002.
+</form><form>
+ 
+
+THE TELECOMMUNICATION (BROADCASTING AND CABLE SERVICES) INTERCONNECTION REGULATIONS, 20041
+ 
+
+ 
+ 
+
+ 
+ 
+
+SCHEDULE IV 
+ 
+
+SPECIFICATION FOR SET-TOP-BOXES (STBS), CONDITIONAL ACCESS SYSTEM (CAS) AND SUBSCRIBERS MANAGEMENT SYSTEM (SMS) 
+  FOR IMPLEMENTATION OF DIGITAL ADDRESSABLE SYSTEMS. 
+ 
+
+ 
+ 
+
+-----
+ 
+
+1. Vide Notification No. 402-30/2001-FN, dated 15th November, 2002.
+</form>
+<pagefootnote>
+<pagenote><number>1</number> Subs. by Notification No. 11-13/2006-B&amp;CS, dated 24th August, 2006, for sub-clause (a).</pagenote>
+
+<pagenote><number>2</number> Ins. by Notification No. 4-54/2007-B&amp;CS, dated 3rd September, 2007 (w.e.f. 1-12-2007).</pagenote>
+
+<pagenote><number>3</number> Ins. by Notification No. F. No. 3-21/2009-B&amp;CS, dated 17th March, 2009. (w.e.f. 17-3-2009).</pagenote>
+
+<pagenote><number>4</number> Ins. by Notification No. 4-54/2007-B&amp;CS, dated 3rd September, 2007 (w.e.f. 1-12-2007).</pagenote>
+
+<pagenote><number>5</number> Sub-clause (ia) renumbered as sub-clause (ib) by Notification No. F. No. 3-21/2009-B&amp;CS, dated 17th March, 2009 (w.e.f. 17-3-2009).</pagenote>
+
+<pagenote><number>6</number> The words "in KU band" omitted by Notification No. 4-54/2007-B&amp;CS, dated 3rd September, 2007 (w.e.f. 1-12-2007).</pagenote>
+
+<pagenote><number>7</number> Ins. by Notification No. 4-54/2007-B&amp;CS, dated 3rd September, 2007 (w.e.f. 1-12-2007).</pagenote>
+
+<pagenote><number>8</number> Subs. by Notification No. F. No. 6-7/2010-B&amp;CS, dated 30th July, 2010, for clause (l) (w.e.f.</pagenote>
+
+<pagenote><number>9</number> Ins. by Notification No. F. No. 3-21/2009-B&amp;CS, dated 17th March, 2009 (w.e.f. 17-3-2009).</pagenote>
+
+<pagenote><number>10</number> Subs. by Notification No. F. No. 6-7-/2010-B&amp;CS, dated 30th July, 2010, for clause (m) (w.e.f. 2-8-2010). Clause (m), before substitution, stood as under:</pagenote>
+
+<pagenote><number>11</number> Sub-clause (mc) renumbered as sub-clause (md) by Notification No. F. No. 3-21/2009 - B&amp;CS, dated 17th March, 2009 (w.e.f. 17-3-2009).</pagenote>
+
+<pagenote><number>12</number> Ins. by Notification No. 4-54/2007-B&amp;CS, dated 3rd September, 2007 (w.e.f. 1-12-2007).</pagenote>
+
+<pagenote><number>13</number> Ins. by Notification No. 6-4/2006-B&amp;CS, dated 4th September, 2006.</pagenote>
+
+<pagenote><number>14</number> Subs. by Notification No. F. No. 6-7-/2010-B&amp;CS, dated 30th July, 2010, for "Multi-system operators shall also on request re-transmit signals received from a broadcaster, on a non-discriminatory basis to cable operators:" (w.e.f. 2-8-2010).</pagenote>
+
+<pagenote><number>15</number> Ins. by Notification No. F.No. 3-21/2009-B&amp;CS, dated 17th March, 2009 (w.e.f. 17-3-2009).</pagenote>
+
+<pagenote><number>16</number> Ins. by Notification No. 6-4/2006-B&amp;CS, dated 4th September, 2006.</pagenote>
+
+<pagenote><number>17</number>  Explanation  re-numbered as  Explanation   1 by Notification No. F. No. 3-21/2009-B&amp;CS, dated 17th March, 2009 (w.e.f. 17-3-2009).</pagenote>
+
+<pagenote><number>18</number> Ins. by Notification No. F.No. 3-21/2009-B&amp;CS, dated 17th March, 2009 (w.e.f. 17-3-2009).</pagenote>
+
+<pagenote><number>19</number> Sub-regulation 3.3 renumbered as sub-regulation 3.4 by Notification No. 6-4/2006-B&amp;CS, dated 4th September, 2006.</pagenote>
+
+<pagenote><number>20</number> Clause 3.4 omitted by Notification No. 6-4/2006-B&amp;CS, dated 4th September, 2006.</pagenote>
+
+<pagenote><number>21</number> Subs. by Notification No. F. No. 6-7-/2010-B&amp;CS, dated 30th July, 2010, for "broadcaster/multi system operator" (w.e.f. 2-8-2010).</pagenote>
+
+<pagenote><number>22</number> Sub-regulation 3.5 renumbered as sub-regulation 3.6 by Notification No. 6-4/2006-B&amp;CS, dated 4th September, 2006.</pagenote>
+
+<pagenote><number>23</number> Subs. by Notification No. 6-4/2006-B&amp;CS, dated 4th September, 2006, for clause 4.</pagenote>
+
+<pagenote><number>24</number> Subs. by Notification No. 3-57/2005-B&amp;CS, dated 3rd March, 2005, for “120 days”.</pagenote>
+
+<pagenote><number>25</number> Subs. by Notification No. 3-57/2005-B&amp;CS, dated 3rd March, 2005, for "120 days".</pagenote>
+
+<pagenote><number>26</number> Subs. by Notification No. F. No. 6-7/2010-B&amp;CS, dated 30th July, 2010, for “broadcaster/multi system operator” (w.e.f. 2-8-2010).</pagenote>
+
+<pagenote><number>27</number> Subs. by Notification No. F. 3-21/2009-B&amp;CS, dated 17th March, 2009, for "an agreement, written or oral" (w.e.f. 17-3-2009).</pagenote>
+
+<pagenote><number>28</number> Sub. by Notification No. F. 3-21/2009-B&amp;CS, dated 17th March, 2009, for "agreement, written or oral" (w.e.f. 17-3-2009).</pagenote>
+
+<pagenote><number>29</number> Ins. by Notification No. F. 3-21/2009-B&amp;CS, dated 17th March, 2009 (w.e.f. 17-3-2009).</pagenote>
+
+<pagenote><number>30</number> Added by Notification No. 11-13/2006-B&amp;CS, dated 24th August, 2006.</pagenote>
+
+<pagenote><number>31</number> Added by Notification No. 11-13/2006-B&amp;CS, dated 24th August, 2006.</pagenote>
+
+<pagenote><number>32</number> Ins. by Notification No. 6-4/2006-B&amp;CS, dated 4th September, 2006.</pagenote>
+
+<pagenote><number>33</number> Ins. by Notification No. 6-4/2006-B&amp;CS, dated 4th September, 2006.</pagenote>
+
+<pagenote><number>34</number> Ins. by Notification No. 6-4/2006-B&amp;CS, dated 4th September, 2006.</pagenote>
+
+<pagenote><number>35</number> Ins. by Notification No. 6-4/2006-B&amp;CS, dated 4th September, 2006.</pagenote>
+
+<pagenote><number>36</number> Ins. by Notification No. 6-4/2006-B&amp;CS, dated 4th September, 2006.</pagenote>
+
+<pagenote><number>37</number> Ins. by Notification No. 6-4/2006-B&amp;CS, dated 4th September, 2006.</pagenote>
+
+<pagenote><number>38</number> Subs. by Notification 4-54/2007-B&amp;CS, dated 3rd September, 2007, for "  Reference Inter-connect Offer.  -13.1 All broadcasters shall submit" (w.e.f. 1-12-2007).</pagenote>
+
+<pagenote><number>39</number> Sub-regulation 13.2A (containing sub-regulations 13.2A.1 to 13.2A.13) ins. by Notification No. 4-54/2007-B&amp;CS, dated 3rd September, 2007 (w.e.f. 1-12-2007).</pagenote>
+
+<pagenote><number>40</number> Subs. by Notification No.F. 3-21/2009-B&amp;CS, dated 17th March, 2009, for sub-regulation 13.2A.1 (w.e.f. 17-3-2009).</pagenote>
+
+<pagenote><number>41</number> Subs. by Notification No. F. No. 6-7/2010-B&amp;CS, dated 30th July, 2010, for "Telecommunication (Broadcasting and Cable Services) Interconnection (Fifth Amendment) Regulation, 2009 (4 of 2009)" (w.e.f. 2-8-2010).</pagenote>
+
+<pagenote><number>42</number> Subs. by Notification No. F. No. 6-7/2010-B&amp;CS, dated 30th July, 2010, for "the Telecommunication (Broadcasting and Cable Services) Interconnection (Fifth Amendment) Regulation, 2009 (4 of 2009)" (w.e.f. 2-8-2010). Earlier these words were substituted by Notification No. F. 3-21/2009-B&amp;CS, dated 17th March, 2009, for "the Telecommunication (Broadcasting and Cable Services) Interconnection (Fourth Amendment) Regulation, 2007 (9 of 2007)" (w.e.f. 17-3-2009).</pagenote>
+
+<pagenote><number>43</number> Subs. by Notification No. F. 3-21/2009-B&amp;CS, dated 17th March, 2009, for "ninety days" (w.e.f. 17-3-2009).</pagenote>
+
+<pagenote><number>44</number> Subs. by Notification No. F. No. 6-7/2010-B&amp;CS, dated 30th July, 2010, for "the Telecommunication (Broadcasting and Cable Services) Interconnection (Fifth Amendment) Regulation, 2009 (4 of 2009)" (w.e.f. 2-8-2010). Earlier these words were substituted by Notification No. F. 3-21/2009-B&amp;CS, dated 17th March, 2009, for "the Telecommunication (Broadcasting and Cable Services) Interconnection (Fourth Amendment) Regulation, 2007 (9 of 2007)" (w.e.f. 17-3-2009).</pagenote>
+
+<pagenote><number>45</number> Subs. by Notification No.F. 3-21/2009-B&amp;CS, dated 17th March, 2009, for "the entire bouquet" (w.e.f. 17-3-2009).</pagenote>
+
+<pagenote><number>46</number> Ins. by Notification No. F. No. 3-21/2009-B&amp;CS, dated 17th March, 2009 (w.e.f. 17-3-2009).</pagenote>
+
+<pagenote><number>47</number> Subs. by Notification No. F. No. 6-7/2010-B&amp;CS, dated 30th July, 2010, for "Telecommunication (Broadcasting and Cable Services) Interconnection (Fifth Amendment) Regulation, 2009 (4 of 2009)" (w.e.f. 2-8-2010).</pagenote>
+
+<pagenote><number>48</number> Subs. by Notification 4-54/2007-B&amp;CS, dated 3rd September, 2007, for clause 13.3 (w.e.f. 
+  1-12-2007). Earlier clause 13.3 was inserted by Notification No. 6-4/2006-B&amp;CS, dated 4th September, 2006.</pagenote>
+
+<pagenote><number>49</number> Regulation 7 renumbered as regulation 14 by Notification No. 6-4/2006-B&amp;CS, dated 
+  4th September, 2006. Earlier regulation 5 was renumbered as regulation 7 by Notification 
+No. 11-13/2006-B&amp;CS, dated 24th August, 2006.</pagenote>
+</pagefootnote>
+</act>

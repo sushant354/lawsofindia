@@ -1,0 +1,219 @@
+<act><title>THE REGULATION ON QUALITY OF SERVICE OF DIAL-UP AND LEASED LINE INTERNET ACCESS SERVICE, 20011</title> 
+
+  
+  
+ <article><title><number>1</number> Short title, extent and commencement. </title>-
+<section><number>i</number> The title of this regulation shall be 'Regulation on Quality of Service of Dial-up and Leased Line Internet Access Service, 2001.' 
+ 
+ 
+
+
+
+</section><section><number>ii</number> This regulation shall be applicable to all the Basic Service Operators and Internet Service Providers including the incumbent operators viz ., BSNL, MTNL and VSNL. 
+ </section><section><number>iii</number> This regulation shall come into effect from the date<footcitenum>1</footcitenum> of its notification in the Official Gazette. 
+</section></article> 
+
+  
+  
+ <article><title><number>2</number> Definitions. </title>-In this regulation, unless the context otherwise requires,- 
+ 
+ <section><number>i</number> 'Act' means the Telecom Regulatory Authority of India Act, 1997, as amended by, TRAI (Amendment) Act, 2000 and as amended from time to time. 
+ </section><section><number>ii</number> 'Authority' means the Telecom Regulatory Authority of India. 
+ </section><section><number>iii</number> 'Grade Of Service (GOS)' means the ratio of blocked calls and calls offered on a circuit group link connecting two nodes in a pubic switched network. It is measured during Time Consistent Busy Hour (TCBH). Busy Hour is defined as the 60 minutes period during the day when the traffic is the highest for a given number of days. For this purpose, ITU recommends taking traffic (Erlangs) measurements at 15 minutes interval by suitable man-machine commands, to establish the Busy Hour. For establishing the time consistency of the Busy Hour, the measurements are to be taken over a period of 90 days. 
+ </section><section><number>iv</number> 'Regulation' means the Regulation on Quality of Service of Dial-up and Leased Line Internet Access Service notified by the Authority under the 'Act'. 
+ </section><section><number>v</number> 'Service Provider' in the context of this regulation means a legal entity holding an ISP licence. 
+ </section><section><number>vi</number> 'Quality of Service (QOS)' means the indicator of performance of a network and of the degree to which the network conforms to the stipulated norms. The subscriber's perception of the Quality of Service is determined by a number of performance parameters, some of which have been specified in this regulation. 
+</section>
+
+
+
+</article> 
+
+  
+  
+ <article><title><number>3</number> Purpose of laying down Quality of Service Parameters. </title>-The purpose of laying down Quality of Service Parameters is to- 
+ 
+ <section><number>i</number> Ensure customer satisfaction by laying down norms of network performance, which the service provider is required to achieve by proper dimensioning of his network. 
+ </section><section><number>ii</number> Measure the Quality of Service from time to time and to compare that with the specified norms so as to monitor the level of performance, provided by various service providers. 
+ </section><section><number>iii</number> To generally protect the interests of subscribers of the Internet services. 
+</section>
+
+
+</article> 
+
+  
+ <article><title><number>4</number> Quality of Service Benchmarks for Dial-up access to the ISP Node—</title>
+ 
+ 
+  
+ Parameters/Service Indicators of dial-up access
+ Benchmarks (to be achieved within 6 months)
+
+ 
+ A
+ Service Activation Time 
+ 6 hrs
+
+ 
+ B
+  Service Accessibility—  
+  (I) Time to access 
+ II) Probability of accessing the 
+ISP node in the;
+ a) First attempt
+ <section><number>b</number> Second attempt
+ </section><section><number>c</number> Third attempt
+ <subsection><number>III</number> ISP node unavailability in a month not to exceed 
+   
+ 30 sec   
+  
+ 80%
+ 90%
+ 99%  30 min 
+   
+
+ 
+ C
+ Grade of Service (GOS) on the link 
+connecting PSTN node to the ISP node
+ 1 in 100
+
+
+ While for A and B the ISP will be responsible, for C, both ISP and BSO will be responsible. Where necessary both these parties will address the problem jointly. 
+  Details regarding measurement of the above parameters and other engineering details are indicated in section A of the explanatory memorandum annexed.
+
+
+</subsection></section></article> 
+
+  
+ <article><title><number>5</number> Quality of Service Benchmarks for Leased Line Access Service. </title>-Leased line access services are generally offered by Internet Gateway Service Providers (IGSPs) holding an ISP licence. These services are offered either to Enterprises to connect their Local Area Networks (LANs) to the Internet by point-to-point leased lines, or to ISPs who do not have their own International gateway facilities, so as to provide them access to International Internet Backbone abroad. The Authority mandates that the parties concerned enter into a Service Level Agreement (SLA), guaranteeing some minimum level of performance in regard to Latency, Packet Loss and Service Availability. 
+ The leased line service provider should offer suitable rebate to his customer for the period the service was unavailable during a month. The quantum of rebate may be mutually negotiated and incorporated in the SLA , by a suitable 'Rebate Clause'. A copy of the SLA signed by the parties may be filed with the Authority. 
+ While at this stage the Authority is making only a recommendation in respect of the performance parameters to be embedded in the SLA , at a later date, based on its experience in this regard, the Authority would consider making these mandatory. The Authority would recommend the following indicative values in regard to these parameters:- 
+ 
+ 
+  S. No.
+  Parameters
+  Benchmarks 
+
+ 
+ 1
+ Latency
+ Not to exceed 300 msec on Optical Fibre Communication (OFC) links between India and farthest node abroad. 
+Not to exceed 800 msec on satellite links between India and farthest node abroad.
+
+ 
+ 2
+  Packet loss 
+   
+ Not to exceed 1%
+  
+
+ 
+ 3
+ Availability
+ Not less than 99% 
+
+
+ Details regarding measurement of the above parameters and other engineering details are indicated in section B of the explanatory memorandum annexed. 
+
+
+</article> 
+
+  
+  
+ <article><title><number>6</number> Review. </title>-
+<section><number>i</number> The QOS parameters given in sections IV and V may be reviewed by the Authority from time to time. 
+ </section><section><number>ii</number> The Authority, on reference from any affected party, and for good and sufficient reasons, may review and modify this regulation. 
+  
+
+
+</section></article> 
+
+  
+  
+ <article><title><number>7</number> Explanatory Memorandum. </title>-This regulation contains an explanatory memorandum, as Annexure, which gives various engineering details as well as basis for setting the performance norms. 
+
+
+</article> 
+
+  
+  
+ <article><title><number>8</number> Over-riding Effect. </title>-Wherever higher quality parameter has been stipulated as a condition of license, the QOS as required by the license will over-ride the parameters given herein. 
+
+
+</article> 
+
+  
+  
+ <article><title><number>9</number> Interpretation. </title>-In case of disputes regarding interpretation of any of the provisions of this Regulation, the decision of the Authority shall be final and binding. 
+
+
+</article><form>
+ 
+
+THE REGULATION ON QUALITY OF SERVICE OF DIAL-UP AND LEASED LINE INTERNET ACCESS SERVICE, 20011
+ 
+
+ 
+ 
+
+ 
+ 
+
+ANNEXURE 
+ 
+
+EXPLANATORY MEMORANDUM 
+ 
+
+Section A 
+ 
+
+(i) Service activation time will be measured from the time a request for service alongwith requisite payment is received by the ISP till the service is activated. 
+ 
+
+(ii) Time to access is the time elapsed between giving of connect/dial command till the receipt of 'log-in' prompt, from the ISP node, on the customer's terminal equipment (PC/workstation etc.). 
+ 
+
+(iii) Unavailability of the ISP node is accumulated duration of time, the ISP node is inaccessible due to system down condition, i.e.,  total failure of Router, Server, Local Area Network etc., thereby, making the node non-operational for the purpose of Internet access. The specified period for measurement of this parameter i.e ., total system down time, is one month. 
+ 
+
+(iv) Based on inputs received during the consultation process, the Authority would recommend adoption of an engineering approach to dimension the number of time slots required to connect the PSTN node to the ISP node, to avoid congestion and consequent customer dissatisfaction due to repeat attempts, which result in ineffective use of operator's network elements. 
+ 
+
+(v) At Present, the link between the PSTN node and the ISP node (RAS) is being provided by adopting a 'rule of thumb' approach. Typically, one time slot is provided to cater to the traffic generated by 20 customers. Since such an approach may result in either over-provisioning or under-provisioning of resources (time slots on E1 links or physical pairs), it is mandated that the Basic Service Operators (BSOs) measure the Grade of Service, every quarter, by suitable man-machine commands and, if required, the ISP should augment the resources to guarantee a Grade of Service of I in 100 on the link as specified in section IV of this regulation. 
+ 
+
+(vi) The Authority has mandated a Grade Of Service norm for the circuit group connecting the PSTN node to the ISP node, as congestion on any link can degrade the performance of other links and nodes in the Public Switched Telephone Network of the BSOs. Any circuit group congestion in the PSTN results in reattempts being made by the subscriber to gain access to his called destination, thus causing congestion elsewhere in the network. 
+ 
+
+Section B 
+ 
+
+(i) Latency also called Round Trip Delay (RTD) is generally measured between two Designated Routers over a period of one month. For this purpose, a large number of sample measurements are taken over a month and average latency is calculated from these sample measurements. The benchmarks indicated are between two Designated Routers i.e. , one in India and another abroad. Two different values have been indicated to take into account transmission delays of the two types of media i.e ., OFC and Satellite. 
+ 
+
+(ii) Packet loss is the percentage of packets lost between two Designated Routers. Packet Loss is measured by averaging sample measurements for a month. 
+ 
+
+(iii) To calculate availability, the unavailability of the leased line access service is required to be calculated first. Unavailability is the accumulated period of the time the access service was not available to the customer. This period will be subtracted from the total service period to get the time period for which the service was available during the month. The availability will be calculated by taking the ratio of the available time period and the total service period. Typically, this should not be less than 99%. 
+ 
+
+Section C 
+ 
+
+(i) This regulation is the result of a consultation process to bring out all aspects of Quality of Service (QOS) relating to Internet Access. Discussions with Service providers, Consumer Organizations and general public were held in various parts of the country to get inputs from the stakeholders. Written comments and other types of feedback received from stakeholders have been duly taken into account in arriving at QOS parameters and benchmarks, recommended in this regulation. 
+ 
+
+(ii) Network performance parameters like Time to access, Probability of access, ISP node unavailability, Grade Of Service between PSTN node and ISP node shall be measured on sample basis by the Authority from time to time, directly or if it so chooses, through an independent agency appointed by the Authority. Suitable software tools for authentic measurements of these parameters by man-machine command shall be employed. 
+ 
+
+--------
+ 
+
+1. Vide Notification No. 1-12/2001-TRAI (CN), dated 10th December, 2001, published in the Gazette of India, Extra., Pt. III, Sec. 4, No. 330, dated 11th December, 2001. 
+</form>
+<pagefootnote>
+<pagenote><number>1</number> Came into force on 11-12-2001.</pagenote>
+</pagefootnote>
+</act>

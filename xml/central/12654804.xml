@@ -1,0 +1,372 @@
+<act><title>THE CENTRAL ELECTRICITY REGULATORY COMMISSION (SHARING OF INTER-STATE TRANSMISSION CHARGES AND LOSSES) REGULATIONS, 20101</title> 
+
+  
+  
+ <article><title><number>1</number> </title><title>Short title, extent and commencement. </title>-
+<section><number>1</number> These regulations may be called the Central Electricity Regulatory Commission (Sharing of Inter-State Transmission Charges and Losses) Regulations, 2010. 
+ </section><section><number>2</number> These regulations shall apply to all Designated ISTS Customers, Inter-State Transmission Licensees, NLDC, RLDC, SLDCs, and RPCs. 
+ </section><section><number>3</number> These regulations shall come into force from 1-1-2011, and unless reviewed earlier or extended by the Commission, shall remain in force for a period of 5 years from the date of commencement specified above. 
+
+
+</section></article> 
+
+  
+ <article><title><number>2</number> </title><title>Definitions. </title>-
+<section><number>1</number> In these regulations, unless the context otherwise requires,- 
+ 
+ <subsection><number>a</number> "Act" <title></title>means the Electricity Act, 2003 (36 of 2003); 
+ </subsection><subsection><number>b</number> "Application Period" means the period of application of the charges determined as per these regulations and shall ordinarily be 12 (twelve) months coinciding with the Financial Year, which shall be further divided into multiple blocks of months representing the seasonal conditions and peak and other than peak conditions; 
+ </subsection><subsection><number>c</number> "Approved Injection" means the injection in MW vetted by Implementing Agency (IA) for the Designated ISTS Customer for each representative block of months, peak and other than peak scenarios at the ex-bus of the generator or any other injection point of the Designated ISTS Customer into the ISTS, and determined based on the generation data submitted by the Designated ISTS Customers incorporating total injection into the grid, considering the long term and medium term contracts; 
+ </subsection><subsection><number>d</number> "Approved Additional Medium Term Injection" means the additional injection, as per the Medium Term Open Access approved by CTU after submission of data to NLDC by the Designated ISTS Customer over and above the Approved Injection for the Designated ISTS Customer for each representative block of months, peak and off-peak scenarios at the ex-bus of the generator or any other injection point of the Designated ISTS Customer into the ISTS; 
+ </subsection><subsection><number>e</number> "Approved Short Term Injection" means the injection, as per the Short Term Open Access approved by RLDC/NLDC such injection including all injections cleared on the power exchange; 
+ </subsection><subsection><number>f</number> "Approved Withdrawal" means the simultaneous withdrawal in MW vetted by Implementing Agency for any Designated ISTS Customer in a control area aggregated from all nodes of ISTS to which Designated ISTS Customer is connected for each representative block of months, peak and other than peak scenarios at the interface point with ISTS, and where the Approved Withdrawal shall be determined based on the demand data submitted by the Designated ISTS Customers. incorporating long term and medium term transactions; 
+ </subsection><subsection><number>g</number> "Approved Additional Medium Term Withdrawal" means additional withdrawal, as per the Medium Term Open Access approved by CTU after submission of data to NLDC by the Designated ISTS Customer over and above Approved Withdrawal for Designated ISTS Customers aggregated from all nodes of ISTS for each representative block of months, peak and other than peak scenarios at the interface point with the ISTS; 
+ </subsection><subsection><number>h</number> "Approved Short Term Withdrawal" means withdrawal, as per the Short Term Open Access approved by RLDC/NLDC and where such Withdrawal includes all withdrawals cleared on the power exchange; 
+ </subsection><subsection><number>i</number> "Basic Network" shall mean the power system of the country at voltage levels 132 kV and above and 110 kV where generators are connected, HVDC transmission network and all Generator and loads connected to it; 
+ </subsection><subsection><number>j</number> "Bulk Power Transmission Agreement (BPTA)" means the agreements between the ISTS licensees and the Designated ISTS Customers of the ISTS under the pre-existing arrangements for ISTS development and operations; 
+ </subsection><subsection><number>k</number> "Deemed Inter-State Transmission System (Deemed ISTS)" means such transmission system which has regulatory approval of the Commission as being used for interstate transmission of power and qualified as ISTS for the purpose of these regulations unless otherwise specified; 
+ </subsection><subsection><number>l</number> "Designated ISTS Customers ('DIC's)" means the users of any segments/elements of the ISTS and shall include all generators, state transmission utilities, SEBs or load serving entities directly connected to the ISTS including Bulk Consumer and any other entity/person; 
+ </subsection><subsection><number>m</number> "Hybrid Methodology" shall mean the hybrid of the Marginal Participation Method and the Average Participation method detailed in Chapter 3 of these regulations and in Annexure - I hereto. 
+ </subsection><subsection><number>n</number> "Implementing Agency (IA)" shall mean the agency designated by the Commission to undertake the estimation of allocation of transmission charges and transmission losses at various nodes/zones for the Application Period along with other functions as per [Chapter 4, Chapter 5, Chapter 6, Chapter 7 and Chapter-8] of these regulations; 
+ </subsection><subsection><number>o</number> "Loss Allocation Factor" of a bus measures the losses attributed to that node and shall be computed as explained in the Annexure I of these regulations; 
+ </subsection><subsection><number>p</number> "Monthly Transmission Charge" means the transmission charges (inclusive of incentives) payable for each calendar month as given in the Terms and Conditions of Tariff Regulations in force; 
+ </subsection><subsection><number>q</number> "Node" shall mean a sub-station or a switchyard of a generator; 
+ </subsection><subsection><number>r</number> "Point of Connection (PoC) Charging Method" shall mean the methodology of computation of sharing of ISTS charges and losses amongst Designated ISTS Customers, which depends on the location of the node in the grid and is calculated in accordance with  
+    regulation 7(1)(q)) and 7(1)(s)) of Chapter 4 of these regulations; 
+ </subsection><subsection><number>s</number> "Point of Connection (PoC) transmission charges" are the nodal/zonal charges determined using the Point of Connection charging method; 
+ </subsection><subsection><number>t</number> "Participation Factor of a node in any transmission line" means the percentage usage of that line by a node, whether a generator node or a demand node as explained in Annexure I of these regulations; 
+ </subsection><subsection><number>u</number> "Transmission Service Agreement (TSA)" shall mean the agreement to be entered into between the Designated ISTS Customer(s) and ISTS Licensee(s) in terms of Chapter 6; 
+ </subsection><subsection><number>v</number> "Uniform Charge" means the charge determined by dividing the Yearly Transmission Charge of the ISTS Licensees by the sum of the Approved Injection and Approved Withdrawal from the grid alternatively referred to as the postage stamp charge; 
+ </subsection><subsection><number>w</number> "Uniform Charge Sharing Mechanism" means the mechanism for determination of Uniform Charges; 
+ </subsection><subsection><number>x</number> "Uniform Loss" means the energy loss and shall be accounted for by providing a differential between schedules at the points of supply, inter-utility transfer and drawal of electricity and shall be computed as the percentage of energy lost in the grid; 
+ Explanation. -Uniform shall mean that such percentage loss is applied uniformly to all Designated ISTS Customers in a region irrespective of their location in the grid. 
+ </subsection><subsection><number>y</number> "Yearly Transmission Charge (YTC)" means the Annual Transmission Charges for existing lines determined by the Commission in accordance with the Terms and Conditions of Tariff Regulations or adopted in the case of tariff based competitive bidding in accordance with the Transmission License Regulations as specified by the Commission and as in force from time-to-time and for new lines based on benchmarked capital costs. 
+</subsection>
+ </section><section><number>2</number> Words and expressions used in these regulations and not defined herein but defined in the Act or regulations made by the Commission, shall have the meanings assigned to them respectively in the Act, and regulations made by the Commission from time-to-time. 
+
+
+</section></article> 
+
+  
+ <article><title><number>3</number> </title>Yearly Transmission Charges, revenue requirement on account of foreign exchange rate variation, changes in interest rates etc., as approved by the Commission and Losses shall be shared amongst the following categories of Designated ISTS Customers who use the ISTS:- 
+ 
+ <section><number>a</number> Power Stations/Generating Stations that are regional entities as defined in the Indian Electricity Grid Code (IEGC); 
+ </section><section><number>b</number> State Electricity Boards/State Transmission Utilities connected with ISTS (on behalf of distribution companies, generators and other bulk customers connected to the transmission system owned by the SEB/STU/intrastate transmission licensee); 
+ </section><section><number>c</number> Any bulk consumer directly connected with the ISTS; and 
+ </section><section><number>d</number> Any designated entity representing a physically connected entity as per clauses (a), (b) and (c) above. 
+</section>
+
+
+</article> 
+
+  
+ <article><title><number>4</number> </title><title>Principles for sharing ISTS charges and losses. </title>-
+<section><number>1</number> Based on the Yearly Transmission Charges of ISTS Transmission Licensees and transmission losses in the ISTS network, the Implementing Agency shall compute the Point of Connection charges and Loss Allocation Factors for all DICs:- 
+ 
+ <subsection><number>a</number> Using load-flow based methods; and 
+ </subsection><subsection><number>b</number> based on the Point of Connection Charging method. 
+</subsection>
+ </section><section><number>2</number> A detailed explanation of the Hybrid methodology to be applied for sharing the ISTS charges and losses amongst the Designated ISTS Customers is set out in Annexure I to these regulations, which may be reviewed by the Commission from time-to-time either upon an application by any interested party or otherwise. 
+
+
+</section></article> 
+
+  
+ <article><title><number>5</number> </title><title>Mechanism to share ISTS transmission charges. </title>-
+<section><number>1</number> The sharing of ISTS transmission charges between Designated ISTS Customers shall be computed for an Application Period and shall be determined in advance and shall be subject to periodic true-up as specified subsequently in these regulations. 
+ </section><section><number>2</number> The sharing of ISTS transmission charges shall be based on the technical and commercial information provided by various Designated ISTS Customers, ISTS Transmission Licensees, and any other relevant entity, including the NLDC, RLDCs and SLDCs to the Implementing Agency: 
+ Provided that in the event of such information not being available within the stipulated timeframe or to the level of detail required, the Commission may authorise the Implementing Agency to obtain such information from alternative sources as per the procedure as may be approved by the Commission in this behalf. 
+ </section><section><number>3</number> The mechanism for sharing of ISTS charges shall ensure that- 
+ 
+ <subsection><number>a</number> The Yearly Transmission Charge of the ISTS Licensees are fully and exactly recovered; and 
+ </subsection><subsection><number>b</number> Any adjustment towards Yearly Transmission Charge on account of change in commissioning schedule of elements of the power system and change in factors constituting the transmission charge, approved by the Commission, e.g. , FERV, Changes in interest rates shall be fully and exactly recovered etc., as specified subsequently in these regulations. 
+</subsection>
+ </section><section><number>4</number> The Point of Connection transmission charges shall be computed in terms of Rupees per Mega Watt per month. The amount to be recovered from any Designated ISTS Customer towards ISTS charges shall be computed on a monthly basis as per these regulations. The Point of Connection transmission charges for short term open access transactions shall be in terms of Rupees per MegaWatt per hour and shall be applicable for the duration of short term open access approved by the RLDC/NLDC. 
+ </section><section><number>5</number> The Implementing Agency may, after seeking approval of the Commission, conduct studies from time-to-time to refine the mechanism for sharing of transmission charges and losses as detailed in Annexure I to these regulations. 
+
+
+</section></article> 
+
+  
+ <article><title><number>6</number> </title><title>Mechanism of sharing of ISTS losses. </title>-
+<section><number>1</number> The schedule of electricity of Designated ISTS Customers shall be adjusted to account for energy losses in the transmission system as estimated by the Regional Load Despatch Centre and the State Load Despatch Centre concerned. These shall be applied in accordance with the detailed procedure to be prepared by NLDC within 30 days of the notification of these regulations. The losses shall be apportioned based on the loss allocation factors determined using the Hybrid methodology. 
+ </section><section><number>2</number> The sharing of ISTS losses shall be computed based on the information provided by various Designated ISTS Customers, ISTS Licensees, and any other relevant entity, including the NLDC, RLDCs and SLDCs and submitted to the Implementing Agency: 
+ Provided that in the event of such information not being available within the stipulated timeframe or to the level of detail required, the Commission may authorise the Implementing Agency to obtain such information from alternate sources as may be approved for use by the Commission. 
+ </section><section><number>3</number> The applicable transmission losses for the ISTS shall be declared in advance and shall not be revised retrospectively. 
+ </section><section><number>4</number> The Implementing Agency may, after seeking approval of the Commission, conduct studies from time-to-time to refine the ISTS loss allocation methods. 
+
+
+</section></article> 
+
+  
+ <article><title><number>7</number> </title><title>Process to determine Point of Connection Transmission Charges and Losses allocations. </title>-
+<section><number>1</number> The process to determine the allocation of transmission charges and losses shall be as under, and as per timelines set out subsequently in Chapter 7 of these regulations: 
+ 
+ <subsection><number>a</number> The Implementing Agency shall collect the Basic Network data pertaining to the network elements and the generation and load at the various network nodes from all concerned entities including Designated ISTS Customers, transmission licensees, NLDC, RLDCs, SLDCs, RPCs; 
+ </subsection><subsection><number>b</number> The Basic Network shall not contain any electricity system, electrical plant or line below 132 kV except where generators are connected to the grid at 110 kV. Power flow into a lower voltage system from the voltage levels indicated in the definition of the Basic Network shall be considered as load at that substation. Power flow from a lower voltage system into the electricity systems at the voltage levels shall be considered as generation at that sub-station; 
+ </subsection><subsection><number>c</number> The dedicated transmission lines constructed, owned and operated by the ISTS Licensees shall be considered to be a part of the Basic Network. Dedicated lines constructed, owned and operated by the generator shall not be considered as a part of the Basic Network. In the latter case, the generator will be deemed to be connected directly to the ISTS; 
+ </subsection><subsection><number>d</number> Nodal generation information shall be based on the forecast provided by Designated ISTS Customers. Such forecasts shall incorporate estimates of total injection into the grid, considering the long term and medium term contracts under representative block of months and peak and other than peak conditions. The forecast submitted shall be vetted by Implementing Agency based on historical generation levels obtained from the NLDC/RLDCs/SLDCs under such peak and other than peak conditions identified in advance by the NLDC. Any changes in the forecast generation shall be communicated to the appropriate Designated ISTS Customer by the Implementing Agency; 
+ </subsection><subsection><number>e</number> Forecast demand data shall be submitted by the Designated ISTS Customers for each node or a group of nodes in a zone, identified by Implementing Agency under these regulations. The forecast demand data shall incorporate estimates of medium term and long term demand under representative block of months and peak and other than peak conditions. The forecast submitted shall be vetted by Implementing Agency based on historical demand of each Designated ISTS Customer for all the months during specific peak and other than peak conditions identified by the NLDC. Any changes in the forecast demand shall be communicated to the appropriate Designated ISTS Customer by the Implementing Agency; 
+ </subsection><subsection><number>f</number> Implementing Agency shall prepare detailed procedures and formats for collection of the generation and demand data from each Designated ISTS Customer and the data pertaining to the Basic Network within 30 days of the notification of these regulations; 
+ </subsection><subsection><number>g</number> In the event of any conflict between the Designated ISTS Customer and the Implementing Agency in the revised generation and demand so obtained, a validation committee appointed by the Commission in this behalf shall take the final decision after hearing the Designated ISTS Customer and Implementing Agency. Such a committee shall comprise of two officials each from the Implementing Agency, NLDC, RPCs, CTU, CEA and the Commission. The validation committee shall be chaired by a nominee of the Commission; 
+ </subsection><subsection><number>h</number> The Implementing Agency shall run AC load flows using the Basic Network, nodal generation and nodal demand. To ensure Load Generation balance, adjustment may be required to be made on the vetted generation and demand data; 
+ </subsection><subsection><number>i</number> Basic Network along with the converged load flow results for various grid conditions shall be validated by the validation committee. The Basic Network, nodal generation, nodal demand and the load flow results for the subsequent financial year for each grid condition shall be validated by this Committee and presented for approval to the Commission not later than 15th day of December in each financial year. The approved Basic Network, nodal generation, nodal demand along with the load flow results shall be made available on the websites of the Commission and NLDC immediately after its approval by the validation committee; 
+ </subsection><subsection><number>j</number> Approved Basic Network, nodal generation and nodal demand data shall form the base for computation of Marginal Participation factors and loss allocation factors; 
+ </subsection><subsection><number>k</number> Consequent to the development of the base load flows on the Basic Network, the network shall be truncated/reduced suitably by the Implementing Agency to certain level(s) of voltages, as explained in Annexure - I to these Regulations. The Hybrid method shall be applied by the Implementing Agency on the truncated /reduced system to determine the transmission charges based on the Hybrid Method and loss allocation factors attributable to each node in the truncated /reduced power system; 
+ In future, if Implementing Agency arrives at a better method of network reduction, then the same may be adopted after approval of Commission; 
+ </subsection><subsection><number>l</number> Overall charges to be shared among nodes shall be computed based on the Yearly Transmission Charge apportioned to each of the lines of the ISTS Licensees. The Yearly Transmission Charge, computed for assets at each voltage level in accordance with the provisions of these regulations shall be provided by the respective ISTS transmission licensee. The Yearly Transmission Charge of the sub-stations shall be apportioned to the lines emanating from each sub-station. Average Yearly Transmission Charge per circuit kilometre (for each voltage level and line configuration viz.,  400 KV D/C twin Moose, 400 kV Quad Moose, 400 kV Quad Bersimis etc., 765 kV system charged at 400 kV shall be considered as high capacity 400 kV line (Quad) lines.) shall be used for the computation of nodal charges; 
+ </subsection><subsection><number>m</number> Allocation of the Yearly Transmission Charge of sub-stations to transmission lines shall be based on the following principles:- 
+ 
+ <subsubsection><number>i</number> Yearly Transmission Charge for substations shall be apportioned to the associated transmission lines based on the length of the lines in circuit kilometres, 
+ </subsubsection><subsubsection><number>ii</number> Yearly Transmission Charge of the sub-station shall be apportioned in a manner such that the Yearly Transmission Charge of the sub-station attributed to the lower voltage lines connected to it is 50% of the Yearly Transmission Charge of the substation attributed to the higher voltage lines connected to it; 
+</subsubsection>
+ </subsection><subsection><number>n</number> The computation of transmission charges at each node as per the Hybrid methodology requires costs to be adopted for ISTS transmission licensees whose lines feature on the reduced network; 
+ </subsection><subsection><number>o</number> The participation factors, and hence the Point of Connection nodal and zonal charges thus determined, shall be computed for each season for peak and other than peak conditions. Ordinarily this shall be undertaken for blocks of months for various seasons, and such blocks shall be (i) April to June, (ii) July to September, (iii) October to November (iv) December to February and (v) March. Peak hours shall be considered for a period of eight hours and all the other hours shall be taken as other than peak hours. However for the ex-ante computations, the Implementing Agency may specify peak and other than peak hours and months if so warranted by load conditions in consultation with the NLDC. This shall be done under intimation to the Commission giving the reasons thereof; 
+ </subsection><subsection><number>p</number> In order to give proper signals towards transmission charges based on distance and direction, the transmission charge per circuit kilometre shall have to be made uniform for each voltage level and conductor configuration. For this purpose, total transmission charges to be recovered for all lines of a given voltage level and conductor configuration shall be divided by the total circuit kilometre for that voltage level and line configuration in order to arrive at the average transmission charge per circuit kilometre for that voltage level and conductor configuration. Such charges shall then be attributed to peak and other than peak periods of each season based on the hours constituting these periods. The total transmission charge for each line shall be recovered in proportion to the participation factors as detailed in Annexure - I to these Regulations. The process shall thereby ensure that the total charges for the lines are fully recovered; 
+ </subsection><subsection><number>q</number> As a part of the transition to the new Point of Connection based transmission pricing methodology, the recovery of the Yearly Transmission Charge of the ISTS network shall be based on both the Hybrid Method and the Uniform Charge Sharing Mechanism (postage stamp method) by giving appropriate weightage to both. The Commission shall decide the weightage based on the impact of such transition on various Designated ISTS Customers. For the first two years, the zonal charges obtained using the Point of Connection method shall be adjusted such that 50% of the Yearly Transmission Charge of the ISTS Licensees is recovered through Hybrid methodology and the balance 50% of the Yearly Transmission Charge of the ISTS Licensees is recovered based on Uniform Charge Sharing Mechanism. After a period of two years from the implementation of these arrangements, the Commission may review the weightages accorded to the Hybrid methodology and the Uniform Charge Sharing Mechanism; 
+ </subsection><subsection><number>r</number> The loss allocation factors shall be computed for each season using the Hybrid method as explained in Annexure - I to these regulations. The loss allocation factors shall be applied to the total losses, computed as per the procedures developed by the NLDC under these regulations, to attribute losses to each Designated ISTS Customer; 
+ </subsection><subsection><number>s</number> The losses shall be attributed to the Designated ISTS Customers by suitably adjusting their scheduled MWs. The extent of adjustment shall be based on the losses attributed to each Designated ISTS Customer based on the Hybrid Method and the Uniform Loss Allocation Mechanism. As in the case of transmission charges, for application to various demand Designated ISTS Customers, the weightage on the two mechanisms - the Hybrid Method and the Uniform Loss Allocation Mechanism shall be decided by the Commission. For the first two years, the loss allocation factors computed using the Hybrid method shall be used to allocate 50% of the losses to the Designated ISTS Customers. The balance 50% losses shall be applied to the Designated ISTS Customers based on the uniform loss allocation mechanism. After a period of two years from the implementation of these arrangements, the Commission may review the weightages accorded to the Hybrid method and the Uniform Loss Allocation Mechanism. The Loss Allocation Factors shall be computed for all peak and other than peak network conditions for each block of months. However for attribution of losses to each generation and demand zone for any block of months, a single set of loss allocation factors based on the weighted average of peak and other than peak conditions shall be used. The detailed procedure for application of losses to various Designated ISTS Customers shall be prepared by NLDC within 30 days of the notification of these regulations; 
+ </subsection><subsection><number>t</number> The Implementing Agency shall aggregate the charges for geographically and electrically contiguous nodes on the ISTS to create zones, in order to arrive at uniform zonal charge in Rs/MW/month. Implementing Agency shall create zones for generation and demand. Such zoning shall be governed by the following considerations:- 
+ 
+ <subsubsection><number>i</number> Zones shall contain relevant nodes whose costs (as determined from the output from the Hybrid method) are within the same range, 
+ </subsubsection><subsubsection><number>ii</number> The nodes within zones shall be combined in a manner such that they are geographically and electrically proximate. The demand zones shall normally be the state control areas except in the case of North Eastern States, which are considered as a single demand zone. Generation zones are formed by combining the generators connected to the ISTS, 
+ </subsubsection><subsubsection><number>iii</number> The same zone can act as a generation zone as well as a demand zone for the purpose of calculation of Generation and demand zonal charges respectively. Even as it is preferable to have similar zones for generation and demand, this shall be pursued only when practical, and other conditions for zoning are met, 
+ </subsubsection><subsubsection><number>iv</number> Transmission charges for thermal power generators either directly connected with ISTS or through pooling stations that are designed to handle generation capacity of more than 1500 MW for inter-state transfer shall be determined as charges at these specific nodes (such nodes would be considered as separate generation zones) and not clubbed with other generator nodes in the area, 
+ </subsubsection><subsubsection><number>v</number> Transmission charges for hydro power generators either directly connected with ISTS or through pooling stations that are designed to handle generation capacity of more than 500 MW for inter-state transfer shall be determined as charges at these specific nodes (such nodes would be considered as separate generation zones) and not clubbed with other generator nodes in the area, 
+ </subsubsection><subsubsection><number>vi</number> Typically the zones shall remain fixed in a given financial year unless significant changes in the power system during a year require re-zoning. Any such re-zoning shall be approved by the Commission before implementation by the Implementing Agency, 
+ </subsubsection><subsubsection><number>vii</number> Owing to the reduction of the Basic Network, certain generating stations connected at 220 kV and below to the ISTS network may not explicitly feature on the final reduced network. Such generating stations shall be charged at the zonal charges determined for the regions where such generators are physically located. Long term beneficiaries of ISGS connected to STU network shall continue to pay the transmission charges for the STU network as per the existing mechanisms. 
+</subsubsection>
+ </subsection><subsection><number>u</number> No transmission charges for the use of ISTS network shall be charged to solar based generation. This shall be applicable for the useful life of the projects commissioned in next three years; 
+ </subsection><subsection><number>v</number> No transmission losses for the use of ISTS network shall be attributed to solar based generation. This shall be applicable for the useful life of the projects commissioned in next three years. 
+</subsection>
+ </section><section><number>2</number> Detailed methodological aspects are set out in Annexure I to these regulations. The Commission may modify or update the above processes from time-to-time based on the emergent needs for determining the Point of Connection transmission charges and allocation of losses. 
+
+
+</section></article> 
+
+  
+ <article><title><number>8</number> </title><title>Determination of specific transmission charges applicable for a Designated ISTS Customer. </title>-
+<section><number>1</number> Based on the Yearly Transmission Charges determined by the Commission, the Implementing Agency shall determine the charges applicable to each Designated ISTS Customer for use of the ISTS to the extent of the Approved Withdrawal or Approved Injection in the ISTS. Each Designated ISTS Customer shall ensure that the forecast data of demand and injection for each season is furnished to the Implementing Agency as per the timelines described in these regulations for both peak and other than peak conditions as specified in Chapter 7 of these regulations. 
+ </section><section><number>2</number> In the event of a Designated ISTS Customer failing to provide its requisition for demand or injection for an Application Period, the last demand or injection forecast supplied by the Designated ISTS Customer and as adjusted by the Implementing Agency for Load Flow Analysis shall be deemed to be Approved Withdrawal or Approved Injection, as the case may be, for the Application Period. 
+ </section><section><number>3</number> The transmission charges for any month shall be determined as per regulation 11 of these Regulations. 
+ </section><section><number>4</number> In case the metered MWs (ex-bus) of a power station or the aggregate demand of a Designated ISTS Customer exceeds, in any time block- 
+ 
+ <subsection><number>a</number> In case of generators : The Approved Injection + Approved Additional Medium Term Injection + Approved Short Term Injection or; 
+ </subsection><subsection><number>b</number> In case of demand customers : The Approved Withdrawal + Approved Additional Medium Term Withdrawal + Approved Short Term Demand, 
+</subsection>
+ then for first 20% deviation in any time block, the Designated ISTS Customer shall be required to pay transmission charges for excess generation or demand at the same rate and beyond this limit, the Designated ISTS Customer shall be required to pay additional transmission charges which shall be 25% above the zonal Point of Connection charges determined for zone where the Designated ISTS Customer is physically located. Such additional charges shall not be charged to the generators in case of rescheduling of the planned maintenance program which is beyond the control of the generator and certified to be so by the appropriate RPC. Further, any payment on account of additional charges for deviation by the generator shall not be charged to its long term customer and shall be payable by the generator. 
+ </section><section><number>5</number> In the case of the Approved Withdrawal or Approved Injection not materialising either partly or fully for any reason whatsoever, the Designated ISTS Customer shall be obliged to pay the transmission charges allocated. 
+ </section><section><number>6</number> For Long Term customers availing supplies from inter-state generating stations, the charges payable by such generators for such Long Term supply shall be billed directly to the respective Long Term customers based on their share of capacity in such generating stations. Such mechanism shall be effective only after "commercial operation" of the generator. Till then, it shall be the responsibility of generator to pay these charges. 
+
+
+</section></article> 
+
+  
+ <article> <title><number>9</number> </title><title>Differentiation among various categories of transmission Designated ISTS Customers. </title>-
+<section><number>1</number> There shall be no differentiation in Point of Connection charges between the long term, medium term and short term Designated ISTS Customers of the transmission system. 
+
+
+</section></article> 
+
+  
+ <article> <title><number>10</number> </title><title>Accounting of charges. </title>-
+<section><number>1</number> Monthly Transmission Accounts applicable for various Designated ISTS Customers in each region shall be prepared by the respective RPC on the basis of- 
+ 
+ <subsection><number>a</number> Approved Withdrawal/Injection (MW) for peak and other than peak hours to be received from Implementing Agency, 
+ </subsection><subsection><number>b</number> Zonal Point of Connection charge (Rs/MW/month) to be received from Implementing Agency, 
+ </subsection><subsection><number>c</number> Approved Additional Medium Term Withdrawal/Injection (MW) to be received from RLDC/NLDC, 
+ </subsection><subsection><number>d</number> Processed meter reading from all SEMs for computation of deviations from the sum of the Approved Withdrawal/Injection, Approved Additional Medium Term Withdrawal/Injection and Approved Short Term Withdrawal/Injection (MW) and time blocks for which such deviation is recorded. This data shall be received from RLDCs. 
+</subsection>
+ RPC shall, based on regulation 11.1(a), 11.1(b) and11.1(c), issue Regional Transmission Accounts on the 1st working day of the month for the previous month, to all Designated ISTS Customer s, CTU and other ISTS Transmission Licensees and display the same on its web site. 
+ RPC shall, based on regulation 11.1(d), issue Regional Transmission Deviation Accounts by 15th of every month for the previous month to all Designated ISTS Customer s, CTU and other ISTS Transmission Licensees and display the same on the website of the respective RPCs. 
+
+
+</section></article> 
+
+  
+ <article> <title><number>11</number> </title><title>Billing. </title>-
+<section><number>1</number> The CTU shall be responsible for raising the transmission bills, collection and disbursement of transmission charges to ISTS transmission licensees. Any expenses incurred by CTU on account of this function shall be reimbursed as part of YEARLY TRANSMISSION CHARGE. 
+ </section><section><number>2</number> The bill for the use of the ISTS shall be raised by the CTU on the concerned Designated ISTS Customers. The SEB/STU may recover the transmission charges for the use of the ISTS from the distribution companies, generators and bulk customers connected to the transmission system owned by the SEB/STU/intrastate transmission licensee in a manner approved by the Appropriate Commission. 
+ </section><section><number>3</number> The billing for ISTS charges for all Designated ISTS Customers shall be on the basis of Rs./MW/Month, and shall be raised by the CTU in three parts. 
+ </section><section><number>4</number> The first part of the bill shall recover charges for use of the transmission assets of the ISTS Licensees based on the Point of Connection methodology. This part of the bill shall be computed as- 
+ For Generators: 
+ [ PoC Transmission Charge of generation zone in Rs/MW/month for peak hours ]x 
+ [( Approved Injection for peak hours )]+ 
+ [( PoC transmission Charge of generation zone in Rs/MW/month for other than peak hours )]x 
+ [( Approved Injection for other than peak hours )] 
+ For Demand: 
+ [( PoC Transmission Charge for demand zone in Rs/MW/month for peak hours )]x 
+ [( Approved Withdrawal for peak hours )] + 
+ [( PoC Transmission Charge of demand zone in Rs/MW/month for other than peak hours )]x 
+ [( Approved Withdrawal for other than peak hours )] 
+ This first part of the bill shall be raised based on the Point of Connection charges, Approved Withdrawal and Approved Injection for each Designated ISTS Customer, provided by the Implementing Agency not later than the first working day of each month for the previous month and determined prior to the commencement of the application period. This bill shall be independent of the Regional Transmission Accounts prepared by the RPCs. Further, the details of Monthly Transmission Charges for each of the ISTS licensees shall be provided by the Implementing Agency. 
+ </section><section><number>5</number> The second part of the bill shall recover charges for Additional Approved Medium Term Open Access and shall be computed as follows:- 
+ For Generators: 
+ [ PoC Transmission Charge of generation zone in Rs/MW/month for peak hours ]x 
+ [( Approved Additional Medium Term Injection for peak hours )]+ 
+ [( PoC Transmission Charge of generation zone in Rs/MW/month for other than peak hours )]x 
+ [( Approved Additional Medium Term Injection for other than peak hours )] 
+ For Demand: 
+ [( PoC Transmission Charge for demand zone in Rs/MW/month for peak hours )]x 
+ [( Approved Additional Medium Term Withdrawal for peak hours )] + 
+ [( PoC Transmission Charge of demand zone in Rs/MW/month for other than peak hours )]x 
+ [( Approved Additional Medium Term Withdrawal for other than peak hours )] 
+ The second part of the bill shall be raised on the Designated ISTS Customer s along with the first part of the bill. 
+ </section><section><number>6</number> The third part of the bill shall be used to adjust any variations in interest rates, FERV, rescheduling of commissioning of transmission assets, etc., as allowed by the Commission for any ISTS Transmission Licensee. Total amount to be recovered/reimbursed because of such under recovery/over recovery shall be billed by CTU to each Designated ISTS Customer in proportion of its average Approved Injection/pproved Withdrawal over previous six months on a biannual basis. This part of the bill shall be raised on first working day of September and first working day of March for the previous six months. 
+ </section><section><number>7</number> Deviations shall be billed separately by the CTU. This bill shall charge the Designated ISTS Customers for deviations from the sum of the Approved Withdrawal, Approved Additional Medium Term Withdrawal and Approved Short Term Withdrawal (MW) or Approved Injection, Approved Additional Medium Term Injection and Approved Short Term Injection (MW). This part of the bill shall be computed as- 
+ For Generators: 
+ In case Average MW injected during time block of positive deviation is greater the sum of Approved Injection, Approved Additional Medium Term Injection and Approved Short Term Injection, then for the first 20% deviation, transmission charges shall be at the zonal Point of Connection charges for the generation zone. 
+ For deviation beyond 20%, the additional transmission charges shall be 1.25 times the zonal Point of Connection charges for the generation zone. 
+ In case a generator instead of injecting, withdraws from the grid, the additional transmission charges shall be computed as- 
+ </section><section>[ <number>1</number>25 x PoC Transmission Charge for the demand zone in Rs/MW/time block ]x 
+ [( Average MW Withdrawal during time blocks of such negative deviation )] 
+ For Demand: 
+ In case Average MW withdrawal during time block of positive deviation is greater the sum of Approved Withdrawal, Approved Additional Medium Term Withdrawal and Approved Short Term Withdrawal, then for the first 20% deviation, transmission charges shall be at the zonal Point of Connection charges for the demand zone. 
+ For deviation beyond 20%, the additional transmission charges shall be 1.25 times the zonal Point of Connection charges for the demand zone. 
+ In case a withdrawing DIC becomes a net injector the additional transmission charges shall be computed as- 
+ </section><section>[<number>1</number>25 x PoC Transmission Charge for the generations zone in Rs/MW/time block ]x 
+ [(Average MW Injected during time blocks of such negative deviation)] 
+ This bill shall be raised by the CTU within 3 working days of the issuance of the Regional Transmission Deviation Account by the RPCs. 
+ </section><section><number>8</number> Revenue from Approved Additional Medium term open access that was not considered in the Approved Injection/Approved Withdrawal shall be used for truing up the YEARLY TRANSMISSION CHARGE for the next financial year. 
+ </section><section><number>9</number> The governance of the Short Term Open Access Transactions shall be as per the Central Electricity Regulatory Commission (Open Access in Inter-State Transmission) Regulations, 2008 and as amended by the Commission from time-to-time with the exception that the Transmission. Charges for Short Term Open Access Transactions shall be the Zonal Point of Connection charges as determined by these regulations. 
+
+
+</section></article> 
+
+  
+ <article> <title><number>12</number> </title><title>Collection. </title>-
+<section><number>1</number> The CTU shall collect charges on account of the first part of the bill as computed in accordance with regulation 11(4) of these Regulations on behalf of the ISTS service providers and thereafter redistribute the same to Transmission Licensees in the ISTS in proportion to their respective Monthly Transmission Charges. 
+ </section><section><number>2</number> The CTU shall collect charges on account of the second part of the bill as computed in accordance with regulation 11(5) of these Regulations and thereafter distribute the same to Transmission Licensees in the ISTS in proportion to their respective Monthly Transmission Charges. This amount along with the interest thereon shall be adjusted in the Yearly Transmission Charge (to be used for the computation of Point of Connection charges) of the respective transmission licensee for the next financial year; 
+ </section><section><number>3</number> The CTU shall collect charges on account of the third part of the bill as computed in accordance with regulation 11(6) of the section on Billing of these Regulations and thereafter transfer the same to respective ISTS Transmission Licensees for whom this adjustment bill is required; 
+ </section><section><number>4</number> The CTU shall collect charges on account of the fourth part of the bill as computed in accordance with regulation 11(7) of these Regulations and thereafter distribute the same to Transmission Licensees in the ISTS in proportion to their respective Monthly Transmission Charges. This amount along with the interest thereon shall be adjusted in the Yearly Transmission Charge (to be used for the computation of Point of Connection charges) of the respective transmission licensee for the next financial year; 
+ </section><section><number>5</number> The payment by various Designated ISTS Customer s and disbursement to various ISTS Licensees and the owners of Deemed Inter-State Transmission System shall be executed through RTGS. 
+ </section><section><number>6</number> Every Designated ISTS Customer shall ensure that the charges payable by them are fully discharged within the time-frame specified in the Transmission Service Agreement or the amended Bulk Power Transmission Agreements. Disputes, if any shall be resolved as per the provisions of the Transmission Service Agreement or the amended Bulk Power Transmission Agreements as specified in Chapter 6 of these regulations. 
+ </section><section><number>7</number> Delayed payment in a month by any Designated ISTS Customer shall result is prorata reduction in the payouts to all the ISTS Licensees and other non-ISTS Licensees whose assets have been certified as being used for inter-State transmission by the RPCs. 
+ </section><section><number>8</number> Designated ISTS Customers shall provide payment security as determined through detailed procedures developed by the CTU. The level of such payment security shall be related to the Approved Withdrawal or Approved Injection. 
+ </section><section><number>9</number> CTU shall prepare a detailed procedure for Billing, Collection and Disbursement and present the same to the Commission for approval within 30 days of the notification of these regulations. 
+
+
+</section></article> 
+
+  
+ <article> <title><number>13</number> </title><title>Transmission Service Agreement (TSA). </title>-
+<section><number>1</number> The Designated ISTS Customers and the CTU shall enter into new transmission services agreement or modify the existing Bulk Power Transmission Agreements to incorporate the new tariff and related conditions. Such agreement shall govern the provision of transmission services and charging for the same and shall be called the Transmission Service Agreement (TSA) and shall, inter-alia , provide for:- 
+ 
+ <subsection><number>a</number> Detailed commercial and administrative provisions relating to sharing of ISTS charges and losses based on principles derived from these regulations; 
+ </subsection><subsection><number>b</number> Provisions on metering, accounting, billing and recovery of charges for the ISTS from the constituents; 
+ </subsection><subsection><number>c</number> Procedures for declaration and approval of contracted capacity at each node or an aggregation of nodes in the ISTS for each Designated ISTS Customer; 
+ </subsection><subsection><number>d</number> Detailed procedures and provisions for connection by the Designated ISTS Customers at the inter-connection points, including the processes for requisitioning new inter-connection capacity on the ISTS; 
+ </subsection><subsection><number>e</number> Procedures and provisions for treatment of over or under injections by the Designated ISTS Customers; 
+ </subsection><subsection><number>f</number> Procedures and provisions for treatment of the delay in injection/withdrawal by Designated ISTS Customers; 
+ </subsection><subsection><number>g</number> Treatment of the delay in commissioning of transmission lines; 
+ </subsection><subsection><number>h</number> Payment security mechanisms; 
+ </subsection><subsection><number>i</number> Default and its consequences; 
+ </subsection><subsection><number>j</number> Dispute resolution mechanisms; 
+ </subsection><subsection><number>k</number> Term of the agreement and the termination provisions; 
+ </subsection><subsection><number>l</number> Force Majeure Conditions; and 
+ </subsection><subsection><number>m</number> Any other matter that is relevant for the Point of Connection transmission charge and loss allocation mechanism. 
+</subsection>
+ </section><section><number>2</number> Within 30 days of notification of these regulations, the CTU shall publish the draft Model Transmission Service Agreement on its website and invite public comments on the same. 
+ </section><section><number>3</number> The CTU shall, after duly considering the public comments, submit the draft Model Transmission Service Agreement to the Commission for its approval within 60 days of the notification of these regulations. 
+ </section><section><number>4</number> The final version of the Model Transmission Service Agreement, as approved by the Commission, shall be notified and used as the base transmission service agreement by the ISTS Licensees. 
+ </section><section><number>5</number> The notified Model Transmission Service Agreement shall be the default transmission agreement and shall mandatorily apply to all Designated ISTS Customers. 
+ </section><section><number>6</number> The Transmission Service Agreement may have separate provisions for long term, medium term and short term access to the ISTS. 
+ </section><section><number>7</number> Signing of the Transmission Service agreement shall not be a pre-condition for construction of new network elements by the CTU and Transmission Licensees, provided that such network construction is undertaken after due approval of the Commission. 
+ </section><section><number>8</number> The Transmission Service Agreement may have aspects that are amended from time-to-time by the signatories without the entire agreement being replaced or being rendered infructuous. Such aspects may include the contracted capacity, commercial terms, and reliability requirements, if any. Change of such terms shall be guided by the technical configuration and capabilities of the power system. 
+ </section><section><number>9</number> The CTU shall enter into a separate Revenue sharing agreement with other ISTS transmission licensees to disburse monthly transmission charges among various transmission licensees. The impact of any delayed payment/non-payment by any Designated ISTS Customer shall be shared pro-rata in proportion of their Yearly Transmission Charge by all the transmission licensees including the CTU. The CTU shall submit the Revenue Sharing Agreement within 30 days of the notification of these regulations for approval by the Commission. 
+
+
+</section></article> 
+
+  
+ <article> <title><number>14</number> Amendment of existing contracts. </title>-All existing users of the ISTS and the Transmission Licensees shall ensure that their existing contracts are realigned to these regulations within a period of 60 days from the date of notification of the Transmission Service Agreement insofar as the elements related to determination of Point of Connection transmission charges, allocation of losses, billing and collection, provision of information, and any other matter that requires amendment or realignment consequent to these regulations. 
+
+
+</article> 
+
+  
+ <article> <title><number>15</number> </title><title>Transition Period/Mechanism. </title>-
+<section><number>1</number> The Commission shall notify detailed procedures as proposed by the Implementing Agency, NLDC and the CTU to be followed under these regulations, along with corresponding timelines, as far as possible within 3 (three) months from the notification of these regulations. Such Procedures shall include- 
+ 
+ <subsection><number>a</number> Procedures for provision of information by Designated ISTS Customers and other constituents as prepared by Implementing Agency and approved by the Commission; 
+ </subsection><subsection><number>b</number> Procedures to be followed by the Implementing Agency for computation of charges as prepared by Implementing Agency and approved by the Commission; 
+ </subsection><subsection><number>c</number> Procedures for sharing of losses according to the methodology set out in these Regulations as prepared by NLDC and approved by the Commission; 
+ </subsection><subsection><number>d</number> Procedures for Billing and collection of charges by the CTU on behalf of the Transmission Licensees and redistribution of the same (including amounts over or under collected) as prepared by the CTU and approved by the Commission; and 
+ </subsection><subsection><number>e</number> Payment and payment security related procedures as prepared by the CTU and approved by the Commission. 
+</subsection>
+ </section><section><number>2</number> The Implementing Agency shall ensure smooth transition to the new mechanism and shall take necessary steps to disseminate information and build capacity among the Designated ISTS Customers and the ISTS Licensees. 
+
+
+</section></article> 
+
+  
+ <article> <title><number>16</number> </title><title>Provision of information by Designated ISTS Customers and other constituents. </title>-
+<section><number>1</number> On or before the end of the fourth week of November in each Financial Year, each Designated ISTS Customer whose network forms a part of the Basic Network, ISTS licensee and owners of Deemed Inter-State transmission systems whose charges are to be recovered from Designated ISTS Customers, shall supply the Implementing Agency with Basic Network details, Yearly Transmission Charge computations, and any other information required by the Implementing Agency to compute the transmission charges for allocation and apportionment as detailed in the Procedures for provision of information by Designated ISTS Customers and other constituents prepared by NLDC consequent to these regulations. 
+ </section><section><number>2</number> On or before the end of the fourth week of November in each Financial Year, each Designated ISTS Customer shall supply the Implementing Agency with its demand or injection forecast for each season of the following Financial Year to enable the Implementing Agency to use such demand and injection forecast as the basis for calculation of the transmission charge and loss allocators for the period: 
+ Provided that, if necessary, the information may be sought by the Implementing Agency at times other than those indicated in regulation 16(1) and 16(2). 
+ </section><section><number>3</number> Data to be submitted by CTU, owners of Deemed Inter-State transmission systems and Designated ISTS Customers whose assets are used in the Basic Network- 
+ 
+ <subsection><number>a</number> In the first year of implementation : the entire network data including that used for load flow analysis in the formats prescribed by the Implementing Agency, line-wise/network element-wise Yearly Transmission Charge; 
+ </subsection><subsection><number>b</number> In the subsequent years : data and dates of commissioning of any new transmission asset in the next financial year and their Yearly Transmission Charge approved by the Commission/provisional Yearly Transmission Charge, based on Commission norms in case such Yearly Transmission Charge is not approved by the Commission. 
+</subsection>
+ </section><section><number>4</number> Data to be submitted by Designated ISTS Customers connected to ISTS- 
+ 
+ <subsection><number>a</number> MW and MVAr Data for injection or drawal at various nodes or a group of nodes. This data shall be submitted for peak and other than peak conditions for January 15 (for the block of months from December to February), March 15 (for the month of March), May 15 (for the block of months from April to June), August 31 (for the block of months from July to September), and October 30 (for the block of months from October and November), such that any of these days is not a Weekend/Public Holiday. Such data shall include the power tied in long term contracts and approved medium term open access agreements; 
+ </subsection><subsection><number>b</number> In case any of the above fall on a Weekend/Public Holiday, the data shall be submitted for working days immediately after the dates indicated. 
+</subsection>
+ </section><section><number>5</number> In the first year of the implementation of these regulations, the Designated ISTS Customers and Transmission Licensees shall submit the Injection/Demand data, network data and Yearly Transmission Charge data to the implementing agency not later than 60 days of the notification of these regulations in formats provided by Implementing Agency. 
+ </section><section><number>6</number> In case, large changes in the Point of Connection charges are foreseen on account of the network or its usage undergoing substantial change, the Implementing Agency may file a petition before the Commission, and undertake the revised computations only upon issuance of the Commission's orders in this regard. 
+
+
+</section></article> 
+
+  
+ <article> <title><number>17</number> </title><title>Information to be published by the Implementing Agency. </title>-
+<section><number>1</number> The information to be provided by the Implementing Agency consequent to the computations undertaken shall include- 
+ 
+ <subsection><number>a</number> Approved Basic Network Data and Assumptions, if any; 
+ </subsection><subsection><number>b</number> Zonal or nodal transmission charges for the next financial year differentiated by block of months; 
+ </subsection><subsection><number>c</number> Zonal or nodal transmission losses data; 
+ </subsection><subsection><number>d</number> Schedule of charges payable by each constituent for the future Application Period, after undertaking necessary true-up of costs as per these regulations and detailed procedures. 
+</subsection>
+ </section><section><number>2</number> Such information shall be made public by Implementing Agency after undertaking the computations for the Application Period, and upon being approved by the Commission. 
+ </section><section><number>3</number> To ensure maximum information disclosure, the Implementing Agency shall ensure that the underlying network information and base load flows used are available on its website. 
+
+
+</section></article> 
+
+  
+ <article> <title><number>18</number> </title><title>Implementing Agency. </title>-
+<section><number>1</number> Based on the Yearly Transmission Charge, the allocation of the ISTS Charges and Losses shall be allocated by an entity authorised by the Commission for the purpose and shall be designated as the Implementing Agency: 
+ Provided that for the first two years of the notification of these regulations the NLDC shall be the Implementing Agency. 
+ </section><section><number>2</number> The Implementing Agency shall submit, for approval of the Commission, a detailed procedure along with the data formats for obtaining data from Designated ISTS Customers, ISTS Licensees and non-ISTS Licensees whose assets have been certified by RPCs as being used for inter-state transmission, within 30 days of notification of these regulations for the Implementation of the Point of Connection method, guidelines for which have been detailed in the Annexure I to these regulations. 
+ </section><section><number>3</number> The Implementing Agency shall determine the allocation and sharing of transmission charges and losses for each financial year, which may be differentiated on a seasonal basis. 
+ </section><section><number>4</number> The Implementing Agency shall be reimbursed the expenses incurred for the computation of transmission charges (for the purpose of allocation and apportionment thereof) as per Yearly Transmission Charges approved by the Commission. The software for the implementation of transmission tariffs shall be audited by the Commission before it is commissioned, and thereafter before any changes are made to the software or implementation methodology. The Software shall be made available to Implementing Agency by the Commission. 
+
+
+</section></article> 
+
+  
+ <article> <title><number>19</number> </title><title>Savings and repeal. </title>-
+<section><number>1</number> Save as otherwise provided in these regulations, regulation 33 of the Central Electricity Regulatory Commission (Terms and Conditions of Tariff) Regulations, 2009, regulation 16(1) and 16(2) of the Central Electricity Regulatory Commission (Open Access in Inter-State Transmission) Regulations, 2008 are hereby repealed. 
+ </section><section><number>2</number> <title></title>Notwithstanding such repeal, anything done or any action taken or purported to have been done or taken under the repealed regulations shall be deemed to have been done or taken under these regulations <title>. </title><title></title>
+
+
+</section></article> 
+
+  
+ <article> <title><number>20</number> </title><title>Power to relax. </title>-The Commission may, for reasons to be recorded in writing, relax any of the provisions of these regulations on its own motion or on an application made before it by an interested person. 
+
+
+</article> 
+
+  
+ <article> <title><number>21</number> </title><title>Power to remove difficulties. </title>-
+<section><number>1</number> If any difficulty arises in giving effect to any of the provisions of these regulations, the Commission, may by general or special order, direct the Implementing Agency, NLDC, CTU, RLDC, RPC, ISTS Licensees and Designated ISTS Customers, to take suitable action, not being inconsistent with the provisions of the Act, which appears to the Commission to be necessary or expedient for the purpose of removing the difficulties. 
+ </section><section><number>2</number> The Implementing Agency, NLDC, CTU, RLDC, RPC, ISTS Licensees and Designated ISTS Customers may make an application to the Commission and seek suitable orders to remove any difficulties that may arise in implementation of these regulations. 
+ </section><section><number>3</number> Notwithstanding sub-regulations (1) and (2), if any difficulty arises in giving effect to the provisions of these regulations, the Commission may, by general or specific order, make such provisions not inconsistent with the provisions of the Act, as may appear to be necessary for removing the difficulty. 
+
+
+</section></article>
+<pagefootnote></pagefootnote>
+</act>

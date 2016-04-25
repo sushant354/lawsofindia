@@ -1,0 +1,126 @@
+<act><title>THE INTELLIGENT NETWORK SERVICES IN MULTI OPERATOR AND MULTI NETWORK SCENARIO REGULATIONS, 20061</title> 
+
+  
+ <article><title><number>1</number> Short title and commencement </title>.-
+<section><number>1</number> These regulations may be called the Intelligent Network Services in Multi Operator and Multi Network Scenario Regulations, 2006 (12 of 2006). 
+ </section><section><number>2</number> These regulations shall come into force from the date<footcitenum>1</footcitenum> of their publication in the Official Gazette. 
+
+
+
+</section></article> 
+
+  
+ <article><title>2 </title>. <title>Definitions. </title>-In these regulations, unless the context otherwise requires,- 
+ 
+ <section><number>a</number> "Act" means the Telecom Regulatory Authority of India Act, 1997 (24 of 1997); 
+ </section><section><number>b</number> "Access Providers" includes the Basic Operator, Cellular Mobile Service Provider and Unified Access Service Provider; 
+ </section><section><number>c</number> "Authority' means the Telecom Regulatory Authority of India established under sub-section (1) of section 3 of the Act; 
+ </section><section><number>d</number> "Basic Operator" means a service provider who has been granted a licence under section 4 of the Indian Telegraph Act, 1885 (13 of 1885) and who provides basic telephone service in accordance with the terms and conditions of the licence; 
+ </section><section><number>e</number> "Cellular Mobile Telephone Service Provider" means a Cellular Mobile Telephone Service provider who has been granted a licence under section 4 of the Indian Telegraph Act, 1885 (13 of 1885) and who provides Cellular Mobile Telephone Service in a specified service area in accordance with the terms and conditions of the licence; 
+ </section><section><number>f</number> "Eligible Service Provider" means service provider who has been granted a licence under section 4 of the Indian Telegraph Act, 1885 (13 of 1885) and who is eligible to provide the service in accordance with terms and conditions of licence; 
+ </section><section><number>g</number> "Interconnection" means the commercial and technical arrangements under which the service providers connect their equipment, networks and services to enable their customers to have access to the customers, services and networks of other service providers; 
+ </section><section><number>h</number> "Intelligent Network" means a network architecture for the operation and provision of new services which is characterized by- 
+ 
+ <subsection><number>A</number> extensive use of information processing techniques; 
+ </subsection><subsection><number>B</number> efficient use of network resources; 
+ </subsection><subsection><number>C</number> modularisation and reusability of network functions; 
+ </subsection><subsection><number>D</number> integrated service creations and implementation by means of the modularised reusable network functions; 
+ </subsection><subsection><number>E</number> flexible allocation of network functions to physical entities; 
+ </subsection><subsection><number>F</number> portability of network functions among physical entities; standardised communication between network functions via service independent interfaces; 
+ </subsection><subsection><number>G</number> service subscriber control of some subscriber-specific service attributes; 
+ </subsection><subsection><number>H</number> service user control of some user-specific service attributes; standardised management of service logic; 
+</subsection>
+ </section><section><number>i</number> "Service Control Point" means a real time database -- 
+ 
+ <subsection><number>A</number> which stores customer records; 
+ </subsection><subsection><number>B</number> which executes one of the range of software routines customized for particular applications, when accessed by an enquiry from it ; 
+ </subsection><subsection><number>C</number> which sends instruction back to the Service Switching Point to process the call;. 
+</subsection>
+ </section><section><number>j</number> "National Numbering Plan" means the National Numbering Plan 2003, or, any such plan, made subsequently by the Government of India, Ministry of Communications and Information Technology, Department of Telecommunication; 
+ </section><section><number>k</number> "Service Switching Point" means the Switching Point providing the users with access to the network and performing any necessary switching functionality which- 
+ 
+ <subsection><number>A</number> consists of the hardware switch and basic call control software with the added functionality of Intelligent Network; 
+ </subsection><subsection><number>B</number> allows access to the set of Intelligent Network capabilities; and 
+ </subsection><subsection><number>C</number> contains detection capability to detect request for Intelligent Network based services; 
+</subsection>
+ </section><section><number>l</number> "regulations" means the Intelligent Network Services in Multi Operator and Multi Network Scenario Regulation, 2006; 
+ </section><section><number>m</number> "Unified Access Service Provider" means a Unified Access Service provider who has been granted a licence under section 4 of the Indian Telegraph Act, 1885 (13 of 1885) and who provides Unified Access Service in a specified service area in accordance with the terms and conditions of the licence; 
+ </section><section><number>n</number> all other words and expressions used in these regulations but not defined, and defined in the Act and the rules and other regulations made there under, shall have the meanings respectively assigned to them in the Act or the rules or other regulations, as the case may be. 
+</section>
+
+
+</article> 
+
+  
+ <article> <title><number>3</number> Provision for interconnection to all Eligible Service Providers. </title>-All Basic Operators, Cellular Mobile Service Providers and Unified Access Service Providers shall provide interconnection to all the Eligible Service Providers for the purpose of giving an option to subscribers of all Access Providers to exercise option for using the Intelligent Network Services of other Eligible Service Providers. 
+
+
+</article> 
+
+  
+ <article> <title><number>4</number> Prohibition to deny to subscribers access to Intelligent Network. </title>-No Basic Operator, Cellular Mobile Service Provider and Unified Access Service Provider shall directly or indirectly deny its consumers accessing Intelligent Network Services of his choice which are available in multi-operator multi-network scenario. 
+
+
+</article> 
+
+  
+ <article> <title><number>5</number> Switches to be capable of resolving the access codes allotted as per National Numbering Plan 2003. </title>-All Basic Operators, Cellular Mobile Service Providers and Unified Access Service Providers shall have switches capable of resolving the access codes allotted as per National Numbering Plan made by the Government of India, Ministry of Communications and Information Technology, Department of Telecommunication for the Intelligent Network Services available in multi-operator multi-network scenario. 
+
+
+</article> 
+
+  
+ <article> <title><number>6</number> Obligation to follow Numbering plan. </title>-All Eligible Service Providers shall follow the Numbering plan for the Intelligent Network Services in accordance with the National Numbering Plan. 
+
+
+</article> 
+
+  
+ <article> <title><number>7</number> Intelligent Network Services to be launched after obtaining access code allocation. </title>-All Eligible Service Providers shall launch the Intelligent Network Services in Multi-Operator Multi-Network scenario after obtaining adequate access code allocation from the Administrator of the National Numbering Plan or the Licensor, as the case may be. 
+
+
+</article> 
+
+  
+ <article> <title><number>8</number> </title><title>Network equipment (including circuit or packet switches) to conform to the International Telecommunication Union and Telecommunication Engineering Centre standards and Standards of the industry </title>.-All Eligible Service Providers providing the Intelligent Network Services in Multi-Operator Multi-Network scenario shall use such type of network equipment (including circuit or packet switches ) which conform to the International Telecommunication Union and Telecommunication Engineering Centre standards and standards of the industry: 
+ Provided that in the case of new technologies where no standards have been determined, all Eligible Service Providers shall deploy type of network equipment (including circuit or packet switches) approved by the Central Government and the Licensor: 
+
+
+</article> 
+
+  
+ <article> <title><number>9</number> </title><title>Compliance with Quality of Service standards </title>.-
+<section><number>1</number> All Eligible Service Providers engaged in providing, directly or indirectly, Intelligent Network services shall ensure that there shall be no deterioration in the Quality of Service standards applicable to the underlying bearer network. 
+ </section><section><number>2</number> The Quality of Service standards specified for voice services or applicable to voice services shall apply to Intelligent Network Services, which includes all circuit switched, or Packet Switched Voice Services. 
+
+
+</section></article> 
+
+  
+ <article> <title><number>10</number> Intelligent Network Services under commercial and technical arrangements or agreement </title>.-
+<section><number>1</number> All Eligible Service Providers shall provide the Intelligent Network Services in accordance with the terms and conditions of the licence granted to them under section 4 of the Indian Telegraph Act, 1885 (13 of 1885). 
+ </section><section><number>2</number> Without prejudice to the conditions of the licence granted to the Basic Operator, Cellular Mobile Service Provider and Unified Access Service Provider and other telecom service provider under section 4 of the Indian Telegraph Act, 1885 (13 of 1885), such Basic Operators, Cellular Mobile Service Provider and Unified Access Service Provider and other telecom service provider may use resources of any other telecom service provider for Intelligent Network Services under commercial and technical arrangements or agreements entered among themselves as per mutually agreed terms and conditions. 
+ </section><section><number>3</number> Every arrangement or agreement entered under sub-regulation (2) shall specify architecture for implementation of Intelligent Network Services. 
+ </section><section><number>4</number> Every arrangement or agreement under sub-regulation (2) shall be entered into within ninety days from the date of commencement of these regulation for providing Intelligent Network Services to subscriber of other telecom service providers: 
+ Provided that in a case any Basic Operator or Cellular Mobile Service Provider or Unified Access Service Provider fails to enter into arrangements or agreement under sub-regulation (2), the Authority may, on an application made by the concerned service provider and having regard to the interest of the service providers and consumers of the telecom sector, extend the said period of three months to six months. 
+ </section><section><number>5</number> All Eligible Service Providers providing Intelligent Network Services shall furnish call data records of all the calls handled by him as and when required by the Central Government or any authority specified by it or the Authority. 
+ </section><section><number>6</number> Every arrangement or agreement entered under sub-regulation (2) shall be submitted to the Authority for registration within fifteen days from the date of entering into such agreement. 
+ </section><section><number>7</number> The arrangements or agreement entered under sub-regulation (2) shall come into force within thirty days from the date of entering into such arrangements or agreements. 
+ </section><section><number>8</number> In case any Basic Operator, Cellular mobile service provider or Unified Access Service Provider fails to enter into agreements or arrangements within the stipulated time, they shall intimate within fifteen days of such failure to the Authority with complete details thereof and after examining such failure and details furnished by the service providers, the Authority shall specify the interconnection arrangement. 
+ </section><section><number>9</number> All the provisions of these regulations shall apply to the commercial and technical arrangements or agreement entered into under which licensed Access Service Providers shall connect their equipment, networks and services to enable their customers to have access to the Intelligent Network of other Service Providers. 
+
+
+</section></article> 
+
+  
+ <article> <title><number>11</number> Usage Charges under the arrangements or agreement entered under sub-regulation (2) of regulation 10. </title>-
+<section><number>1</number> Without prejudice to provisions of the rules made under the Act, other regulations made and directions issued thereunder, the charges and sharing of revenues for the service features, network architecture and resources used for Intelligent Network Services shall be determined on reciprocal basis and on non-discriminatory basis by the Basic Operators, Cellular Mobile Service Providers or Unified Access Service Providers themselves under the arrangements or agreements entered under sub-regulation (2) of regulation 10. 
+ </section><section><number>2</number> Every Basic Operator, Cellular Mobile Service Provider, Unified Access Service Provider and other telecom service provider (here referred to as the first party) shall pay the same charges and share the same revenues for the service network architecture and resources used for Intelligent Network Services referred to in under sub-regulation (1) to the other Basic Operator, Cellular Mobile Service Provider, Unified Access Service Provider and other telecom service provider (hereafter referred to as the second party) which are payable by the second party to the first party for similar service network architecture and resources used for Intelligent Network Services . 
+ </section><section><number>3</number> The charges and sharing of revenues under sub-regulation (1) shall be in addition to the interconnection charges specified under the Telecommunication Interconnection Usage Charges Regulation, 2003 (4 of 2003) made under the Act. 
+
+
+</section></article>
+<pagefootnote>
+<pagenote><number>1</number> Came into force on 27-11-2006.</pagenote>
+</pagefootnote>
+</act>

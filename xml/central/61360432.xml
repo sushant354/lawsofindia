@@ -1,0 +1,297 @@
+<act><title>THE TELECOMMUNICATION MOBILE NUMBER PORTABILITY REGULATIONS, 20091 </title> 
+
+  
+  
+ <article><title><number>1</number> Short title and commencement. </title>-
+<section><number>1</number> These regulations may be called the Telecommunication Mobile Number Portability Regulations, 2009. 
+ </section><section><number>2</number> (a) Except as otherwise provided in clause (b), these regulations shall come into force from the date<footcitenum>1</footcitenum> of their publication in the Official Gazette. 
+ <subsection><footcitenum>2</footcitenum>[<number>b</number> Regulations 6, 7, 8, 9, 10, 11, 12 and 13 of these regulations shall come into force in Haryana service areas on the 25th November, 2010: 
+ Provided that regulations 6, 7, 8, 9, 10, 11, 12 and 13 of these regulations shall come into force in different service areas, as may be specified by direction issued by the Authority, from time to time.] 
+
+
+
+
+
+</subsection></section></article> 
+
+  
+  
+ <article><title><number>2</number> Definitions. </title>-In these regulations, unless the context otherwise requires,- 
+ 
+ <section><number>a</number> "Access Provider" means the holder of a Cellular Mobile Telephone Service licence or Unified Access Service licence and includes a service provider providing fixed wireline or fixed wireless service in addition to Cellular Mobile Telephone Service; 
+ </section><section><number>b</number> "Act" means the Telecom Regulatory Authority of India Act, 1997  
+    (24 of 1997); 
+ </section><section><number>c</number> "Authority" means the Telecom Regulatory Authority of India established under sub-section (1) of section 3 of the Act; 
+ </section><section><number>d</number> "dipping" means use of query response system of the Mobile Number Portability service provider for obtaining Location Routing Number for routing a message to the called number; 
+ </section><section><number>e</number> "Donor Operator" means a Cellular Mobile Telecom Service provider or Unified Access Service provider, to whose network the mobile number belongs at the time the subscriber makes a request for porting; 
+ </section><section><number>f</number> "Local Number Portability Database" means the database of all ported mobile numbers maintained by an Access Provider and an International Long Distance Operator; 
+ </section><section><number>g</number> "Location Routing Number" means the code assigned to every Access Provider for the purpose of implementing Mobile Number Portability; 
+ </section><section><number>h</number> "message" shall have the meaning assigned to it in clause (3) of 
+    section 3 of the Indian Telegraph Act, 1885 (13 of 1885);
+ </section><section><number>i</number> "Mobile Number Portability" means the facility which allows a subscriber to retain his mobile telephone number when he moves from one Access Provider to another irrespective of the mobile technology or from one cellular mobile technology to another of the same Access Provider; 
+ </section><section><number>j</number> "Mobile Number Portability Service provider" means an entity who has been granted a licence under section 4 of the Indian Telegraph Act, 1885 (13 of 1885) for providing Mobile Number Portability Service; 
+ </section><section><number>k</number> "No Service Period" means the period of time between the disconnection of the mobile telephone service to the porting subscriber by the Donor Operator and the activation of mobile telephone service, on porting, by the Recipient Operator; 
+ <subsection><number>1</number> "Number Portability Database" means the database maintained by each Mobile Number Portability Service provider in electronic form, holding the details of all ported mobile numbers in its zone, along with the complete history of all transactions relating to the porting of such numbers; 
+ </subsection></section><section><number>m</number> " Number Range Holder" means an Access Provider who was originally allotted, by the licensor, that number range to which the ported number belongs; 
+ </section><section><number>n</number> "Per Port Transaction charge" means the charge payable by the Recipient Operator to the Mobile Number Portability Service provider for processing the porting request in respect of a mobile number; 
+ </section><section><number>o</number> "porting" means the process of moving, by a subscriber, of his mobile number or numbers, as the case may be, from one Access Provider to another Access Provider or from one mobile technology to another of the same or any other Access Provider; 
+ </section><section><number>p</number> "porting charge" means such charge as may be levied by a Recipient Operator from a subscriber for porting his mobile number; 
+ </section><section><number>q</number> "Recipient Operator" means an Access Provider who will be providing mobile telecommunication service to the subscriber after porting and includes his authorised agent; 
+ </section><section><number>r</number> "regulations" means the Telecommunication Mobile Number Portability Regulations, 2009; 
+ </section><section><number>s</number> "subscriber" means any person or legal entity that avails the mobile telecommunication service from a licensed telecom Access Provider; 
+ </section><section><number>t</number> "unique porting code" means an alphanumeric code allocated, upon request, by an Access Provider to its subscriber for the purpose of facilitation of porting of his mobile number; 
+ </section><section><number>u</number> all other words and expressions used in these regulations but not defined, and defined in the Indian Telegraph Act, 1885 (13 of 1885) and the Telecom Regulatory Authority of India Act, 1997 (24 of 1997) and the rules and other regulations made thereunder, shall have the meanings respectively assigned to them in those Acts or the rules or such other regulations, as the case may be. 
+</section>
+
+
+</article> 
+
+  
+  
+ <article><title><number>3</number> Limits on Portability. </title>-
+<section><number>1</number> The Mobile Number Portability shall be limited to within a given licensed service area; 
+ </section><section><number>2</number> Mobile Number Portability will be applicable only to cellular mobile telephone numbers which incorporate a Public Land Mobile Network (PLMN) Access Code. 
+
+
+</section></article> 
+
+  
+  
+ <article><title><number>4</number> Obligation to provide Mobile Number Portability. </title>-Every Access Provider shall facilitate in its entire network, Mobile Number Portability to all subscribers, both pre-paid and post-paid and shall, upon request, provide the same on a non-discriminatory basis. 
+
+
+</article> 
+
+  
+  
+ <article><title><number>5</number> Obligation to set up mechanism for allocation of unique porting code. </title>-Every Access Provider shall, within sixty days from the date of these regulations coming into force, set up, in its mobile network, a mechanism for the purpose of- 
+ 
+ <section><number>a</number> receiving Short Message Service (SMS) messages from its subscribers requesting for a unique porting code; 
+ </section><section><number>b</number> allocating a unique porting code for each such request and communicating it to the subscriber forthwith through Short Message Service (SMS) message through an automated process; and 
+ </section><section><number>c</number> retaining such unique porting number on its records for the purpose of verification of the porting request of such subscriber to be received eventually by it from the Mobile Number Portability Service provider. 
+</section>
+
+
+</article> 
+
+  
+  
+ <article><title><number>6</number> Eligibility Criteria for making a porting request. </title>-Every subscriber shall be eligible to make a request for porting his mobile number: 
+ Provided that- 
+ 
+ <section><number>a</number> a period of ninety days has expired from the date of activation of his mobile connection in the case of a mobile number not ported earlier; or from the date of activation of his mobile number after its last porting, in the case of a mobile number which has been ported earlier, as the case may be; 
+ </section><section><number>b</number> there are no outstanding payments due to the Donor Operator by way of pending bill or bills, as the case may be, issued as per the normal billing cycle but before the date of application for porting; 
+ </section><section><number>c</number> there is no pending request for change of ownership of the mobile number; 
+ </section><section><number>d</number> the mobile number sought to be ported is not sub-judice; 
+ </section><section><number>e</number> porting of the concerned mobile number has not been prohibited by a Court of Law. 
+</section>
+
+
+</article> 
+
+  
+  
+ <article><title><number>7</number> Request for porting of mobile number. </title>-
+<section><number>1</number> Every subscriber desirous of porting his mobile number shall make a request in writing to the concerned Recipient Operator in such format as may be specified by such Recipient Operator. 
+ </section><section><number>2</number> The porting request form as specified by the Recipient Operator shall, inter alia, incorporate- 
+ 
+ <subsection><number>a</number> the eligibility criteria as specified in regulation 6; 
+ </subsection><subsection><number>b</number> the grounds for rejection as specified in regulation 12; 
+ </subsection><subsection><number>c</number> in the case of a post-paid subscriber, an undertaking by the subscriber that he has already paid all dues as per the last bill to the Donor Operator and that he shall be bound to pay all dues to the Donor Operator pertaining to the mobile number sought to be ported till its eventual porting and that he understands and agrees that in the event of non-payment of any such dues to the Donor Operator, the ported mobile number shall, without prejudice to any other remedies available to the Donor Operator under law for recovery of such dues, be liable to be disconnected by the Recipient Operator; 
+ </subsection><subsection><number>d</number> in the case of a pre-paid subscriber, an undertaking by the subscriber to the effect that he understands and agrees that, upon porting of the mobile number, the balance amount of talk time, if any, at the time of porting shall lapse; 
+ </subsection><subsection><number>e</number> such details of the subscriber as mandated by the licensor or by the Authority from time-to-time. 
+</subsection>
+ </section><section><number>3</number> Each porting request shall be accompanied by- 
+ 
+ <subsection><number>a</number> a customer acquisition form as specified by the Recipient Operator accompanied by all documents as applicable to a new subscriber; and 
+ </subsection><subsection><number>b</number> a copy of the last bill, in the case of a post-paid subscriber. 
+</subsection>
+ </section><section><number>4</number> The subscriber shall, with his request for porting, pay the porting charge, if any. 
+
+
+</section></article> 
+
+  
+  
+ <article><title><number>8</number> Action by Recipient Operator. </title>-
+<section><number>1</number> The Recipient Operator, upon receipt of the porting request from a subscriber, shall verify if the customer acquisition form is accompanied by all documents specified in regulation 7. 
+ </section><section><number>2</number> The Recipient operator shall record in the customer acquisition form that he has seen the subscriber and verified his documents with their respective originals and found them to be in order. 
+ </section><section><number>3</number> The Recipient Operator shall thereupon ask the subscriber to send a message through SMS to a specified short code of the Donor Operator from the subscriber's mobile number which is sought to be ported. 
+ </section><section><number>4</number> Upon receipt of the message from the subscriber, the Donor operator shall forthwith send back a reply message through an automated system generated SMS containing a unique porting code. 
+ </section><section><number>5</number> Upon receipt of the unique porting code from the Donor Operator, the subscriber shall incorporate the same in the porting request form. 
+ </section><section><number>6</number> The Recipient Operator shall, within a period of twenty-four hours, forward the mobile number, the corresponding unique porting code and the date on which porting request is made by the subscriber, to the concerned Mobile Number Portability Service provider: 
+ Provided that while calculating twenty-four hours as specified in this sub-regulation, intervening Sundays and public holidays declared under the Negotiable Instruments Act, 1881 (26 of 1881) shall be excluded. 
+ </section><section><number>7</number> The Recipient Operator shall be liable to pay Per Port Transaction charge in respect of each porting request forwarded by it to the Mobile Number Portability Service provider. 
+
+
+</section></article> 
+
+  
+  
+ <article><title><number>9</number> Action by Mobile Number Portability Service provider. </title>-
+<section><number>1</number> On receipt of the details of the porting request under sub-regulation (6) of regulation 8, the Mobile Number Portability Service provider shall verify from its Number Portability Database whether the mobile number has been ported earlier and, if so, whether a period of ninety days has elapsed from the date of its last porting. 
+ </section><section><number>2</number> Where a period of ninety days from the date of last porting has not elapsed, the Mobile Number Portability Service provider shall not take any action on the request and shall inform the Recipient Operator accordingly and the Recipient Operator shall communicate the same to the concerned subscriber. 
+ </section><section><number>3</number> In all other cases, the Mobile Number Portability Service provider shall verify whether any porting request in respect of the same mobile number is already pending and, if so, it shall reject the current request for porting and communicate such rejection to the Recipient Operator who forwarded such request, who shall, thereupon, communicate the same to the concerned subscriber. 
+ </section><section><number>4</number> In case there is no pending porting request in respect of the same mobile number, the Mobile Number Portability Service provider shall forthwith forward the details of such request to the Donor Operator for seeking his clearance for such porting. 
+
+
+</section></article> 
+
+  
+  
+ <article><title><number>10</number> Action by Donor Operator. </title>-Upon receipt of the details of porting request under sub-regulation (4) of regulation 9, the Donor Operator shall, within  <footcitenum>3</footcitenum>[four working days] verify such details and communicate to the Mobile Number Portability Service provider- 
+ 
+ <section><number>a</number> where it finds that the porting request is covered under any of the grounds of rejection of porting requests as specified in regulation 12, the details of the specific ground or grounds, as the case may be, on which it has any objection to the porting of the number from its network; or 
+ </section><section><number>b</number> where it finds that the porting request is not covered under any of the grounds of rejection of porting requests as specified in regulation 12, its clearance for the porting of the mobile number: 
+</section>
+ Provided that while calculating <footcitenum>3</footcitenum>[four working days] as specified in this sub-regulation, intervening Sundays and public holidays declared under the Negotiable Instruments Act, 1881 (26 of 1881) shall be excluded. 
+
+
+
+</article> 
+
+  
+  
+ <article><title><number>11</number> Porting of mobile number. </title>-
+<section><number>1</number> Upon receipt of the communication from the Donor Operator under regulation 10, the Mobile Number Portability Service provider shall- 
+ 
+ <subsection><number>a</number> where the Donor Operator has indicated the grounds for rejection of the porting request under clause (a) of regulation 10, forthwith communicate the same to the Recipient Operator; or 
+ </subsection><subsection><number>b</number> where the Donor Operator has indicated his clearance to the porting request under clause (b) of regulation 10, or has failed to communicate either its clearance or its objection for the porting of the mobile number, as the case may be within the time specified under regulation 10, forthwith fix the date and time of porting of such mobile number and communicate it, along with details of anticipated No Service Period, simultaneously to the Donor Operator and the Recipient Operator. 
+ </subsection><subsection><number>c</number> The Mobile Number Portability Service provider shall fix the date and time of porting under clause (b) in such manner that the porting shall be within thirty-six hours from the time of receipt of the clearance from the Donor Operator under clause (b) of regulation 10 or the expiry of the time limit specified in regulation 10, as the case may be: 
+</subsection>
+ Provided that in Jammu and Kashmir, Assam and North East licensed service areas, the date and time for porting to be fixed under clause (c) by the Mobile Number Portability Service provider shall be within ten days from the date of receipt of the clearance from the Donor Operator under clause (b) of regulation 10 or the expiry of the time limit specified in regulation 10, as the case may be. 
+ </section><section><number>2</number> Where the Mobile Number Portability Service provider has communicated the grounds for rejection as indicated by the Donor Operator to the Recipient Operator under clause (a) of sub-regulation (1), the Recipient Operator shall communicate the same, in writing or through SMS, to the concerned subscriber. 
+ </section><section><number>3</number> Where the Mobile Number Portability Service provider has communicated the date and time of porting of such mobile number and the anticipated No Service Period under clause (b) of sub-regulation (1) to the Donor Operator and to the Recipient Operator, the Recipient Operator shall communicate the same to the subscriber telephonically or through SMS or through an automated voice message. 
+ </section><section><number>4</number> At the date and time of porting fixed by the Mobile Number Portability Service provider, the Mobile Number Portability Service provider shall communicate to the Donor Operator its instructions for disconnection of the mobile number and the Donor. Operator shall, immediately and in any case within one hour of receipt of such instructions,- 
+ 
+ <subsection><number>a</number> comply with such instructions; and 
+ </subsection><subsection><number>b</number> report compliance of such instructions to the Mobile Number Portability Service provider. 
+</subsection>
+ </section><section><number>5</number> Upon receipt of the report of compliance under sub-regulation (4) from the Donor Operator or the expiry of one hour as specified in sub-regulation (4), which ever is earlier the Mobile Number Portability Service provider shall communicate to the Recipient Operator its instructions for activation of the mobile number: 
+ </section><section><number>6</number> Upon receipt of the instructions for activation of the mobile number the Recipient Operator shall, immediately and in any case within one hour of receipt of such instructions,- 
+ 
+ <subsection><number>a</number> comply with such instructions; and 
+ </subsection><subsection><number>b</number> report compliance of such instructions to the Mobile Number Portability Service provider. 
+</subsection>
+ </section><section><number>7</number> Upon receipt of the report of compliance under sub-regulation (6) from the Recipient Operator, the Mobile Number Portability Service provider shall Portability Database and broadcast the updated Location Routing Number along with the ported mobile number to all Access Providers and International Long Distance Operators who shall update their respective Local Number Portability Database. allocate the corresponding Location Routing Number to the ported number in the Number Portability Database and broadcast the updated Location Routing Number along with the ported mobile number to all Access Providers and International Long Distance Operators who shall update their respective Local Number Portability Database. 
+
+
+</section></article> 
+
+  
+  
+ <article><title><number>12</number> Grounds for rejection of porting request by Donor Operator. </title>-A request for porting of a mobile number shall not be rejected by a Donor Operator on any ground other than the following grounds, namely:- 
+ 
+ <section><number>a</number> there are outstanding payments due from the subscriber by way of pending bill or bills, as the case may be, issued as per the normal billing cycle but before the date of application for porting; 
+ </section><section><number>b</number> the porting request has been made before the expiry of a period of ninety days from the date of activation of a new connection; 
+ </section><section><number>c</number> a request for change of ownership of the mobile number is under process; 
+ </section><section><number>d</number> the mobile number sought to be ported is sub-judice; 
+ </section><section><number>e</number> porting of the mobile number has been prohibited by a Court of Law; 
+ </section><section><number>f</number> subscriber has applied for inter-service area porting; 
+ </section><section><number>g</number> the unique porting code mentioned in the porting request does not match with the unique porting code allocated by the Donor Operator for the mobile number sought to be ported; 
+ </section><section><number>h</number> there are subsisting contractual obligations in respect of which an exit clause has been provided in the subscriber agreement but the subscriber has not complied with such exit clause: 
+</section>
+ Provided that where the Donor Operator rejects a porting request on the ground of subsisting contractual obligations, he shall indicate the full details of such contractual obligations. 
+
+
+</article> 
+
+  
+  
+ <article><title><number>13</number> Withdrawal of porting request. </title>-
+<section><number>1</number> A subscriber may, within twenty-four hours of making a request for porting, withdraw such request by informing the Recipient Operator in writing: 
+ Provided that a subscriber withdrawing his porting request shall not be entitled to any refund of the porting charge paid by him to the Recipient Operator. 
+ </section><section><number>2</number> Where the Recipient Operator has not forwarded the porting request to the Mobile Number Portability Service provider till receipt of the information regarding withdrawal of the request, it shall not take any further action on such porting request. 
+ </section><section><number>3</number> In case the Recipient Operator has already forwarded the porting request to the Mobile Number Portability Service provider, before receipt of the information regarding withdrawal of the request, it shall forthwith inform the Mobile Number Portability Service provider about the withdrawal of the porting request and the Mobile Number Portability Service provider shall forthwith inform the Donor Operator about the withdrawal of the porting request. 
+ </section><section><number>4</number> In cases covered under sub-regulation {3), the Recipient Operator shall be liable to pay the applicable Per Port Transaction charge to the Mobile Number Portability Service provider. 
+
+
+</section></article> 
+
+  
+  
+ <article><title><number>14</number> Rights and obligations of Donor Operator. </title>-
+<section><number>1</number> The Donor Operator shall continue to provide all subscribed telecommunication services to the subscriber who has sought porting of his mobile number till the disconnection of the mobile number in accordance with the provisions of sub-regulation (4) of regulation 11. 
+ </section><section><number>2</number> Upon disconnection of a mobile number, the Donor Operator shall refund to the subscriber, within such time frame and in such manner as specified in the Standards of Quality of Service of Basic Telephone Service (wireline) and Cellular Mobile Telephone Service Regulations, 2009 (7 of 2009) as may be amended from time-to-time, all amounts due to such subscriber on account of refundable payments or deposits made by such subscriber to the Donor Operator. 
+ </section><section><number>3</number> The Donor Operator shall maintain records of all mobile numbers ported out by it and all mobile numbers for which porting requests have been rejected by it for a minimum period of twelve months from the date of porting or the date of rejection of request, as the case may be. 
+ </section><section><number>4</number> In case of non-payment of any outstanding bill issued to the subscriber after the porting request, for the services availed till the disconnection of the mobile number from the network of the Donor Operator, within such time as specified in such bill, the Donor Operator shall give a notice of not less than seven days to the subscriber, notifying him that in case of non-payment within the said notice period, the Donor Operator shall request the Recipient Operator to disconnect the ported number. 
+ </section><section><number>5</number> In case after expiry of such period such subscriber fails to make payments as specified in the notice, the Donor Operator shall communicate the details of such outstanding bills to the Recipient Operator through the Mobile Number Portability Service provider with an advice to take action for disconnecting the ported number. 
+
+
+</section></article> 
+
+  
+  
+ <article><title><number>15</number> Rights and obligations of Recipient Operator. </title>-
+<section><number>1</number> The Recipient Operator shall pay to the Mobile Number Portability Service provider, the Per Port Transaction charge at the rate as specified by the Authority from time-to-time, within fifteen days of receipt of the bill from the Mobile Number Portability Service provider or within such other time limit as may be mutually agreed upon. 
+ </section><section><number>2</number> The Recipient Operator shall maintain records in respect of all mobile numbers for which porting requests have been rejected, for a minimum period of twelve months from the date of rejection of such requests. 
+ </section><section><number>3</number> Where a request is made by the Donor Operator under sub-regulation (5) of regulation 14 for disconnecting the ported number, the Recipient Operator shall issue a notice to the concerned subscriber, the period of which shall be not less than seven days and not more than fifteen days, about the request received from the Donor Operator and calling upon such subscriber to produce evidence of having settled such outstanding dues with the Donor Operator within such notice period and in case the subscriber produces such evidence of having settled such dues, the Recipient Operator shall not take any further action in pursuance of the notice and shall inform the Donor Operator accordingly through Mobile Number Portability Service provider.  
+ </section><section><number>4</number> In case, before expiry of the period specified in the notice under sub- regulation (3), the subscriber fails to provide evidence of having settled such outstanding dues with the Donor Operator, the Recipient Operator shall disconnect the mobile number of such subscriber and inform the Mobile Number Portability Service provider forthwith about the disconnection of such mobile number and request for reversal of such mobile number to the Number Range Holder after expiry of ninety days. 
+ </section><section><number>5</number> In case, after porting of a mobile number to the Recipient Operator's network, there is disconnection of the mobile number for any reason other than the reason specified in sub-regulation (4), the Recipient Operator shall, after ninety days of such disconnection, inform the Mobile Number Portability Service provider about such disconnection with a request for reversal of such mobile number to the Number Range Holder. 
+
+
+</section></article> 
+
+  
+  
+ <article><title><number>16</number> Rights and obligations of Mobile Number Portability Service provider. </title>-
+<section><number>1</number> The Mobile Number Portability Service provider shall make all efforts to facilitate expeditious porting of mobile numbers through effective co-ordination with the Donor Operator and the Recipient Operator. 
+ </section><section><number>2</number> The Mobile Number Portability Service provider shall use the Number Portability Database only for the purpose of porting and dipping and not for any other purpose. 
+ </section><section><number>3</number> The Mobile Number Portability Service provider shall generate specific sets of statistics regarding the number of porting requests received, the number of portings carried out successfully and the number of failed porting requests with reasons for failures. 
+ </section><section><number>4</number> Upon receipt of a communication under sub-regulation (4) of regulation 15 or under sub-regulation (5) of regulation 15, from the Recipient Operator about disconnection of a ported mobile number, the Mobile Number Portability Service provider shall forthwith- 
+ 
+ <subsection><number>a</number> remove the number from its Number Portability Database; 
+ </subsection><subsection><number>b</number> update the Local Number Portability Databases of all the Access providers and International Long Distance Operators; and 
+ </subsection><subsection><number>c</number> restore the mobile number to the Number Range Holder. 
+</subsection>
+ </section><section><number>5</number> The Mobile Number Portability Service provider shall raise bills along with the relevant details in respect of Per Port Transaction charges to the concerned Recipient Operators on a monthly basis and shall deliver such bills to the concerned Recipient Operators for each month before the tenth day of the following month or at such periodic intervals and within such time limits as may be mutually agreed upon. 
+ </section><section><number>6</number> In case a Recipient Operator fails to pay the bill for Per Port Transaction charges within the time limit specified in sub-regulation (1) of regulation 15, the Mobile Number Portability Service provider, before taking any action, shall issue a notice to such Recipient Operator, the period of which shall be not less than fifteen days, calling upon such Recipient Operator to make payment of the outstanding dues within such period. 
+ </section><section><number>7</number> Notwithstanding the issue of notice to the Recipient Operator under sub- regulation (6), the Mobile Number Portability Service provider shall in no case discontinue the provision of Mobile Number Portability Service to such defaulting Recipient Operator. 
+
+
+</section></article> 
+
+  
+  
+ <article><title><number>17</number> Obligations of Access Providers, National Long Distance Operators and International Long Distance Operators. </title>-
+<section><number>1</number> All existing interconnect agreements or arrangements between Access Providers, National Long Distance Operators and International Long Distance Operators shall, upon the coming into force of these regulations, stand amended so as to conform to the provisions of these regulations as regards routing of calls to and from ported mobile numbers. 
+ </section><section><number>2</number> Every Access Provider and every International Long Distance Operator providing carriage service to any Access Provider shall, within thirty days of coming into force of these regulations or before commencement of Access Service or carriage service as the case may be, shall establish fail-proof connectivity from its Mobile Number Portability gateway to the main and Disaster recovery sites of the Mobile Number Portability Service providers at its own cost: 
+ Provided that- 
+ 
+ <subsection><number>a</number> an Access Provider having licenses in more than one licensed service area may establish such fail-proof connectivity to the main and Disaster recovery sites of the Mobile Number Portability Service providers common for all its licensed service areas; and 
+ </subsection><subsection><number>b</number> an Access Provider, who is also an International Long Distance Operator providing carriage service to any Access Provider, may establish such fail-proof connectivity to the main and Disaster recovery sites of the Mobile Number Portability Service providers common for all its licensed services and share its Local Number Portability Database across its various licensed activities for the purpose of implementing Mobile Number Portability Service: 
+</subsection>
+ Provided further that no Access Provider or International Long Distance Operator providing carriage service to any Access Provider shall share its Local Number Portability Database with another Access Provider or International Long Distance Operator: 
+ Provided further that a service provider who is sharing its Local Number Portability Database across its licensed activities shall ensure that such sharing of Local Number Portability Database enables it to directly route messages to ported mobile numbers. 
+ </section><section><number>3</number> Every Access Provider on whose network a message originates shall be responsible for the correct routing of such message. 
+ </section><section><number>4</number> In case of international incoming messages, the Internal Long Distance Operator shall put Distance Operator carrying such messages shall be responsible for correct routing of messages. 
+ </section><section><number>5</number> Every Access Provider and International Long Distance Operator shall put in place suitable mechanism for safeguarding the data provided by porting subscribers from unauthorized interception or unauthorized access and shall ensure that such data is used solely for the purpose of porting of mobile numbers and shall not use such data for any other purpose: 
+  Provided that the provisions of this sub-regulation shall not prevent such Access Providers from providing such data or access to such data for monitoring purposes to the designated security agencies. 
+
+
+</section></article> 
+
+  
+  
+ <article><title><number>18</number> Power-of-Authority to issue directions for specifying time limits for various activities for implementing number portability. </title>-
+<section><number>1</number> Without prejudice to any of the provisions of the Act, or any other regulations made under the Act or directions issued thereunder, the Authority may, from time-to-time, issue such directions as it may deem fit to the service providers on any aspect of Mobile Number Portability for which provisions have been made in these regulations. 
+
+
+</section></article> 
+
+  
+  
+ <article><title><number>19</number> Inspection and Auditing. </title>-
+<section><number>1</number> The Authority may, if it considers it expedient so to do, and to ensure compliance of the provisions of these regulations, by order, in writing, direct any of its officers or employees or an independent agency appointed by the Authority, to inspect any records maintained by a service provider under these regulations or get such records audited. 
+ </section><section><number>2</number> The Authority, if it considers it expedient so to do, may require the service provider referred to in sub-regulation (1) to get the records maintained by such service provider audited through an independent agency as may be specified by the Authority and submit the report in respect of such audit to the Authority and the cost of such audit shall be borne by the concerned service provider. 
+
+
+</section></article>
+<pagefootnote>
+<pagenote><number>1</number> Came into force on 24-9-2009.</pagenote>
+
+<pagenote><number>2</number> Subs. by Notification No. F. No. 116-1/2010-MN, dated 24th November, 2010, for</pagenote>
+
+<pagenote><number>3</number> Subs. by Notification No. F. No. 116-1/2010-MN, dated 24th November, 2010, for “twenty-four hours” (w.e.f. 24-11-2010).</pagenote>
+</pagefootnote>
+</act>

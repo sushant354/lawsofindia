@@ -1,0 +1,2196 @@
+<act><title>THE CENTRAL ELECTRICITY REGULATORY COMMISSION (INDIAN ELECTRICITY GRID CODE) REGULATIONS, 20101</title> 
+
+  
+ <article><title><number>1</number> Short title, extent and commencement. </title>-
+<section><number>1</number> These Regulations may be called the Central Electricity Regulatory Commission (Indian Electricity Grid Code) Regulations, 2010. 
+ </section><section><number>2</number> These regulations shall come into force from 3rd May, 2010. 
+ </section><section><number>3</number> These regulations shall supersede the Indian Electricity Grid Code, 2006 which came into effect from 1st April, 2006. 
+
+
+</section></article> 
+
+  
+ <article><title><number>2</number> Definitions. </title>-
+<section><number>1</number> In these regulations, unless the context otherwise requires,- 
+ 
+ <subsection><number>a</number> "Act" means the Electricity Act, 2003 as amended from time-to-time; 
+ </subsection><subsection><number>b</number> "Ancillary Services" means in relation to power system (or grid) operation, the services necessary to support the power system (or grid) operation in maintaining power quality, reliability and security of the grid, e.g ., active power support for load following, reactive power support, black start, etc.; 
+ </subsection><subsection><number>c</number> "Automatic Voltage Regulator (AVR)" means a continuously acting automatic excitation control system to control the voltage of a Generating Unit measured at the generator terminals; 
+ </subsection><subsection><number>d</number> "Available Transfer Capability (ATC)" means the transfer capability of the inter-control area transmission system available for scheduling commercial transactions (through long-term access, medium-term open access and short-term open access) in a specific direction, taking into account the network security. Mathematically ATC is the Total Transfer Capability less Transmission Reliability Margin; 
+ </subsection><subsection><number>e</number> "beneficiary" means a person who has a share in an ISGS; 
+ </subsection><subsection><number>f</number> "bilateral transaction" means a transaction for exchange of energy (MWh) between a specified buyer and a specified seller, directly or through a trading licensee or discovered at Power Exchange through anonymous bidding, from a specified point of injection to a specified point of drawal for a fixed or varying quantum of power (MW) for any time period during a month; 
+ </subsection><subsection><number>g</number> "Black Start Procedure" means the procedure necessary to recover from a partial or a total blackout in the region; 
+ </subsection><subsection><number>h</number> "BIS" means the Bureau of Indian Standards; 
+ </subsection><subsection><number>i</number> "bulk consumer" means any consumer who avails supply at voltage of 33 kV or above; 
+ </subsection><subsection><number>j</number> "capacitor" means an electrical facility provided for generation of reactive power; 
+ </subsection><subsection><number>k</number> "Central Generating Station" means the generating stations owned by the companies owned or controlled by the Central Government; 
+ </subsection><subsection><number>l</number> "Central Transmission Utility (CTU)" means any Government company, which the Central Government may notify under sub-  
+    section (1) of section 38 of the Act; 
+ </subsection><subsection><number>m</number> "Collective Transaction" means a set of transactions discovered in power exchange through anonymous, simultaneous competitive bidding by buyers and sellers; 
+ </subsection><subsection><number>n</number> "congestion" means a situation where the demand for transmission capacity exceeds the Available Transfer Capability; 
+ </subsection><subsection><number>o</number> "connection Agreement" means an Agreement between CTU, inter-State transmission licensee other than CTU (if any) and any person setting out the terms relating to a connection to and/or use of the inter- State Transmission System; 
+ </subsection><subsection><number>p</number> "Connection Point" means a point at which a Plant and/or Apparatus connects to the Transmission/Distribution System; 
+ </subsection><subsection><number>q</number> "Connectivity" means the state of getting connected to the inter-State transmission system by a generating station, including a captive generating plant, a bulk consumer or an inter-State transmission licensee; 
+ </subsection><subsection><number>r</number> "Control Area" means an electrical system bounded by interconnections (tie lines), metering and telemetry which controls its generation and/or load to maintain its interchange schedule with other control areas whenever required to do so and contributes to frequency regulation of the synchronously operating system; 
+ </subsection><subsection><number>s</number> "demand" means the demand of Active Power in MW and Reactive Power in MVAr of electricity unless otherwise specified; 
+ </subsection><subsection><number>t</number> "Demand response" means reduction in electricity usage by end customers from their normal consumption pattern, manually or automatically, in response to high UI charges being incurred by the State due to overdrawal by the State at low frequency, or in response to congestion charges being incurred by the State for creating transmission congestion, or for alleviating a system contingency, for which such consumers could be given a financial incentive or lower tariff; 
+ </subsection><subsection><number>u</number> "Despatch Schedule" means the ex-power plant net MW and MWh output of a generating station, scheduled to be exported to the Grid from time-to-time; 
+ </subsection><subsection><number>v</number> "Disturbance Recorder (DR)" means a device provided to record the behaviour of the pre-selected digital and analog values of the system parameters during an Event; 
+ </subsection><subsection><number>w</number> "Data Acquisition System (DAS)" means a system provided to record the sequence of operation in time, of the relays/equipments as well as the measurement of pre-selected system parameters; 
+ </subsection><subsection><number>x</number> "Drawal Schedule" means the summation of the station-wise ex-power plant drawal schedules from all ISGS and drawal from/injection to regional grid consequent to other long-term access, medium-term and short-term open access transactions; 
+ </subsection><subsection><number>y</number> "DVC" means the Damodar Valley Corporation established under sub-section (1) of section 3 of the Damodar Valley Corporation Act, 1948; 
+ </subsection><subsection><number>z</number> "entitlement" means a Share of a beneficiary (in MW/MWh) in the installed capacity/output capability of an ISGS; 
+ </subsection><subsection><number>aa</number> "event" means an unscheduled or unplanned occurrence on a Grid including faults, incidents and breakdowns; 
+ </subsection><subsection><number>bb</number> "Event Logging Facilities" means a device provided to record the chronological sequence of operations, of the relays and other equipment; 
+ </subsection><subsection><number>cc</number> "Ex-Power Plant" means net MW/MWh output of a generating station, after deducting auxiliary consumption and transformation losses; 
+ </subsection><subsection><number>dd</number> "Fault Locator (FL)" means a device provided at the end of a transmission line to measure/indicate the distance at which a line fault may have occurred; 
+ </subsection><subsection><number>ee</number> "Flexible Alternating Current Transmission System (FACTS)" means a power electronics based system and other static equipment that provide control of one or more AC transmission system parameters to enhance controllability and increase power transfer capability; 
+ </subsection><subsection><number>ff</number> "force majeure" means any event which is beyond the control of the persons involved which they could not foresee or with a reasonable amount of diligence could not have foreseen or which could not be prevented and which substantially affects the performance by person such being the following including but not limited to:- 
+ 
+ 
+ </subsection><subsection><number>a</number> acts of God, natural phenomena, floods, droughts, earthquakes and epidemics; 
+ </subsection><subsection><number>b</number> enemy acts of any Government domestic or foreign, war declared or undeclared, hostilities, priorities quarantines, embargoes; 
+ </subsection><subsection><number>c</number> riot or civil commotion; 
+ </subsection><subsection><number>d</number> Grid's failure not attributable to the person. 
+</subsection><subsection><number>gg</number> "Forced Outage" means an outage of a Generating Unit or a transmission facility due to a fault or other reasons which has not been planned; 
+ </subsection><subsection><number>hh</number> "Generating Company" means any company or body corporate or association or body of individuals, whether incorporated or not, or artificial juridical person, which owns or operates or maintains a generating station; 
+ 
+ <subsubsection><number>ii</number> "Generating Unit" means an electrical Generating Unit coupled to a turbine within a Power Station together with all Plant and Apparatus at that Power Station which relates exclusively to the operation of that turbo-generator; 
+</subsubsection>
+ </subsection><subsection><number>jj</number> "Good Utility Practices" means any of the practices, methods and acts engaged in or approved by a significant portion of the electric utility industry during the relevant time period which could have been expected to accomplish the desired results at a reasonable cost consistent with good business practices, reliably, safely and with expedition; 
+ </subsection><subsection><number>kk</number> "Governor Droop" means in relation to the operation of the governor of a Generating Unit, the percentage drop in system frequency which would cause the Generating Unit under restricted/free governor action to change its output from zero to full load; 
+ </subsection><subsection><number>ll</number> "Grid Standards" means the standards specified by the Authority under clause (d) of the section 73 of the Act; 
+ </subsection><subsection><number>mm</number> "Extra High Voltage (EHV)" means where the voltage exceeds 33,000 volts under normal conditions, subject, however, to the percentage variation allowed by the Authority; 
+ </subsection><subsection><number>nn</number> "Independent Power Producer (IPP)" means a generating company not owned/controlled by the Central/State Government; 
+ </subsection><subsection><number>oo</number> "Indian Electricity Grid Code (IEGC) or Grid Code" means these regulations specifying the philosophy and the responsibilities for planning and operation of Indian power system; 
+ </subsection><subsection><number>pp</number> "Inter-State Generating Station (ISGS)" means a Central generating station or other generating station, in which two or more states have Shares; 
+ </subsection><subsection><number>qq</number> "Inter-State Transmission System (ISTS)" means- 
+ 
+ <subsubsection><number>i</number> any system for the conveyance of electricity by means of a main transmission line from the territory of one State to another State; 
+ </subsubsection><subsubsection><number>ii</number> the conveyance of electricity across the territory of an intervening State as well as conveyance within the State which is incidental to such, inter-State transmission of energy; 
+ </subsubsection><subsubsection><number>iii</number> the transmission of electricity within the territory of State on a system built, owned, operated, maintained or controlled by CTU. 
+</subsubsection>
+ </subsection><subsection><number>rr</number> "licensee" means a person who has been granted a license under section 14 of the Act; 
+ </subsection><subsection><number>ss</number> "load" means the MW/MWh/MVAR/MVARh consumed by a utility/installation; 
+ </subsection><subsection><number>tt</number> "Long-term Access" means the right to use the inter-State transmission system for a period exceeding 12 years but not exceeding 25 years; 
+ </subsection><subsection><number>uu</number> "Long-term customer" means a person who has been granted long-term access and includes a person who has been allocated central sector generation that is electricity supply from a generating station owned or controlled by the Central Government; 
+ </subsection><subsection><number>vv</number> "Maximum Continuous Rating (MCR)" means the maximum continuous output in MW at the generator terminals guaranteed by the manufacturer at rated parameters; 
+ </subsection><subsection><number>ww</number> "Medium-term Open Access" means the right to use the inter-State transmission system for a period exceeding 3 months but not exceeding 3 years; 
+ </subsection><subsection><number>xx</number> "Medium-term customer" means a person who has been granted medium-term open access; 
+ </subsection><subsection><number>yy</number> "National Grid" means the entire inter-connected electric power network of the country; 
+ </subsection><subsection><number>zz</number> "Net Drawal Schedule" means the drawal schedule of a Regional Entity after deducting the apportioned transmission losses (estimated); 
+ </subsection><subsection><number>aaa</number> "NLDC" means the Centre established under sub-section (1) of  
+    section 26 of the Act; 
+ </subsection><subsection><number>bbb</number> "Operation" means a scheduled or planned action relating to the operation of a System; 
+ </subsection><subsection><number>ccc</number> "Operation Co­ordination Sub-Committee (OCC)" means a sub-committee of RPC with members from all the regional entities which decides the operational aspects of the Regional Grid; 
+ </subsection><subsection><number>ddd</number> "Operating range" means the operating range of frequency and voltage as specified under the operating code (Part-5); 
+ </subsection><subsection><number>eee</number> "Pool Account" means regional account for (i) payments regarding unscheduled-interchanges (UI Account) or (ii) reactive energy exchanges (Reactive Energy Account) (iii) Congestion Charge (iv) Renewable Regulatory charge, as the case may be; 
+ </subsection><subsection><number>fff</number> "POWER GRID" means Power Grid Corporation of India Limited which has been notified as CTU; 
+ </subsection><subsection><number>ggg</number> "Power Exchange" means the power exchange which has been granted registration in accordance with CERC (Power Market Regulations), 2010 as amended from time-to-time; 
+ </subsection><subsection><number>hhh</number> "Power System" means all aspects of generation, transmission, distribution and supply of electricity and includes one or more of the following, namely:- 
+ 
+ 
+ <subsubsection><number>i</number> service lines; 
+ </subsubsection><subsubsection><number>j</number> works; 
+ 
+ <subsubsubsection><number>iii</number> "Protection Co­ordination Sub-Committee" means a sub-committee of RPC with members from all the regional entities which decides on the protection aspects of the Regional Grid; 
+</subsubsubsection>
+ </subsubsection><subsubsection><number>jjj</number> "Reactor" means an electrical facility specifically designed to absorb Reactive Power; 
+ </subsubsection><subsubsection><number>kkk</number> "Regional Entity" means such persons who are in the RLDC control area and whose metering and energy accounting is done at the regional level; 
+ </subsubsection><subsubsection><number>lll</number> "Regional Power Committee (RPC)" means a Committee established by resolution by the Central Government for a specific region for facilitating the integrated operation of the power systems in that region; 
+ </subsubsection><subsubsection><number>mmm</number> "RPC Secretariat" means the Secretariat of the RPC; 
+ </subsubsection><subsubsection><number>nnn</number> "Regional Energy Account (REA)" means a regional energy account prepared on monthly basis by the RPC Secretariat for the billing and settlement of 'Capacity Charge', 'Energy Charge' and transmission charges; 
+ </subsubsection><subsubsection><number>ooo</number> "Regional Grid" means the entire synchronously connected electric power network of the concerned Region; 
+ </subsubsection><subsubsection><number>ppp</number> "Regional Load Despatch Centre (RLDC)" means the Centre established under sub-section (1) of section 27 of the Act; 
+ </subsubsection><subsubsection><number>qqq</number> "share" means percentage share of a beneficiary in an ISGS either notified by Government of India or agreed through contracts and implemented through long-term acsess; 
+ </subsubsection><subsubsection><number>rrr</number> "Short-term Open Access" means open access for a period up to one month at one time; 
+ </subsubsection><subsubsection><number>sss</number> "Spinning Reserve" means part loaded generating capacity with some reserve margin that is synchronized to the system and is ready to provide increased generation at short notice pursuant to despatch instruction or instantaneously in response to a frequency drop; 
+ </subsubsection><subsubsection><number>ttt</number> "Standing Committee for Transmission Planning" means a Committee constituted by the CEA to discuss, review and finalise the proposals for expansion or modification in the ISTS and associated intra-State systems; 
+ </subsubsection><subsubsection><number>uuu</number> "SEB" means State Electricity Board which term includes State Electricity Department; 
+ </subsubsection><subsubsection><number>vvv</number> "SERC" means State Electricity Regulatory Commission; 
+ </subsubsection><subsubsection><number>www</number> "State Load, Despatch Centre (SLDC)" means the Centre established under sub-section (1) of section 31 of the Act; 
+ </subsubsection><subsubsection><number>xxx</number> "State Transmission Utility (STU)" means the Board or the Government Company specified as such by the State Government under sub-  
+    section (1) of section 39 of the Act; 
+ </subsubsection><subsubsection><number>yyy</number> "Static VAR Compensator (SVC)" means an electrical facility designed for the purpose of generating or absorbing Reactive Power; 
+ </subsubsection><subsubsection><number>zzz</number> "Technical Co­ordination Committee (TCC)" means the committee set up by RPC to coordinate the technical and commercial aspects of the operation of the regional grid; 
+ </subsubsection><subsubsection><number>aaaa</number> "Time Block" means block of 15 minutes each for which Special Energy Meters record values of specified electrical parameters with first time block starting at 00.00 Hrs; 
+ </subsubsection><subsubsection><number>bbbb</number> "Total Transfer Capability (TTC)" means the amount of electric power that can be transferred reliably over the inter-control area transmission system under a given set of operating conditions considering the effect of occurrence of the worst credible contingency; 
+ </subsubsection><subsubsection><number>cccc</number> "Transmission License" means a License granted under section 14 of the Act to transmit electricity; 
+ </subsubsection><subsubsection><number>dddd</number> "Transmission Planning Criteria" means the policy, standards and guidelines issued by the CEA for the planning and design of the Transmission system; 
+ </subsubsection><subsubsection><number>eeee</number> "Transmission Reliability Margin (TRM)" means the amount of margin kept in the total transfer capability necessary to ensure that the interconnected transmission network is secure under a reasonable range of uncertainties in system conditions; 
+ </subsubsection><subsubsection><number>ffff</number> "Unscheduled Interchange (UI)" means in a time block for a generating station or a seller means its total actual generation minus its total scheduled generation and for a beneficiary or buyer means its total actual drawal minus its total scheduled drawal; 
+ </subsubsection><subsubsection><number>gggg</number> "user" means "a person such as a Generating Company including Captive Generating Plant or Transmission Licensee (other than the Central Transmission Utility and State Transmission utility) or Distribution Licensee or Bulk Consumer, whose electrical plant is connected to the ISTS at a voltage level 33kV and above. 
+</subsubsection></subsection><subsection><number>a</number> generating stations; 
+ </subsection><subsection><number>b</number> transmission or main transmission lines; 
+ </subsection><subsection><number>c</number> sub-stations; 
+ </subsection><subsection><number>d</number> tie-lines; 
+ </subsection><subsection><number>e</number> load despatch activities; 
+ </subsection><subsection><number>f</number> mains or distribution mains; 
+ </subsection><subsection><number>g</number> electric supply lines; 
+ </subsection><subsection><number>h</number> overhead lines: 
+</subsection>
+ </section><section><number>2</number> Words and expressions used in these regulations and not defined herein but defined in the Act shall have the meaning assigned to them under the Act. 
+
+
+</section></article><form>
+ 
+
+THE CENTRAL ELECTRICITY REGULATORY COMMISSION (INDIAN ELECTRICITY GRID CODE) REGULATIONS, 20101
+ 
+
+ 
+ 
+
+ANNEXURE 1 
+ 
+
+(Refer section 6.1 (d)) 
+ 
+
+COMPLEMENTARY COMMERCIAL MECHANISMS 
+ 
+
+1. The beneficiaries shall pay to the respective ISGS Capacity charges corresponding to plant availability and/or Energy charges for the scheduled dispatch, in accordance with the relevant contracts/orders of CERC. The bills for these charges shall be issued by the respective ISGS to each beneficiary on monthly basis. 
+ 
+
+2. The sum of the above two charges from all beneficiaries shall fully reimburse the ISGS for generation according to the given dispatch schedule. In case of a deviation in actual generation from the dispatch schedule, the concerned ISGS shall receive or shall pay in accordance with UI regulation of CERC. Similarly, the deviation of actual drawl by any regional entity from the net drawl schedule shall be treated as UI. All 15- minute energy figures (net scheduled, actually metered and UI) shall be rounded off to the nearest 0.01 MWh. The UI charges and the modalities of settlement of UI shall be in accordance with UI Regulation of CERC. 
+ 
+
+3. Wind energy being of variable nature, needs to be predicted with reasonable accuracy for proper scheduling and dispatching of power from these sources in the interconnected system. Hence wind generation forecasting is necessary for increased penetration. Wind generation forecasting can be done on an individual developer basis or joint basis for an aggregated generation capacity of 10 MW and above connected at a connection point of 33 kV and above. If done jointly, the wind forecasting facility shall be built and operated by wind developers in the area and sharing of the cost shall be mutually discussed and agreed. 
+ 
+
+4. The wind energy forecasting system shall forecast power based on wind flow data at the following time intervals:- 
+ 
+ 
+
+(i) Day ahead forecast: Wind/power forecast with an interval of 15 minutes for the next 24 hours for the aggregate Generation capacity of 10 MW and above. 
+ 
+
+(ii) The schedule by such wind power generating stations supplying inter-State power under long-term access and medium-term and short-term open access may be revised by giving advance notice to RLDC. Such revisions by wind power generating stations shall be effective from 6th time-block, the first being the time-block in which notice was given. There may be maximum of 8 revisions for each 3 hour time slot starting from 00:00 hours during the day. 
+
+ 
+
+5. The wind generators shall be responsible for forecasting their generation upto an accuracy of 70%. Therefore, if the actual generation is beyond +/- 30% of the schedule, wind generator would have to bear the UI charges. For actual generation within +/- 30% of the schedule, no UI would be payable/receivable by Generator. The host state, shall bear the UI charges for this variation, i.e.,  within +/- 30%. However, the UI charges borne by the host State due to the wind generation, shall be shared among all the States of the country in the ratio of their peak demands in the previous month based on the data published by CEA, in the form of a regulatory charge known as the Renewable Regulatory Charge operated through the Renewable Regulatory Fund (RRF). This provision shall be applicable with effect from 1-1-2011, for new wind farms with collective capacity of 10 MW and above connected at connection point of 33 KV level and above, and who have not signed any PPA with states or others as on the date of coming into force of this IEGC. Illustrative calculations in respect of above mechanism are given in Appendix. 
+ 
+
+6. A maximum generation of 150% of the schedule only, would be allowed in a time block, for injection by wind, from the grid security point of view. For any generation above 150% of schedule, if grid security is not affected by the generation above 150%, the only charge payable to the wind energy generator would be the UI charge applicable corresponding to 50- 50.02 HZ. 
+ 
+
+7. In case of solar generation no UI shall be payable/receivable by Generator. The host state, shall bear the UI charges for any deviation in actual generation from the schedule. However, the net UI charges borne by the host State due to the solar generation, shall be shared among all the States of the country in the ratio of their peak demands in the previous month based on the data published by CEA, in the form of regulatory charge known as the Renewable Regulatory Charge operated through the Renewable Regulatory Fund as referred to in clause 5 above. This provision shall be applicable, with effect from 1-1-2011, for new solar generating plants with capacity of 5 MW and above connected at connection point of 33 KV level and above and, who have not signed any PPA with states or others as on the date of coming into force of this IEGC. Illustrative calculations in respect of above mechanism are given in Appendix. 
+ 
+
+8. All Regional Energy Accounting calculations carried out by RPC Secretariats shall be open to all regional entities for any checking/verification for a period of 15 days. In case any mistake is detected, RPC Secretariats shall forthwith make a complete check and rectify the mistakes. 
+ 
+
+9. NLDC shall prepare, within one month of notification of these regulations, a detailed procedure for implementation of the mechanism of Renewable Regulatory Fund and submit the same for approval by the Commission. 
+ 
+
+10. Regional Energy Accounts on monthly basis shall be prepared and issued by the RFC Secretariats for the purpose of billing and payment of various charges. Regional Energy Account for a month shall be issued in the following month based on the data provided. 
+ 
+
+11. RPC Secretariats shall also issue the weekly statement for VAR charges, to all regional entities who have a net drawal/injection of reactive energy under low/high voltage conditions. These payments shall also have a high priority and the concerned regional entities and other regional entities shall pay the indicated amounts into regional reactive pool account operated by the RLDC within 10 (ten) days of statement issue, provided that the Commission may direct any entity other than RLDC to operate the regional reactive pool account. The regional entities who have to receive the money on account of VAR charges would then be paid out from the regional reactive pool account, within two (2) working days from the receipt of payment in the Reactive pool account. 
+ 
+
+12. If payments against the above VAr charges are delayed by more than two days, i.e., beyond twelve (12) days from statement issue, the defaulting regional entity shall have to pay simple interest @ 0.04% for each day of delay. The interest so collected shall be paid to the regional entities who had to receive the amount, payment of which got delayed. Persistent payment defaults, if any, shall be reported by the RLDC to the Member Secretary, RPC, for initiating remedial action. 
+ 
+
+13. The money remaining in the regional reactive account after pay-out of all VAr charges upto 31st March of every year shall be utilized for training of the SLDC operators, and other similar purposes which would help in improving/streamlining the operation of the respective regional grids, as decided by the respective RPC from time-to-time. 
+ 
+
+14. In case the voltage profile of a regional grid improves to an extent that the total pay-out from the regional VAr charges account for a week exceeds the total amount being paid-in for that week, and if the regional reactive account has no balance to meet the deficit, the pay-outs shall be proportionately reduced according to the total money available in the above account. 
+ 
+
+15. The RLDC shall table the complete statement of the regional UI account and the regional Reactive Energy pool account in the RPC's Commercial Committee meeting, on a quarterly basis, for audit by the latter. 
+ 
+
+16. Interfaces for Scheduling and UI Accounting In Inter-regional Exchanges: 
+ 
+
+1. The regional boundaries for scheduling, metering and UI accounting of inter-regional exchanges shall be as follows: 
+ 
+ 
+
+. Eastern Region end of inter-regional links between Eastern Region and Southern, Western and Northern Regions. 
+ 
+
+. North-eastern end of inter-regional links between Eastern and North Eastern Region. 
+ 
+
+. Western Region end of inter-regional links between Southern and Western Region. 
+ 
+
+. Western Region end of inter-regional links between and Northern and Western Region. 
+
+ 
+
+2. No attempt shall be made to split the inter-regional schedules into link-wise schedules (where two regions have two or more interconnections). 
+ 
+
+------- 
+ 
+
+1 Vide  Central Electricity Regulatory Commission F. No. L-1/18/2010-CERC, dated 28th April, 2010, published in the Gazette of India, Extra., Pt. III, Sec. 4, dated 28th April, 2010, No. 115, as corrected by Corrigendum Notification No. L-1/18/2010-CERC, dated 28th June, 2010. 
+</form><form>
+ 
+
+THE CENTRAL ELECTRICITY REGULATORY COMMISSION (INDIAN ELECTRICITY GRID CODE) REGULATIONS, 20101
+ 
+
+ 
+ 
+
+PART 1 -GENERAL 
+ 
+
+1.1 Introduction 
+ 
+
+The Indian Power System is a conglomeration of a number of agencies. Power system means all aspects of generation, transmission, distribution and supply of electricity and includes one or more of the following, namely:- 
+ 
+ 
+
+(a) generating stations; 
+ 
+
+(b) transmission or main transmission lines; 
+ 
+
+(c) sub-stations; 
+ 
+
+(d) tie-lines; 
+ 
+
+(e) load despatch activities; 
+ 
+
+(f) mains or distribution mains; 
+ 
+
+(g) electric supply-lines; 
+ 
+
+(h) overhead lines; 
+ 
+
+(i) service lines; 
+ 
+
+(j) works. 
+
+ 
+
+1.2 Objective 
+ 
+
+The IEGC brings together a single set of technical and commercial rules, encompassing all the Utilities connected to/or using the inter-State transmission system (ISTS) and provides the following:- 
+ 
+ 
+
+. Documentation of the principles and procedures which define the relationship between the various Users of the inter-State transmission system (ISTS), National Load Despatch Centre, as well as the Regional and State Load Despatch Centers . 
+ 
+
+. Facilitation of the optimal operation of the grid, facilitation of coordinated and optimal maintenance planning of generation and transmission facilities in the grid and facilitation of development and planning of economic and reliable National/Regional Grid. 
+ 
+
+. Facilitation for functioning of power markets and ancillary services by defining a common basis of operation of the ISTS, applicable to all the Users of the ISTS. 
+ 
+
+. Facilitation of the development of renewable energy sources by specifying the technical and commercial aspects for integration of these resources into the grid. 
+
+ 
+
+1.3 Scope 
+ 
+ 
+
+(i) All Users, SLDCs, RLDCs, NLDC, CEA, CTU, STUs, licensees, RPCs and Power Exchanges are required to abide by the principles and procedures defined in the IEGC in so far as they apply to that party. 
+ 
+
+(ii) For the purpose of the IEGC, the Damodar Valley Corporation (DVC) will be treated similar to a SEB, in view of the fact that DVC is a vertically integrated utility like a SEB and has its own generation, transmission and distribution in the identified command area. Accordingly Central Load Despatch at Maithon shall perform functions of SLDC envisaged in this code for the area of DVC. 
+ 
+
+(iii) For the purpose of the IEGC, the generating stations of the Bhakra Beas Management Board (BBMB) and Sardar Sarovar Project (SSP) shall be treated as intra-State generating stations, though their transmission systems shall be a part of the ISTS. This is because of the fact that only some of the States of Northern Region/ Western Region have a Share in BBMB/SSP, and their generating units have to be scheduled and despatched in a very special manner (in coordination with the irrigational requirements). The scheduling and despatch of the BBMB/ SSP generation shall continue to be the responsibility of the BBMB/Narmada Control Authority (NCA), with a proviso that it shall be duly coordinated with the respective Regional Load Despatch Centre and the beneficiaries. 
+ 
+
+(iv) Any neighbouring country inter-connected with Indian (National) Grid shall be treated as a separate control area. 
+
+ 
+
+1.4 Structure of the IEGC 
+ 
+
+This IEGC contains the following:- 
+ 
+
+(i) Part 2: Role of various Organizations and their linkages .-This Part defines the functions of the various Organizations as are relevant to IEGC. 
+ 
+
+(ii) Part 3: Planning Code for inter-State transmission. -This Part provides the guidelines to be adopted in the planning and development of bulk power transfer and associated ISTS. The Planning Code lays out the detailed information exchange required between the planning agencies and the various participants of the power system for load forecasting, generation availability, and power system planning etc., for the future years under study. The Planning Code stipulates the various criteria to be adopted during the planning process. 
+ 
+
+(iii) Part 4: Connection Code. -This Part specifies minimum technical and design criteria to be complied with by STU, CTU and any User connected to the system or seeking connection to the ISTS, to maintain uniformity and quality across the system. This also includes procedure for connection to the ISTS. 
+ 
+
+(iv) Part 5: Operating Code. -This Part describes the operational philosophy to maintain efficient, secure and reliable Grid Operation and contains the following sections:- 
+ 
+ 
+ 
+
+(a) Operating Philosophy 
+ 
+
+(b) System security aspects -This section describes the general security aspects to be followed by generating companies and all Regional Entities, CTU, STU, and all other Users of the Grid. 
+ 
+
+(c) Demand Estimation for operational purposes -This section details the procedures to estimate the demand by the SEB/distribution licensees for their systems/SLDCs in their control area for the day/week/month/year ahead, which shall be used for operational planning. 
+ 
+
+(d) Demand management -This section identifies the methodology to be adopted for demand control by each SEB/SLDC/Distribution Licensee/bulk consumer depending on, overdrawal by the entity, frequency, voltage and transmission congestion and any other requirement of grid security. 
+ 
+
+(e) Periodic Reports -This section provides various provisions for reporting of the operating parameters of the grid such as frequency profile etc. 
+ 
+
+(f) Operational liaison -This section sets out the requirement for the exchange of information in relation to normal operation and/or events in the grid. 
+ 
+
+(g) Outage Planning -This section indicates procedure for outage planning. 
+ 
+
+(h) Recovery procedures -This section contains the procedures to be adopted following a major grid disturbance, for black start and resynchronization of islands, etc. 
+ 
+
+(i) Event Information -This section indicates the procedure by which events are reported and the related information exchange requirements etc. 
+
+
+ 
+
+(v) Part 6: Scheduling and Despatch Code. -This section deals with the procedure to be adopted for scheduling and Despatch of generation of the Inter-State Generating Stations (ISGS) and scheduling for other transactions through long-term access, medium-term and short-term open access including complementary commercial mechanisms, on a day-ahead and intra-day basis with the process of the flow of information between the ISGS, National Load Despatch Centre (NLDC), Regional Load Despatch Centre (RLDC), Power Exchanges and the State Load Despatch Centres (SLDCs), and other concerned persons. 
+ 
+
+Most of the wind and solar energy sources are presently connected and in future are likely to be connected to the STU or the State's distribution utility. However, keeping in view the variable nature of generation from such sources and the effect such variability has on the inter- state grid, and in view of the large-scale integration of such sources into the grid envisaged in view of the Government of India's thrust on renewable sources of energy, scheduling of wind and solar energy sources has been incorporated in this Code. 
+ 
+
+(vi) Part 7: Miscellaneous 
+ 
+
+1.5 Compliance Oversight 
+ 
+ 
+
+(i) RLDCs shall report to the Commission instances of serious or repeated violation of any of the provisions of the IEGC and incidences of persistent non-compliance of the directions of the RLDCs issued in order to exercise supervision and control required for ensuring stability of grid operations and for achieving the maximum economy and efficiency in the operation of the power system in the region under its control. 
+ 
+
+(ii) The Regional Power Committee (RPC) in the region shall also continuously monitor the instances of non-compliance of the provisions of IEGC and try to sort out all operational issues and deliberate on the ways in which such cases of non-compliance are prevented in future by building consensus. The Member Secretary RPC may also report any issue that cannot be sorted out at the RPC forum to the Commission. The RPC shall also file monthly reports on status of Ul payment and installation of capacitors by states vis-a-vis the requirement/targets, as decided in the RPC. 
+ 
+
+(iii) The Commission may initiate appropriate proceedings upon receipt of report of RLDCs or RPCs referred to in (i) and (ii) above respectively. 
+ 
+
+(iv) In case of non-compliance of any provisions of the IEGC by NLDC, RLDC, SLDC, RPC and any other person the matter may be reported by any person to the CERC through petition. 
+ 
+
+(v) Notwithstanding anything contained in these regulations, the Commission, may also take suo-motu action against any person, in case of non-compliance of any of the provisions of the IEGC. 
+
+ 
+
+------- 
+ 
+
+1 Vide  Central Electricity Regulatory Commission F. No. L-1/18/2010-CERC, dated 28th April, 2010, published in the Gazette of India, Extra., Pt. III, Sec. 4, dated 28th April, 2010, No. 115, as corrected by Corrigendum Notification No. L-1/18/2010-CERC, dated 28th June, 2010. 
+</form><form>
+ 
+
+THE CENTRAL ELECTRICITY REGULATORY COMMISSION (INDIAN ELECTRICITY GRID CODE) REGULATIONS, 20101
+ 
+
+ 
+ 
+
+PART 2 
+ 
+
+ROLE OF VARIOUS ORGANIZATIONS AND THEIR LINKAGES 
+ 
+
+2.1 Introduction 
+ 
+
+2.1.1.  This Part defines the functions of the various organizations involved in the field of grid operation and management and their organizational linkages so as to facilitate development and smooth operation of Regional Grids and National Grid at large so far as it relates to the IEGC. 
+ 
+
+2.2 Role of NLDC 
+ 
+
+2.2.1  According to notification dated 2nd March, 2005, by the Ministry of Power, Government of India, under section 26(2) of the Act NLDC shall be the apex body to ensure integrated operation of the national power system and shall discharge the following functions. This would also include such other functions assigned by the Government of India through resolutions issued from time-to-time:- 
+ 
+ 
+
+(a) supervision over the Regional Load Despatch Centers; 
+ 
+
+(b) scheduling and despatch of electricity over inter-regional links in accordance with Grid Standards specified by the Authority and Grid Code specified by Central Commission in coordination with Regional Load Despatch Centers; 
+ 
+
+(c) coordination with Regional Load Despatch Centers for achieving maximum economy and efficiency in the operation of National Grid; 
+ 
+
+(d) monitoring of operations and grid security of the National Grid; 
+ 
+
+(e) supervision and control over the inter-regional links as shall be required for ensuring stability of the power system under its control; 
+ 
+
+(f) coordination with Regional Power Committees for regional outage schedule in the national perspective to ensure optimal utilization of power resources; 
+ 
+
+(g) coordination with Regional Load Despatch Centers for the energy accounting of inter-regional exchange of power; 
+ 
+
+(h) coordination for restoration of synchronous operation of national grid with Regional Load Despatch Centers; 
+ 
+
+(i) coordination for trans-national exchange of power; 
+ 
+
+(j) providing operational feed back for national grid planning to the Authority and the Central Transmission Utility; 
+ 
+
+(k) levy and collection of such fee and charges from the generating companies or licensees involved in the power system, as shall be specified by the Central Commission; 
+ 
+
+(l) dissemination of information relating to operations of transmission system in accordance with directions or regulations issued by Central Electricity Regulatory Commission and the Central Government from time-to-time. 
+
+ 
+
+2.2.2  NLDC shall also carry out the following functions:- 
+ 
+ 
+
+(i) NLDC shall be the nodal agency for collective transactions; 
+ 
+
+(ii) NLDC would act as the Central control room in case of natural &amp; man made emergency/disaster where it affects the power system operation; 
+ 
+
+(iii) any other function as may be assigned by the Commission by order or regulations from time-to-time. 
+
+ 
+
+2.3 Role of RLDC 
+ 
+
+2.3.1 According to sections 28 and 29 of Electricity Act, 2003, the functions of RLDCs are as follows: 
+ 
+
+(1) The Regional Load Despatch Centre shall be the apex body to ensure integrated operation of the power system in the concerned region. 
+ 
+
+(2) The Regional Load Despatch Centre shall comply with such principles, guidelines and methodologies in respect of wheeling and optimum scheduling and despatch of electricity as may be specified in the Grid Code. 
+ 
+
+(3) The Regional Load Despatch Centre shall- 
+ 
+ 
+
+(a) be responsible for optimum scheduling and despatch of electricity within the region, in accordance with the contracts entered into with the licensees or the generating companies operating in the region; 
+ 
+
+(b) monitor grid operations; 
+ 
+
+(c) keep accounts of quantity of electricity transmitted through the regional grid; 
+ 
+
+(d) exercise supervision and control over the inter-State transmission system; and 
+ 
+
+(e) be responsible for carrying out real time operations for grid control and despatch of electricity within the region through secure and economic operation of the regional grid in accordance with the Grid Standards and the Grid Code. 
+
+ 
+
+(4) The Regional Load Despatch Centre may give such directions and exercise such supervision and control as may be required for ensuring stability of grid operations and for achieving the maximum economy and efficiency in the operation of the power system in the region under its control. 
+ 
+
+(5) Every licensee, generating company, generating station, sub-station and any other person connected with the operation of the power system shall comply with the directions issued by the Regional Load Despatch Centers. 
+ 
+
+(6) All directions issued by the Regional Load Despatch Centers to any transmission licensee of State transmission lines or any other licensee of the State or generating company (other than those connected to inter-State transmission system) or sub-station in the State shall be issued through the State Load Despatch Centre and the State Load Despatch Centers shall ensure that such directions are duly complied with by the licensee or generating company or sub-station. 
+ 
+
+(7) If any dispute arises with reference to the quality of electricity or safe, secure and integrated operation of the regional grid or in relation to any direction given by the Regional Load Despatch Centre, it shall be referred to Central Commission for decision. However, pending the decision of the Central Commission, the directions of the Regional Load Despatch Centre shall be complied with by the State Load Despatch Centre or the licensee or the generating company, as the case may be. 
+ 
+
+2.3.2 The following are contemplated as exclusive functions of RLDCs:- 
+ 
+ 
+
+(a) System operation and control including inter-State transfer of power, covering contingency analysis and operational planning on real time basis; 
+ 
+
+(b) Scheduling/re-scheduling of generation; 
+ 
+
+(c) System restoration following grid disturbances; 
+ 
+
+(d) Metering and data collection; 
+ 
+
+(e) Compiling and furnishing data pertaining to system operation; 
+ 
+
+(d) Operation of regional UI pool account, regional reactive energy account and Congestion Charge Account, provided that such functions will be undertaken by any entity(ies) other than RLDCs if the Commission so directs; 
+ 
+
+(g) Operation of ancillary services. 
+
+ 
+
+2.3.3 In cases of Short-term Open access bilateral transaction in inter-State Transmission, the Regional Load Despatch Centre of the region where point of drawal of electricity is situated, shall be the nodal agency for the short-term open access. The procedure and modalities in regard to short-term Open Access shall be in accordance with the Central Electricity Regulatory Commission (Open Access in inter-State Transmission) Regulations, 2008, as amended from time-to-time. 
+ 
+
+2.4 Role of RPC 
+ 
+
+2.4.1  In accordance with the Electricity Act, 2003, RPCs have been constituted by the Central Government for the specified Region(s) for facilitating the integrated operation of the power system in the Region. The Secretariat of the RPC is headed by the Member Secretary, who is appointed by the Central Electricity Authority (CEA), together with the other staff for the RPC Secretariat. Under section 29(4) of the Electricity Act, 2003, the Regional Power Committee in the region may, from time-to-time, agree on matters concerning the stability and smooth operation of the integrated grid and economy and efficiency in the operation of the power system in that region. 
+ 
+
+2.4.2 The following functions which go to facilitate the stability and smooth operation of the systems are identified for the RPC:- 
+ 
+ 
+
+(a) to undertake Regional Level operation analysis for improving grid performance; 
+ 
+
+(b) to facilitate inter-State/inter-regional transfer of power; 
+ 
+
+(c) to facilitate all functions of planning relating to inter-State/intra-State transmission system with CTU/STU; 
+ 
+
+(d) to coordinate planning of maintenance of generating machines of various generating companies of the region including those of interstate generating companies supplying electricity to the Region on annual basis and also to undertake review of maintenance programmed on monthly basis; 
+ 
+
+(e) to undertake planning of outage of transmission system on annual/monthly basis; 
+ 
+
+(f) to undertake operational planning studies including protection studies for stable operation of the grid; 
+ 
+
+(g) to undertake planning for maintaining proper voltages through review of reactive compensation requirement through system study committee and monitoring of installed capacitors; 
+ 
+
+(h) to evolve consensus on all issues relating to economy and efficiency in the operation of power system in the region. 
+
+ 
+
+2.4.3  The decisions of RPC, arrived at by consensus regarding operation of the regional grid and scheduling and despatch of electricity, if not inconsistent with the provisions of IEGC/CERC Regulations, shall be followed by the concerned RLDC/SLDC/CTU/STU and Users, subject to directions of the Central Commission, if any. 
+ 
+
+2.4.4  Member Secretary, RPC shall, certify transmission system availability factor for regional AC and HVDC transmission systems separately for the purpose of payment of transmission charges: 
+ 
+
+2.4.5  RPC Secretariat or any other person as notified by the Commission from time-to-time, shall prepare monthly Regional Energy Account (REA), weekly unscheduled interchange account, reactive energy account, and congestion charge account, based on data provided by RLDC, and renewable regulatory charge account based on data provided by SLDC/RLDC of the State/Region in which the wind generator is located and any other charges specified by the Commission for the purpose of billing and payments of various charges. 
+ 
+
+2.5 Role of CTU 
+ 
+
+2.5.1  In accordance with the section 38 of Electricity Act, 2003, the functions of the Central Transmission Utility (CTU) shall be- 
+ 
+
+(1) (a) to undertake transmission of electricity through inter-State transmission system; 
+ 
+ 
+
+(b) to discharge all functions of planning and co-ordination relating to inter-State transmission system with- 
+ 
+ 
+
+(i) State Transmission Utilities 
+ 
+
+(ii) Central Government; 
+ 
+
+(iii) State Governments; 
+ 
+
+(iv) generating companies; 
+ 
+
+(v) Regional Power Committees; 
+ 
+
+(vi) Authority; 
+ 
+
+(vii) licensees; 
+ 
+
+(viii) Any other person notified by the Central Government in this behalf; 
+
+ 
+
+(c) to ensure development of an efficient, co-ordinated and economical system of inter-State transmission lines for smooth flow of electricity from generating stations to the load centers; 
+ 
+
+(d) to provide non-discriminatory open access to its transmission system for use by- 
+ 
+ 
+
+(i) any licensee or generating company on payment of the transmission charges; or 
+ 
+
+(ii) any consumer and when such open access is provided by the State Commission under sub-section (2) of section 42 of the Act, on payment of the transmission charges and a surcharge thereon, as may be specified by the Central Commission. 
+
+
+ 
+
+(2) Until a Government company or authority or corporation is notified by the Central Government, the Central Transmission Utility shall operate the Regional Load Despatch Centre. 
+ 
+
+2.5.2 CTU shall not engage in the business of generation of electricity or trading in electricity. 
+ 
+
+2.5.3  In case of inter-State Transmission System, Central Transmission Utility shall be the nodal agency for the connectivity, long-term access and medium-term open access. The procedure formulated by CTU and approved by CERC and modalities in regard to connectivity, long-term access and medium-term open access shall be in accordance with the Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Medium-term Open Access in inter-State Transmission and Related Matters) Regulations, 2009, as amended from time-to-time. 
+ 
+
+2.6 Role of CEA 
+ 
+
+2.6.1  According to the section 73 of Electricity Act, 2003, the functions of CEA as relevant to IEGC are as under: 
+ 
+
+(1) (i) CEA shall formulate short-term and perspective plans for development of the electricity system and co-ordinate the activities of the planning agencies for the optimal utilization of resources to subserve the interests of the national economy and to provide reliable and affordable electricity for all consumers; 
+ 
+ 
+
+(ii) to specify the technical standards for construction of electrical plants, electric lines and connectivity to the grid; 
+ 
+
+(iii) to specify the safely requirements for construction, operation and maintenance of electrical plants and electric lines; 
+ 
+
+(iv) to specify the Grid Standards for operation and maintenance of transmission lines; and, 
+ 
+
+(v) to specify the conditions for installation of meters for transmission and supply of electricity; 
+ 
+
+(vi) to promote and assist in the timely completion of schemes and projects for improving and augmenting the electricity system; 
+ 
+
+(vii) to collect and record the data concerning the generation, transmission, trading, distribution and utilisation of electricity and carry out studies relating to cost, efficiency, competitiveness and such like matters; 
+ 
+
+(viii) to carry out, or cause to be carried out, any Investigation for the purposes of generating or transmitting or distributing electricity. 
+
+ 
+
+(2) CEA shall prepare a National Electricity Plan in accordance with the National Electricity Policy published by the Central Government under the provisions of section 3(1) of Electricity Act, 2003. The CEA shall notify the National Electricity Plan once in five years. 
+ 
+
+2.7 Role of SLDC 
+ 
+
+2.7.1  In accordance with section 32 of Electricity Act, 2003, the State Load Despatch Centre (SLDC) shall have following functions:- 
+ 
+
+(1) The State Load Despatch Centre shall be the apex body to ensure integrated operation of the power system in a State. 
+ 
+
+(2) The State Load Despatch Centre shall- 
+ 
+ 
+
+(a) be responsible for optimum scheduling and despatch of electricity within a State, in accordance with the contracts entered into with the licensees or the generating companies operating in that State; 
+ 
+
+(b) monitor grid operations; 
+ 
+
+(c) keep accounts of the quantity of electricity transmitted through the State grid; 
+ 
+
+(d) exercise supervision and control over the intra-State transmission system; and 
+ 
+
+(e) be responsible for carrying out real time operations for grid control and despatch of electricity within the State through secure and economic operation of the State grid in accordance with the Grid Standards and the State Grid Code. 
+
+ 
+
+2.7.2  In accordance with section 33 of the Electricity Act, 2003 the State Load Despatch Centre in a State may give such directions and exercise such supervision and control as may be required for ensuring the integrated grid operations and for achieving the maximum economy and efficiency in the operation of power system in that State. Every licensee, generating company, generating station, sub-station and any other person connected with the operation of the power system shall comply with the directions issued by the State Load Depatch Centre under sub­-section (1) of section 33 of the Electricity Act, 2003. 
+ 
+
+The State Load Despatch Centre shall comply with the directions of the Regional Load Despatch Centre. 
+ 
+
+2.7.3  In case of inter-State bilateral and collective short-term open access transactions having a state utility or an intra-State entity as a buyer or a seller, SLDC shall accord concurrence or no objection or a prior standing clearance, as the case may be, in accordance with the Central Electricity Regulatory Commission (Open Access in inter-State Transmission) Regulations, 2008, amended from time-to-time. 
+ 
+
+2.8 Role of STU 
+ 
+
+2.8.1  Section 39 of the Electricity Act, 2003, outlines that the functions of the State Transmission Utility (STU) shall be- 
+ 
+
+(1) (a) to undertake transmission of electricity through intra-State transmission system; 
+ 
+ 
+
+(b) to discharge all functions of planning and co-ordination relating to intra-State transmission system with- 
+ 
+ 
+
+(i) Central Transmission Utility; 
+ 
+
+(ii) State Governments; 
+ 
+
+(iii) generating companies; 
+ 
+
+(iv) Regional Power Committees; 
+ 
+
+(v) Authority; 
+ 
+
+(vi) licensees; 
+ 
+
+(vii) any other person notified by the State in this behalf; 
+
+ 
+
+(c) to ensure development of an efficient, co-ordinated and economical system of intra-State transmission lines for smooth flow of electricity from a generating station to the load centers; 
+ 
+
+(d) to provide non-discriminatory open access to its transmission system for use by- 
+ 
+ 
+
+(i) any licensee or generating company on payment of the transmission charges; or 
+ 
+
+(ii) any consumer as and when such open access is provided by the State Commission under sub-section (2) of section 42 of the Act, on payment of the transmission charges and a surcharge thereon, as may be specified by the State Commission. 
+
+
+ 
+
+(2)  Until a Government company or any authority or corporation is notified by the State Government, the State Transmission Utility shall operate the State Load Despatch Centre. 
+ 
+
+------- 
+ 
+
+1 Vide  Central Electricity Regulatory Commission F. No. L-1/18/2010-CERC, dated 28th April, 2010, published in the Gazette of India, Extra., Pt. III, Sec. 4, dated 28th April, 2010, No. 115, as corrected by Corrigendum Notification No. L-1/18/2010-CERC, dated 28th June, 2010. 
+</form><form>
+ 
+
+THE CENTRAL ELECTRICITY REGULATORY COMMISSION (INDIAN ELECTRICITY GRID CODE) REGULATIONS, 20101
+ 
+
+ 
+ 
+
+PART 3 
+ 
+
+PLANNING CODE FOR INTER-STATE TRANSMISSION 
+ 
+
+This Part comprises various aspects of Planning relating to Inter-State transmission systems. 
+ 
+
+3.1 Introduction 
+ 
+ 
+
+(i) In accordance with section 38(2)(b) of Electricity Act, 2003, the Central Transmission Utility (CTU) shall discharge all functions of planning and co-ordination relating to inter-State transmission system in co-ordination with State Transmission Utility, Central Government, State Governments, Generating Companies, Regional Power Committees, Central Electricity Authority (CEA), licensees and any other person notified by the Central Government in this behalf. 
+ 
+
+(ii) In accordance with section 38(2)(d) of Electricity Act, 2003, the Central Transmission Utility (CTU) shall inter-alia provide non-discriminatory open access to its transmission system for use by- 
+ 
+ 
+
+(a) any licensee or generating company on payment of the transmission charges; or 
+ 
+
+(b) any consumer as and when such open access is provided by the State Commission under sub-section (2) of section 42, on payment of the transmission charges and a surcharge thereon, as may be specified by the Central Commission. 
+
+ 
+
+(iii) Similarly, in accordance with section 39(2)(b) of Electricity Act, 2003, the State Transmission Utilities (STUs) shall discharge all functions of planning and co-ordination relating to intra-State transmission system with Central Transmission Utility, State Governments, Generating Companies, Regional Power Committees, Central Electricity Authority (CEA), licensees and any other person notified by the State Government in this behalf. 
+ 
+
+(iv) In accordance with section 39(2)(d) of Electricity Act, 2003, the State Transmission' Utility (STU) shall inter-alia provide non-discriminatory open access to its transmission system for use by- 
+ 
+ 
+
+(a) any licensee or generating company on payment of the transmission charges; or 
+ 
+
+(b) any consumer as and when such open access is provided by the State Commission under sub-section (2) of section 42, on payment of the transmission charges and a surcharge thereon, as may be specified by the State Commission. 
+
+ 
+
+(v) In accordance with section 40 of Electricity Act, 2003, the transmission licensee shall inter alia provide non-discriminatory open access to its transmission system for use by 
+ 
+ 
+
+(a) any licensee or generating company on payment of the transmission charges; or 
+ 
+
+(b) any consumer as and when such open access is provided by the State Commission under sub-section (2) of section 42, on payment of the transmission charges and a surcharge thereon, as may be specified by the State Commission. 
+
+ 
+
+(vi) In accordance with section 3(4) of Electricity Act, 2003, CEA shall inter-alia prepare a National Electricity Plan in accordance with the National Electricity Policy and notify such plan once in five (5) years. In accordance with section 3(5) of Electricity Act, 2003, CEA may review or revise the National Electricity Plan in accordance with the National Electricity Policy. 
+ 
+
+(vii) In accordance with section 73(a) of Electricity Act, 2003, CEA is responsible to advise the Central Government on the matters relating to the National Electricity Policy, formulate short-term and perspective plans for development of the electricity system and co-ordinate the activities of planning agencies for optimal utilization of resources to sub-serve the interests of the national economy and to provide reliable and affordable electricity for all consumers. 
+ 
+
+(viii) The Planning Code specifies the philosophy and procedures to be applied in planning of National Grid, Regional Grids and Inter Regional links. 
+
+ 
+
+3.2 Objective 
+ 
+
+The objectives of Planning Code are as follows: 
+ 
+ 
+
+(a) to specify the principles, procedures and criteria which shall be used in the planning and development of the ISTS and inter regional links; 
+ 
+
+(b) to promote co-ordination amongst all Users, STU/SLDC and CTU/RLDC, NLDC, RPC and CEA in any proposed development of the ISTS; 
+ 
+
+(c) to provide methodology and information exchange amongst Users, STU/SLDC and CTU/RLDC, RPC, NLDC and CEA in the planning and development of the ISTS. 
+
+ 
+
+3.3 Scope 
+ 
+
+The Planning Code applies to CTU, other Transmission licensees, Inter-State Generating Station (ISGS), connected to and/or using and involved in developing the ISTS. This Planning Code also applies to Generating Companies, IPPs, SEBs/STUs and/licensees, regarding generation and/or transmission of energy to/from the ISTS. 
+ 
+
+3.4 Planning Philosophy 
+ 
+ 
+
+(a) CEA would formulate perspective transmission plan for inter-State transmission system as well as intra-State transmission system. These perspective transmission plans would be continuously updated to take care of the revisions in load projections and generation scenarios considering the seasonal and the time of the day variations. In formulating perspective transmission plan the transmission requirement for evacuating power from renewable energy sources shall also be taken care of. The transmission system required for open access shall also be taken into account in accordance with National Electricity Policy so that congestion in system operation is minimized. 
+ 
+
+(b) The CTU shall carry out planning process from time-to-time as per the requirement for identification of inter-State transmission system including transmission system associated with Generation Projects, regional and inter-regional system strengthening schemes which shall fit in with the perspective plan developed by CEA. While planning schemes, the following shall be considered in addition to the data of authenticated nature collected from and in consultation with users by CTU:- 
+ 
+
+(i) Perspective plan formulated by CEA; 
+ 
+
+(ii) Electric Power Survey of India published by the CEA; 
+ 
+
+(iii) Transmission Planning Criteria and guidelines issued by the CEA; 
+ 
+
+(iv) Operational feedback from RPCs; 
+ 
+
+(v) Operational feedback from NLDC/RLDC/SLDC; 
+ 
+
+(vi) Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Medium-term Open Access in inter-State Transmission and related matters) Regulations, 2009; 
+ 
+
+(vii) Renewable capacity addition plan issued by Ministry of New and Renewable Energy Sources (MNRES), Government of India. 
+ 
+
+(c) In addition to the inter-State transmission system, the CTU shall plan, from time-to-time, system strengthening schemes, need of which may arise to overcome the constraints in power transfer and to improve the overall performance of the grid. The inter­-State transmission proposals including system strengthening scheme identified on the basis of the planning studies would be discussed, reviewed and finalized in the meetings of Regional Standing Committees for Transmission Planning constituted by CEA, in consultation with the Regional Entities, RPC, CEA, NLDC and the RLDC and action may be taken by CTU on the basis of Power Purchase Agreements (PPAs) signed with the beneficiaries. In case of associated transmission system where all PPAs have not yet been signed, and where agreement could not be reached in respect of system strengthening schemes, the CTU may approach CERC for the regulatory approval in accordance with Central Electricity Regulatory Commission (Grant of Regulatory Approval for Capital Investment to CTU for execution of Inter-State Transmission Scheme) Regulations, as and when they come into force. 
+ 
+
+(d) All, STUs and Users will supply to the CTU, the desired planning data from time-to-time to enable to formulate and finalize its plan. 
+ 
+
+(e) As voltage management plays an important role in inter-State transmission of energy, special attention shall be accorded, by CTU, for planning of capacitors, reactors, SVC and Flexible Alternating Current Transmission Systems (FACTS), etc. Similar exercise shall be done by STU for intra-State transmission system to optimize the utilistion of the integrated transmission network. 
+ 
+
+(f) Based on Plans prepared by the CTU, State Transmission Utilities (STU) shall have to plan their systems to further evacuate power from the ISTS and to optimize the use of integrated transmission network. 
+ 
+
+(g) In case Long-Term Access Applications require any strengthening in the intra-State transmission system to absorb/evacuate power beyond ISTS, the applicant shall co-ordinate with the concerned, STU. STU shall augment the intra-State transmission system in a reasonable time to facilitate the interchange of such power. 
+ 
+
+(h) The Inter-State Transmission System and associated intra-State transmission system are complementary and inter-dependent and planning of one affects the other's planning and performance. Therefore, the associated intra-State transmission system shall also be discussed and reviewed before implementation during the discussion for finalizing ISTS proposal indicated at 3.4 (b) above. 
+
+ 
+
+3.5 Planning Criterion 
+ 
+
+General Philosophy 
+ 
+ 
+
+(a) The planning criterion are based on the security philosophy on which the ISTS has been planned. The security philosophy may be as per the Transmission Planning Criteria and other guidelines as given by CEA. The general policy shall be as detailed below: 
+ 
+ 
+
+(i) As a general rule, the ISTS shall be capable of withstanding and be secured against the following contingency outages:- 
+
+ 
+
+(a) without necessitating load shedding or rescheduling of generation during Steady State Operation- 
+ 
+ 
+
+- Outage of a 132 kV D/C line or, 
+ 
+
+- Outage of a 220 kV D/C line or, 
+ 
+
+- Outage of a 400 kV S/C line or, 
+ 
+
+- Outage of single Interconnecting Transformer, or 
+ 
+
+- Outage of one pole of HVDC Bipole line, or one pole of HVDC back to back Station or 
+ 
+
+- Outage of 765 kV S/C line 
+
+ 
+
+(b) without necessitating load shedding but could be with rescheduling of generation during Steady State Operation- 
+ 
+ 
+
+- Outage of a 400 kV S/C line with TCSC, or 
+ 
+
+- Outage of a 400kV D/C line, or 
+ 
+
+- Outage of both pole of HVDC Bipole line or both poles of HVDC back to back Station or 
+ 
+
+- Outage of a 765kV S/C line with series compensation. 
+ 
+ 
+
+(ii) The above contingencies shall be considered assuming a pre-contingency system depletion (Planned outage) of another 220 kV D/C line or 400 kV S/C line in another corridor and not emanating from the same substation. The planning study would assume that all the Generating Units operate within their reactive capability curves and the network voltage profile are also maintained within voltage limits specified. 
+
+
+ 
+
+(b) The ISTS shall be capable of withstanding the loss of most severe single system infeed without loss of stability. 
+ 
+
+(c) Any one of these events defined above shall not cause:- 
+ 
+ 
+
+(i) loss of supply; 
+ 
+
+(ii) prolonged operation of the system frequency below and above specified limits; 
+ 
+
+(iii) unacceptable high or low voltage; 
+ 
+
+(iv) system instability; 
+ 
+
+(v) unacceptable overloading of ISTS elements. 
+
+ 
+
+(d) In all substations (132 kV and above), at least two transformers shall be provided. 
+ 
+
+(e) CTU shall carry out planning studies for Reactive Power compensation of ISTS including reactive power compensation requirement at the generator's /bulk consumer's switchyard and for connectivity of new generator/bulk consumer to the ISTS, in accordance with Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Medium-term Open Access in inter-State Transmission and Related Matters) Regulations, 2009. 
+ 
+
+(f) Suitable System Protection Schemes may be planned by NLDC/RLDC in consultation with CEA, CTU, RPC and the Regional Entities, either for enhancing transfer capability or to take care of contingencies beyond that indicated in a(i) above. 
+
+ 
+
+3.6 Planning Data 
+ 
+ 
+
+(a) Under this Planning Code, the Regional entities/STUs/State Generating Companies/IPPs/licensees are to supply data in accordance with the detailed procedures mentioned in the Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Medium-term Open Access in inter-State Transmission and Related Matters) Regulations, 2009. 
+
+ 
+
+3.7 Implementation of Transmission Plan 
+ 
+
+The actual program of implementation of transmission lines, Inter­connecting Transformers, reactors/capacitors and other transmission elements will be in accordance with the detailed procedures mentioned in the Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and 
+      Medium-term Open Access in inter-State Transmission and Related Matters) Regulations, 2009. 
+ 
+
+------- 
+ 
+
+1 Vide  Central Electricity Regulatory Commission F. No. L-1/18/2010-CERC, dated 28th April, 2010, published in the Gazette of India, Extra., Pt. III, Sec. 4, dated 28th April, 2010, No. 115, as corrected by Corrigendum Notification No. L-1/18/2010-CERC, dated 28th June, 2010. 
+</form><form>
+ 
+
+THE CENTRAL ELECTRICITY REGULATORY COMMISSION (INDIAN ELECTRICITY GRID CODE) REGULATIONS, 20101
+ 
+
+ 
+ 
+
+PART 4 
+ 
+
+CONNECTION CODE 
+ 
+
+4.1 Introduction 
+ 
+
+CTU, STU and Users connected to, or seeking connection to ISTS shall comply with Central Electricity Authority (Technical Standards for Connectivity to the Grid) Regulations, 2007 which specifies the minimum technical and design criteria and Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Medium-term Open Access in inter-State Transmission and Related Matters) Regulations, 2009. 
+ 
+
+4.2 Objective 
+ 
+
+The objective of the code is as given below: 
+ 
+ 
+
+(a) to ensure the safe operation, integrity and reliability of the grid; 
+ 
+
+(b) that the basic rules for connectivity are complied with in order to treat all users in a non-discriminatory manner; 
+ 
+
+(c) any new or modified connections, when established, shall neither suffer unacceptable effects due to its connectivity to the ISTS nor impose unacceptable effects on the system of any other connected User or STU; 
+ 
+
+(d) any person seeking a new connection to the grid is required to be aware, in advance, of the procedure for connectivity to the ISTS and also the standards and conditions his system has to meet for being integrated into the grid. 
+
+ 
+
+4.3 Scope 
+ 
+
+The Connection code applies to CTU, STU and all Users connected to or seeking connection to the ISTS. The Connection code does not apply to Generating Units, transmission/distribution systems embedded in the intra-State systems, and not connected to the ISTS. However, such entities shall abide by the CEA (Technical Standards for Connectivity to the Grid) Regulations, 2007, in order to ensure that the integrated grid is not adversely affected. 
+ 
+
+4.4 Procedure for connection 
+ 
+
+A User seeking to establish new or modified arrangement of connection to or for use of ISTS, shall submit an application on standard format to CTU in accordance with Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Medium-term Open Access in inter-State Transmission and Related Matters) Regulations, 2009. 
+ 
+
+The CTU shall process the application for grant of connectivity in accordance with these regulations. 
+ 
+
+4.5 Connection Agreement 
+ 
+
+A Connection agreement shall be signed by the applicant in accordance with the Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Medium-term Open Access in inter-State Transmission and Related Matters) Regulations, 2009. 
+ 
+
+4.6 Important Technical Requirements for Connectivity to the Grid 
+ 
+
+4.6.1 Reactive Power Compensation .-(a) Reactive Power compensation and/or other facilities, shall be provided by STUs, and Users connected to ISTS as far as possible in the low voltage systems close to the load points thereby avoiding the need for exchange of Reactive Power to/from ISTS and to maintain ISTS voltage within the specified range. 
+ 
+ 
+
+(b) The person already connected to the grid shall also provide additional reactive compensation as per the quantum and time frame decided by respective RPC in consultation with RLDC. The Users and STUs shall provide information to RPC and RLDC regarding the installation and healthiness of the reactive compensation equipment on regular basis. RPC shall regularly monitor the status in this regard. 
+
+ 
+
+4.6.2 Data and Communication Facilities -Reliable and efficient speech and data communication systems shall be provided to facilitate necessary communication and data exchange, and supervision/control of the grid by the RLDC, under normal and abnormal conditions. All Users, STUs and CTU shall provide Systems to telemeter power system parameter such as flow, voltage and status of switches/ transformer taps etc. in line with interface requirements and other guideline made available by RLDC. The associated communication system to facilitate data flow up to appropriate data collection point on CTU's system, shall also be established by the concerned User or STU as specified by CTU in the Connection Agreement. All Users/STUs in coordination with CTU shall provide the required facilities at their respective ends as specified in the Connection Agreement. 
+ 
+
+4.6.3 System Recording Instruments -Recording instruments such as Data Acquisition System/Disturbance Recorder/Event Logging Facilities/Fault Locator (including time synchronization equipment) shall be provided and shall always be kept in working condition in the ISTS for recording of dynamic performance of the system. All Users, STUs and CTU shall provide all the requisite recording instruments and shall always keep them in working condition. 
+ 
+
+4.6.4 Responsibilities for safety -CTU/STU and the concerned Users shall be responsible for safety in accordance with Central Electricity Authority (Technical Standards for connectivity to the Grid) Regulations, 2007, Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Medium-term Open Access in inter-State Transmission and Related Matters) Regulations, 2009 and CEA (Safety. Requirements for Construction, Operation and Maintenance of Electrical and Electric Lines) Regulations, 2008. 
+ 
+
+4.6.5 Cyber Security -All utilities shall have in place, a cyber security framework to identify the critical cyber assets and protect them so as to support reliable operation of the grid. 
+ 
+
+4.7 International Connections to ISTS 
+ 
+
+The procedure for international Connection to ISTS and the execution of agreement for the same shall be determined by CTU in consultation with CEA and Ministry of Power (MOP). 
+ 
+
+4.8 Schedule of assets of Regional Grid 
+ 
+
+CTU and other transmission licensees granted license by CERC shall submit annually to CERC by 30 th September each year a schedule of transmission assets, which constitute the Regional Grid as on 31 st March of that year indicating ownership on which RLDC has operational control and responsibility. 
+ 
+
+------- 
+ 
+
+1 Vide  Central Electricity Regulatory Commission F. No. L-1/18/2010-CERC, dated 28th April, 2010, published in the Gazette of India, Extra., Pt. III, Sec. 4, dated 28th April, 2010, No. 115, as corrected by Corrigendum Notification No. L-1/18/2010-CERC, dated 28th June, 2010. 
+</form><form>
+ 
+
+THE CENTRAL ELECTRICITY REGULATORY COMMISSION (INDIAN ELECTRICITY GRID CODE) REGULATIONS, 20101
+ 
+
+ 
+ 
+
+PART 5 
+ 
+
+OPERATING CODE 
+ 
+
+5.1 Operating Philosophy 
+ 
+ 
+
+(a) The primary objective of integrated operation of the National/ Regional grids is to enhance the overall operational reliability and economy of the entire electric power network spread over the geographical area of the interconnected system. Participant utilities shall co-operate with each other and adopt Good Utility Practice at all times for satisfactory and beneficial operation of the National/Regional grid. 
+ 
+
+(b) Overall operation of the National/inter-regional grid shall be supervised from the National Load Despatch Centre (NLDC). Operation of the. Regional grid shall be supervised from the Regional Load Despatch Centre (RLDC). The roles of NLDC, RLDC, RPC and SLDC shall be in accordance with the provisions made in Part 2 of the IEGC. 
+ 
+
+(c) All persons shall comply with this Operating Code, for deriving maximum benefits from the integrated operation and for equitable sharing of obligations. 
+ 
+
+(d) All licensees, generating company, generating station and any other person connected with the operation power system shall comply with the directions issued by the respective RLDC/SLDC to ensure integrated grid operation and for achieving the maximum economy and efficiency in the operation of the power system. 
+ 
+
+(e) A set of detailed operating procedures for the National grid shall be developed and maintained by the NLDC in consultation with the RLDCs, for guidance of the staff of the NLDC and it shall be consistent with IEGC to enable compliance with the requirement of this IEGC. 
+ 
+
+(f) A set of detailed operating procedures for each regional grid shall be developed and maintained by the respective RLDC in consultation with the regional entities for guidance of the staff of RLDC, and shall be consistent with IEGC to enable compliance with the requirement of this IEGC. 
+ 
+
+(g) A set of detailed operating procedures for each state grid shall be developed and maintained by the respective SLDC in consultation with the concerned persons for guidance of the staff of SLDC and shall be consistent with IEGC to facilitate compliance with the requirement of this IEGC. 
+ 
+
+(h) The control rooms of the NLDC, RLDC, all SLDCs, power plants, substation of 132 kV and above, and any other control centers of all regional entities shall be manned round the clock by qualified and adequately trained personnel. Training requirements may be notified by the Commission from time-to-time, by orders. 
+
+ 
+
+5.2 System Security Aspects 
+ 
+ 
+
+(a) All Users, CTU and STUs shall endeavor to operate their respective power systems and power stations in an integrated manner at all times. 
+ 
+
+(b) No part of the grid shall be deliberately isolated from the rest of the National/Regional grid, except (i) under an emergency, and conditions in which such isolation would prevent a total grid collapse and/or would enable early restoration of power supply, (ii) for safety of human life, (iii) when serious damage to a costly equipment is imminent and such isolation would prevent it, (iv) when such isolation is specifically instructed by RLDC. Complete synchronization of grid shall be restored as soon as the conditions again permit it. The restoration process shall be supervised by RLDC, in co-ordination with NLDC /SLDC in accordance with operating procedures separately formulated NLDC/RLDC. 
+ 
+
+(c) No important element of the National/Regional grid shall be deliberately opened or removed from service at any time, except when specifically instructed by RLDC or with specific and prior clearance of RLDC. The list of such important grid elements on which the above stipulations apply shall be prepared by the RLDC in consultation with the concerned Users, CTU and STUs, and be available at the websites of NLDC/RLDC/SLDCs. In case of opening/removal of any important element of the grid under an emergency situation, the same shall be communicated to RLDC at the earliest possible time after the event. RLDC shall inform the opening/removal of the important elements of the regional grid, to NLDC, and to the concerned Regional Entities (whose grid would be affected by it) as specified in the detailed operating procedure by NLDC. 
+ 
+
+(d) Any tripping, whether manual or automatic, of any of the above elements of Regional grid shall be precisely intimated by the concerned SLDC/CTU/User to RLDC as soon as possible, say within ten minutes of the event. The reason (to the extent determined) and the likely time of restoration shall also be intimated. All reasonable attempts shall be made for the elements' restoration as soon as possible. RLDC shall inform the tripping of the important elements of the regional grid, to NLDC, and to the concerned Regional Entities (whose grid would be affected by it) as specified in the detailed operating procedure by NLDC. 
+ 
+
+(e) Any prolonged outage of power system elements of any User/CTU/STU, which is causing or likely to cause danger to the grid or sub-optimal operation of the grid shall regularly be monitored by RLDC. RLDC shall report such outages to RPC. RPC shall finalise action plan and give instructions To restore such elements in a specified time period. 
+ 
+
+(f) All thermal generating units of 200 MW and above and all hydro units of 10 MW and above, which are synchronized with the grid, irrespective of their ownership, shall have their governors in operation at all times in accordance with the following provisions: 
+
+ 
+
+Governor Action 
+ 
+ 
+
+(i) Following Thermal and Hydro (except those with upto three hours pondage) generating units shall be operated under restricted governor mode of operation with effect from the date given below: 
+ 
+
+(a) Thermal generating units of 200 MW and above, 
+ 
+
+(1) Software based Electro Hydraulic 1-8-2010  
+
+  Governor (EHG) system: 
+ 
+
+(2) Hardware based EHG system 1-8-2010 
+ 
+
+(b) Hydro units of 10 MW and above 1-8-2010 
+ 
+
+(ii) The restricted governor mode of operation shall essentially have the following features:- 
+ 
+ 
+
+(a) There should not be any reduction in generation in case of improvement in grid frequency below 50.2 Hz. (for example if grid frequency changes from 49.3 to 49.4 Hz. then there shall not be any reduction in generation). Whereas for any fall in grid frequency, generation from the unit should increase by 5% limited to 105 % of the MCR of the unit subject to machine capability. 
+ 
+
+(b) Ripple filter of +/- 0.03 Hz. shall be provided so that small changes in frequency are ignored for load correction, in order to prevent governor hunting. 
+ 
+
+(c) If any of these generating units is required to be operated without its governor in operation as specified above, the RLDC shall be immediately advised about the reason and duration of such operation. All governors shall have a droop setting of between 3% and 6%. 
+ 
+
+(d) After stablisation of frequency around 50 Hz, the CERC may review the above provision regarding the restricted governor mode of operation and free governor mode of operation may be introduced. 
+ 
+ 
+
+(iii) All other generating units including the pondage upto 3 hours Gas turbine/Combined Cycle Power Plants, wind and solar generators and Nuclear Power Stations shall be exempted from sections 5.2 (f), 5.2 (g), 5.2 (h)  
+
+        and 5.2 (i) till the Commission reviews the situation. 
+
+ 
+
+(g) Facilities available with/in load limiters, Automatic Turbine Run-­up System (ATRS), Turbine supervisory control, co-ordinated control system, etc., shall not be used to suppress the normal governor action in any manner and no dead bands and/or time delays shall be deliberately introduced except as specified in para 5.2(f) above. 
+ 
+
+(h) All thermal generating units of 200 MW and above and all hydro units of 10 MW and above operating at or up to 100% of their Maximum Continuous Rating (MCR) shall normally be capable of (and shall not in any way be prevented from) instantaneously picking up to 105% and 110% of their MCR, respectively, when frequency falls suddenly. After an increase in generation as above, a generating unit may ramp back to the original level at a rate of about one percent (1%) per minute, in case continued operation at the increased level is not sustainable. Any generating unit not complying with the above requirements, shall be kept in operation (synchronized with the Regional grid) only after obtaining the permission of RLDC. 
+ 
+
+(i) The recommended rate for changing the governor setting, i.e ., supplementary control for increasing or decreasing the output (generation level) for all generating units, irrespective of their type and size, would be one (1.0) per cent. per minute or as per manufacturer's limits. However, if frequency falls below 49.7Hz, all partly loaded generating units shall pick up additional load at a faster rate, according to their capability. 
+ 
+
+(j) Except under an emergency, or to prevent an imminent damage to a costly equipment, no user shall suddenly reduce his generating unit output by more than one nundred (100) MW (20 MW in case of NER) without prior intimation to and consent of the RLDC, particularly when frequency is falling or is below 49.5 Hz. Similarly, no User/SEB shall cause a sudden variation in its load by more than one hundred (100MW) without prior intimation to and consent of the RLDC. 
+ 
+
+(k) All generating units shall normally have their automatic voltage regulators (AVRs) in operation. In particular, if a generating unit of over fifty (50) MW size is required to be operated without its AVR in service, the RLDC shall be immediately intimated about the reason and durations and its permission obtained. Power System Stabilizers (PSS) in AVRs of generating units (wherever provided), shall be got properly tuned by the respective generating unit owner as per a plan prepared for the purpose by the CTU/RPC from time-to-time CTU/RPC will be allowed to carry out checking of PSS and further tuning it, wherever considered necessary. 
+ 
+
+(l) Provision of protections and relay settings shall be co-ordinated periodically throughout the Regional grid, as per a plan to be separately finalized by the Protection sub-committee of the RPC. 
+ 
+
+(m) All Users, SEB, SLDCs, RLDCs, and NLDC shall take all possible measures to ensure that the grid frequency always remains within the 49.5-50.2 Hz band. 
+ 
+
+(n) All SEBS, distribution licensees/STUs shall provide automatic under-frequency and df/dt relays for load shedding in their respective systems, to arrest frequency decline that could result in a collapse/disintegration of the grid, as per the plan separately finalized by the concerned RPC and shall ensure its effective application to prevent cascade tripping of generating units in case of any contingency. All SEBs, distribution licensees, CTU, STUs and SLDCs shall ensure that the above under-frequency and df/dt load shedding/islanding schemes are always functional. RLDC shall inform RPC Secretariat about instance when the desired load relief is not obtained through these relays in real time operation. The provisions regarding under frequency and df/dt relays of relevant CEA Regulations shall be complied with. SLDC shall furnish monthly report of UFR and df/dt relays operation in their respective system to the respective RPC. 
+ 
+
+RPC Secretariat shall carry out periodic inspection of the under frequency relays and maintain proper records of the inspection. RPC shall decide and intimate the action required by SEB, distribution licensee and STUs to get required load relief from Under Frequency and Df/Dt relays. All SEB, distribution licensee and STUs shall abide by these decisions. RLDC shall keep a comparative record of expected load relief and actual load relief obtained in Real time system operation. A monthly report on expected load relief vis-à-vis actual load relief shall be sent to the RPC and the CERC. 
+ 
+
+(o) All Users, STU/SLDC, CTU/RLDC and NLDC, shall also facilitate identification, installation and commissioning of System Protection Schemes (SPS) (including inter-tripping and run-back) in the power system to operate the transmission system closer to their limits and to protect against situations such as voltage collapse and cascade tripping, tripping of important corridors/flow-gates etc.. Such schemes would be finalized by the concerned RPC forum, and shall always be kept in service. If any SPS is to be taken out of service, permission of RLDC shall be obtained indicating reason and duration of anticipated outage from service. 
+ 
+
+(p) Procedures shall be developed to recover from partial/total collapse of the grid in accordance with CEA (Grid Standards) Regulations as and when the same comes into force and periodically update the same in accordance with the requirements given under section 5.8. These procedures shall be followed by all the Users, STU/SLDC and CTU, RLDC to ensure consistent, reliable and quick restoration. 
+ 
+
+(q) Each User, STU, RLDC, NLDC and CTU shall provide and maintain adequate and reliable communication facility internally and with other Users/STUs /RLDC/SLDC to ensure exchange of data/information necessary to maintain reliability and security of the grid. Wherever possible, redundancy and alternate path shall be maintained for communication along important routes, e.g ., SLDC to RLDC to NLDC. 
+ 
+
+(r) All the Users, STU/SLDC and CTU shall send information/data including disturbance recorder/sequential event recorder output to RLDC within one week for purpose of analysis of any grid disturbance/event. No User, SLDC/STU or CTU shall block any data/information required by the RLDC and RPC for maintaining reliability and security of the grid and for analysis of an event. 
+ 
+
+(s) All Users, RLDC, SLDC, STUs, CTU and NLDC shall take all possible measures to ensure that the grid voltage always remains within the following operating range:- 
+ 
+
+Voltage - (kV rms)
+ 
+ 
+  
+
+Nominal
+  
+
+Maximum
+  
+
+Minimum
+
+ 
+  
+
+765
+ 
+
+400
+ 
+
+220
+ 
+
+132
+ 
+
+110
+ 
+
+66
+ 
+
+33
+  
+
+800
+ 
+
+420
+ 
+
+245
+ 
+
+145
+ 
+
+121
+ 
+
+72
+ 
+
+36
+  
+
+728
+ 
+
+380
+ 
+
+198
+ 
+
+122
+ 
+
+99
+ 
+
+60
+ 
+
+39
+
+
+ 
+
+(t) All Users, CTU and STUs shall provide adequate voltage control measures through voltage relay as finalized by RPC, to prevent voltage collapse, and shall ensure its effective application to prevent voltage collapse, cascade tripping. 
+ 
+
+(u) Special requirements for Solar/wind generators -System operator (SLDC/ RLDC) shall make all efforts to evacuate the available solar and wind power and treat as a must-run station. However, System operator may instruct the solar/wind generator to back down generation on consideration of grid security or safety of any equipment or personnel is endangered and solar/wind generator shall comply with the same. For this, Data Acquisition System facility shall be provided for transfer of information to concerned SLDC and RLDC- 
+ 
+ 
+
+(i) SLDC/RLDC may direct a wind farm to curtail its VAr drawl/injection in case the security of grid or safety of any equipment or personnel is endangered. 
+
+ 
+
+(ii) During the wind generator start-up, the wind generator shall ensure that the reactive power drawl (inrush currents incase of induction generators) shall not affect the grid performance. 
+ 
+
+5.3 Demand Estimation for Operational Purposes 
+ 
+
+(a) This section describes the procedures/responsibilities of the SLDCs for demand estimation for both Active Power and Reactive Power. 
+ 
+
+(b) The demand estimation is to be done on daily/weekly/monthly /yearly basis for current year for load - generation balance planning. The SLDC shall carry out system studies for operational planning purposes using this demand estimate. 
+ 
+
+(c) Each SLDC shall develop methodologies/mechanisms for daily/weekly/monthly/yearly demand estimation (MW, MVAr and MWh) for operational purposes. Based on this demand estimate and the estimated availability from different sources, SLDC shall plan demand management measures like load shedding, power cuts, etc., and shall ensure that the same is implemented by the SEB/distribution licensees. SLDCs. All SEBs/distribution licensees shall abide by the demand management measures of the SLDCs and shall also maintain historical database for demand estimation. 
+ 
+
+(d) Each SLDG shall carry out its own demand estimation from the historical date and weather forecast date from time-to-time. All distribution licensees and other concerned persons shall provide relevant date and other information as required by SLDC for demand estimate. 
+ 
+
+(e) While the demand estimation for operational purposes is to be done on a daily/weekly/monthly basis initially, mechanisms, and facilities at SLDCs shall be created at the earliest but not later than 1-1-2011 to facilitate on-line estimation of demand for daily operational use for each 15 minutes block. 
+ 
+
+(f) The monthly estimated demand by the SLDC shall be provided to RLDC and RPC for better operation planning. 
+ 
+
+(g) The SLDC shall take into account the Wind Energy forecasting to meet the active and reactive power requirement. 
+ 
+
+(h) In order to facilitate estimation of Total Transfer Capability/Available Transfer Capability on three month ahead basis, the SLDC shall furnish estimated demand and availability date to RLDCs. 
+
+
+ 
+
+5.4 Demand Management 
+ 
+
+5.4.1 Introduction -This section is, concerned with the provisions to be made by SLDCs to effect a reduction of demand in the event of insufficient generating capacity, and inadequate transfers from external interconnections to meet demand, or in the event of breakdown or congestion in intra-State or inter-State transmission system or other operating problems (such as frequency, voltage levels beyond normal operating limit, or thermal overloads, etc.) or overdrawl of power vis-à-vis of the regional entities beyond the limits mentioned in UI regulation of CERC. 
+ 
+
+5.4.2 Demand Disconnection -(a) SLDC/SEB/distribution licensee and bulk consumer shall initiate action to restrict the drawal of its control area, from  
+
+  the grid, within the net drawal schedule whenever the system frequency falls  
+
+  to 49.7 Hz. 
+ 
+ 
+ 
+
+(b) The SLDC/SEB/distribution licensee and bulk consumer shall ensure that requisite load shedding is carried out in its control area so that there is no overdrawl when frequency is 49.5 Hzs. or below. 
+ 
+
+(c) Each User/STU/SLDC shall formulate contingency procedures and make arrangements that will enable demand disconnection to take place, as instructed by the RLDC/SLDC, under normal and/or contingent conditions. These contingency procedures and arrangements shall regularly be/updated by  
+
+    User/STU and monitored by RLDC/SLDC. RLDC/SLDC may direct any User/STU to modify the above procedures/arrangement, if required, in the interest of grid security and the concerned User/STU shall abide by these directions. 
+ 
+
+(d) The SLDC through respective State Electricity Boards/Distribution Licensees shall also formulate and implement state-of-the-art demand management schemes for automatic demand management like rotational load shedding, demand response (which may include lower tariff for interruptible loads) etc. before, 1-1-2011, to reduce overdrawl in order to comply para 5.4.2 (a) and (b). A report detailing the scheme and periodic reports on progress of implementation of the schemes shall be sent to be Central Commission by the concerned SLDC. 
+ 
+
+(e) In order to maintain the frequency within the stipulated band and maintaining the network security, the interruptible loads shall be arranged in four groups of loads, for scheduled power cuts/load shedding, loads for unscheduled load shedding, loads to be shed through under frequency relays/df/dt relays and toads to be shed under any System Protection Scheme identified at the RPC level These loads shall be grouped in such a manner, that there is no overlapping between different Groups of loads. In case of certain contingencies and/or threat to system security, the RLDC may direct any SLDC/SEB/distribution licensee or bulk consumer connected to the ISTS to decrease drawal of its control area by a certain quantum. Such directions shall immediately be acted upon. SLDC shall send compliance report immediately after compliance of these directions to RLDC. 
+ 
+
+(f) To comply with the direction of RLDC, SLDC may direct any SEB/distribution licensee/bulk consumer connected to the STU to curtail drawal from grid. SLDC shall monitor the action taken by the concerned entity and ensure the reduction of drawal from the grid as directed by RLDC. 
+ 
+
+(g) RLDCs shall devise standard, instantaneous, message formats in order to give directions in case of contingencies and/or threat to the system security to reduce overdrawl by the bulk consumer, SLDC/State at different overdrawal conditions depending upon the severity of the overdrawal. The concerned SLDC shall ensure immediate compliance with these directions of RLDC and send a compliance report to the concerned RLDC. 
+ 
+
+(h) All Users, SLDC/SEB/distribution licensee or bulk consumer shall comply with direction of RLDC/SLDC and carry put requisite load shedding or backing down of generation in case of congestion in transmission system to ensure safety and reliability of the system. The procedure for application of measures to relieve congestion in real time as well as provisions of withdrawl of congestion shall be in accordance with Central Electricity Regulatory Commission (Measures to Relieve Congestion in Real Time Operation) Regulations, 2009. 
+ 
+
+(i) The measures taken by the User's, SLDC SEB/distribution licensee or bulk consumer shall not be withdrawn as long as the frequency remains at a level lower than the limits specified in para 5.2 or congestion continues, unless specifically permitted by the RLDC/SLDC. 
+
+
+ 
+
+5.5 Periodic Reports 
+ 
+
+5.5.1  (a) A weekly report covering performance of the national/integrated grid in previous week shall be prepared by NLDC. Such weekly report shall be available on the website of the NLDC for at least 12 weeks. A monthly report covering performance of the national/integrated grid shall be prepared by NLDC and shall be sent to CERC, CEA, RLDCs and RPCs and made available on its web site. 
+ 
+ 
+ 
+
+(b) A daily report covering the performance of the regional grid shall be prepared by each RLDC based on the inputs received from SLDCs/Users and shall be put on its website. This report shall also cover the wind power generation and injection in to grid. 
+ 
+
+(c) A weekly report shall be put on its website by RLDC and shall cover the performance of the Regional grid for the previous week. Such weekly report shall also be available on the website of the RLDC concerned for at least 12 weeks. 
+ 
+
+The weekly reports shall contain the following:- 
+ 
+
+(a) Frequency profile; 
+ 
+
+(b) Voltage profile of important substations and sub-stations normally having low/high voltages; 
+ 
+
+(c) Major Generation and Transmission Outages; 
+ 
+
+(d) Transmission Constraints; 
+ 
+
+(e) Instances of persistent/significant non-compliance of IEGC; 
+ 
+
+(f) Instances of congestion in transmission system; 
+ 
+
+(g) Instances of inordinate delays in restoration of transmission elements and generating units; 
+ 
+
+(h) Non-compliance of instructions of SLDC by SEB/distribution licenses/bulk consumers, to curtail drawal resulting in non-compliance of IEGC. 
+
+
+ 
+
+5.5.2 Other Reports -(a) The RLDC shall prepare a quarterly report which shall bring out the system constraints, reasons for not meeting the requirements, if any, of security standards and quality of service, along with details of various actions taken by different persons, and the persons responsible for causing the constraints. 
+ 
+ 
+ 
+
+(b)The RLDC shall also provide information/report to the RPC in the interest of smooth operation of ISTS. 
+ 
+
+5.6 Operational Liaison 
+
+
+ 
+
+5.6.1 Introduction -(a) This section sets out the requirements for the exchange of information in relation to Operations and/or Events on the total grid system which have had or will have an effect on- 
+ 
+ 
+ 
+
+1. National grid; 
+ 
+
+2. The Regional grid; 
+ 
+
+3. The ISTS in the Region; 
+ 
+
+4. The system of a User and STU. 
+ 
+
+The above generally relates to notifying of what is expected to happen or what has happened and nor the reasons why. 
+ 
+
+(b) The Operational liaison function is a mandatory built-in hierarchical function of the NLDC, RLDC, SLDC and Users, to facilitate quick transfer of information to operational staff. It will correlate the required inputs for optimization of decision making and actions. 
+
+
+ 
+
+5.6.2 Procedure for Operational Liaison -(a) Operations and events on the Regional grid; 
+ 
+ 
+ 
+
+. Before any Operation is carried out on Regional grid, the RLDC will inform each User/SLDC/CTU, whose system may, or will, experience an operational effect, and give details of the operation to be carried out. 
+ 
+
+. Immediately following an event on Regional grid, the RLDC will inform each User/SLDC/CTU, whose system may, or will, experience an operational effect following the event, and give details of what has happened in the event. 
+ 
+
+. Any operation in a region having impact on other region(s) shall be intimated by the concerned RLDC to NLDC. 
+ 
+
+. Immediately following an event in the National/integrated Grid, NLDC would keep all RLDCs informed about such events. 
+ 
+
+(b) Operations and events on a User/STU/System- 
+ 
+
+. Before any operation is carried out on a User/STU system, the User's/SLDC will inform the RLDC, in case the Regional grid may, or will, experience an Operational effect, and give details of the operation be carried out. In case such operation is likely to have impact on other regions, the RLDC of those Regions shall also be informed through NLDC. 
+ 
+
+. Immediately following an event on User's/STU system, the User's/SLDC will inform the RLDC, in case the Regional grid may, or will, experience an operational effect following the event, and give details of what has happened in the event but not the reasons why. In case such event is likely to have impact on other regions, the RLDCs of concerned those regions shall also be informed through NLDC. 
+ 
+
+. Forced outages of important network elements in the grid shall be closely monitored at the PFC level PFC shall send a monthly report of prolonged outage of generators or transmission facilities to the Commission. 
+ 
+
+5.7 Outage Planning 
+
+
+ 
+
+5.7.1 Introduction -(a) This section sets out the procedure for preparation of outage schedules for the elements of the National/Regional grid in a co-ordinated and optimal manner keeping in view the Regional system operating conditions and the balance of generation and demand. (List of elements of grid covered under these stipulations shall be prepared and be available with NLDC, RLDC and SLDCs). 
+ 
+
+(b) The generation output and transmission system, should be adequate after taking into account the outages to achieve the security standards. 
+ 
+
+(c) Annual outage plan shall be prepared in advance for the financial year by the RPC Secretariat in consultation with NLDC and RLDC and reviewed during the year on quarterly and Monthly basis. All, Users, CTU, STU, etc., shall follow these annual outage plans. If any deviation is required the same shall be with prior permission of concerned RPC and RLDC. The outage planning of run-of-the-river hydro plant, wind and solar power plant and its associated evacuation network shall be planned to extract maximum power from these renewable sources of energy. Outage of wind generator should be planned during lean wind season, outage of solar, if required during the rainy season and outage of run-of-the river hydro power plant in the lean water season. 
+ 
+
+5.7.2 Objective -(a) To produce a coordinated generation and transmission outage programme for the National/Regional grid, considering all the available resources and taking into account transmission constraints, as well as, irrigational requirements. 
+ 
+
+(b) To minimise surplus or deficits, if any, in the system requirement of power and energy and help operate system within Security Standards. 
+ 
+
+(c) To optimize the transmission outages of the elements of the National/Regional grid without adversely affecting the grid operation but taking into account the Generation Outage Schedule, outages of User/STU/CTU systems and maintaining system security standards. 
+ 
+
+5.7.3 Scope -This section is applicable to NLDC, RLDC, SLDCs, CTU, STU, RPCs, and all Users. 
+ 
+
+5.7.4 Outage Planning Process -(a) The RPC Secretariat shall be primarily responsible for finalization of the annual outage plan for the following financial year by 31st January of each year. 
+ 
+ 
+
+(b) All SEBs/STUs, transmission licensees, CTU, ISGS IPPs, MPPs and other generating stations shall provide RPC Secretariat their proposed outage programmes in writing for the next financial year by 30th November of each year. These shall contain identification of each generating unit/line/ICT, the preferred date for each outage and its duration and where there is flexibility, the earliest start date and latest finishing date. 
+ 
+
+(c) RPC Secretariat shall then come out with a draft outage programme for the next financial year by 31st December of each year for the Regional grid taking into account the available resources in an optimal manner and to maintain security standards. This will be done after carrying out necessary system studies and, if necessary, the outage programmes shall be rescheduled. Adequate balance between generation and load requirement shall be ensured while finalising outage programmes. The same shall be uploaded by the RPCs on their website. 
+ 
+
+(d) The outage plan shall be finalized in consultation with NLDC and RLDCs. The final outage plan shall be intimated to NLDC, Users, STUs, CTU, other generating stations connected to ISTS and the RLDC for implementation by  
+
+    31st January of each year. 
+ 
+
+(e) The above annual outage plan shall be reviewed by RPC Secretariat on quarterly and monthly basis in coordination with all parties concerned, and adjustments made wherever found to be necessary. 
+ 
+
+(f) In case of emergency in the system, viz ., loss of generation, break down of transmission line affecting the system, grid disturbances, system isolation, RLDC may conduct studies again before clearance of the planned outage. 
+ 
+
+(g) NLDC/RLDC are authorized to defer the planned outage in case of any of the following, taking into account the statutory requirements:- 
+ 
+ 
+
+(i) grid disturbances; 
+ 
+
+(ii) system isolation; 
+ 
+
+(iii) partial Black out in a State; 
+ 
+
+(iv) any other event in the system that may have an adverse impact on the system security by the proposed outage. 
+
+ 
+
+(h) The detailed generation and transmission outage programmes shall be based on the latest annual outage plan (with all adjustments made to date). 
+ 
+
+(i) Each User, CTU and STU shall obtain the final approval from RLDC prior to availing an outage. 
+ 
+
+(j) RPCs shall submit quarterly, half-yearly reports to the Commission indicating deviation in outages from the plan along with reasons. These reports shall also be put up on the RPC website. 
+
+ 
+
+5.8 Recovery Procedures 
+ 
+ 
+
+(a) Detailed plans and procedures for restoration of the regional grid under partial/total blackout shall be developed by RLDC in consultation with NLDC, all Users, STU, SLDC, CTU and RPC Secretariat and shall be reviewed/updated annually. 
+ 
+
+(b) Detailed plans and procedures for restoration after partial/total blackout of each User's/STU/CTU system within a Region, will be finalized by the concerned User's/STU/CTU in coordination with the RLDC. The procedure will be reviewed, confirmed and/or revised once every subsequent year. Mock trial runs of the procedure for different sub­-systems shall be carried out by the Users/CTU/STU at least once every six months under intimation to the RLDC. Diesel Generator sets for black start would be tested on weekly basis and test report shall be sent to RLDC on quarterly basis. 
+ 
+
+(c) List of generating stations with black start facility, inter-State/inter-regional ties, synchronizing points and essential loads to be restored on priority, shall be prepared and be available with NLDC, RLDC and SLDC. 
+ 
+
+(d) The RLDC is authorized during the restoration process following a black out, to operate with reduced security standards for voltage and frequency as necessary in order to achieve the fastest possible recovery of the grid. 
+ 
+
+(e) All communication channels required for restoration process shall be used for operational communication only, till grid normalcy is restored. 
+
+ 
+
+5.9 Event Information 
+ 
+
+5.9.1 Introduction -This section deals with reporting procedures in respect of events in the system to all Users/STU/CTU, RPC Secretariat and NLDC/RLDC/SLDC. The reporting procedure shall be in accordance with the relevant CEA Regulations. 
+ 
+
+5.9.2 Objective -The objective of this section is to define the incidents to be reported, the reporting route to be followed and information to be supplied to ensure consistent approach to the reporting of incidents/events. 
+ 
+
+5.9.3 Scope -This section covers all Users, STU, CTU, RPC Secretariat, NLDC, RLDCs and SLDCs. 
+ 
+
+5.9.4 Responsibility -(a) The RLDC/SLDC shall be responsible for reporting events to the Users, SLDC/STU, CTU/NLDC/RLDC/RPC Secretariat as the case may be. 
+ 
+ 
+
+(b) All Users, STU, CTU and the SLDC shall be responsible for collection and reporting of all necessary data to NLDC, RLDC and RPC Secretariat for monitoring, reporting and event analysis as the case may be. 
+
+ 
+
+5.9.5 Reportable Events -Any of the following events require reporting by RLDC/Users, SLDC, STU, CTU:- 
+ 
+ 
+
+(i) violation of security standards; 
+ 
+
+(ii) Grid indiscipline; 
+ 
+
+(iii) non-compliance of RLDC's instructions; 
+ 
+
+(iv) system islanding/system split; 
+ 
+
+(v) regional black out/partial system black out; 
+ 
+
+(vi) protection failure on any element of ISTS, and on any item on the "agreed list" of the intra-State systems; 
+ 
+
+(vii) power system instability; 
+ 
+
+(viii) tripping of any element of the Regional Grid; 
+ 
+
+(ix) sudden load rejection by any User. 
+
+ 
+
+5.9.6 Reporting Procedure -(a) Written reporting of Events by Users. STU, CTU, and SLDC to RLDC:  In the case of an event which was initially reported by a User, STU, CTU or a SLDC to RLDC orally, the User, STU, CTU, SLDC will give a written report to RLDC in accordance with this section. RLDC in turn give a report to NLDC. 
+ 
+ 
+
+(b) Written Reporting of Events by RLDC to Users, STU, CTU and SLDC: In the case of an event which was initially reported by RLDC to Users, STU, CTU SLDC, NLDC orally, the RLDC will give a written report to the Users, STU, CTU, SLDC, NLDC in accordance with this section. 
+ 
+
+(c) Form of Written Reports:  A written report shall be sent to NLDC, RLDC, a User, STU, CTU, SLDC, as the case may be, in the reporting formats as devised by the appropriate load despatch Centre and will confirm the oral notification together with the following details of the event:- 
+ 
+ 
+
+(i) time and date of event; 
+ 
+
+(ii) location; 
+ 
+
+(iii) plant and/or Equipment directly involved; 
+ 
+
+(iv) description and cause of event; 
+ 
+
+(v) antecedent conditions of load and generation, including frequency, voltage and the flows in the affected area at the time of tripping including Weather Condition prior to the event; 
+ 
+
+(vi) duration of interruption and Demand and/or Generation (in MW and MWh) interrupted; 
+ 
+
+(vii) all relevant system data including copies of records of all recording instruments including Disturbance Recorder, Event Logger, DAS etc.; 
+ 
+
+(viii) sequence of trippings with time; 
+ 
+
+(ix) details of Relay Flags; 
+ 
+
+(x) remedial measures. 
+ 
+
+ 
+
+
+ 
+
+------- 
+ 
+
+1 Vide  Central Electricity Regulatory Commission F. No. L-1/18/2010-CERC, dated 28th April, 2010, published in the Gazette of India, Extra., Pt. III, Sec. 4, dated 28th April, 2010, No. 115, as corrected by Corrigendum Notification No. L-1/18/2010-CERC, dated 28th June, 2010. 
+</form><form>
+ 
+
+THE CENTRAL ELECTRICITY REGULATORY COMMISSION (INDIAN ELECTRICITY GRID CODE) REGULATIONS, 20101
+ 
+
+ 
+ 
+
+PART 6 
+ 
+
+SCHEDULING AND DESPATCH CODE 
+ 
+
+6.1 Introduction. -This Part sets out the- 
+ 
+ 
+
+(a) demarcation of responsibilities between various regional entities, SLDC, RLDC and NLDC in scheduling and despatch; 
+ 
+
+(b) the procedure for scheduling and despatch; 
+ 
+
+(c) the reactive power and voltage control mechanism; 
+ 
+
+(d) Complementary commercial mechanisms (in the Annexure  1). 
+
+ 
+
+6.2 Objective. -This code deals with the procedures to be adopted for scheduling of the net injection/drawals of concerned regional entities on a day ahead basis with the modality of the flow of information between the NLDC/RLDCs/SLDCs/Power Exchange and regional entities. The procedure for submission of capability declaration by each ISGS and submission of requisition/drawal schedule by other regional entities is intended to enable RLDCs to prepare the despatch schedule for each ISGS and drawal schedule for each regional entity. It also provides methodology of issuing real time despatch/drawal instructions and rescheduling, if required, to regional entities along with the commercial arrangement for the deviations from schedules, as well as, mechanism for reactive power pricing. This code also provides the methodology for re­scheduling of wind and solar energy on three (3) hourly basis and the methodology of compensating the wind and solar energy rich State for dealing with the variable generation through a Renewable Regulatory charge. For this, appropriate meters and Data Acquisition System facility shall be provided for accounting of UI charges and transfer of information to concerned SLDC and RLDC. 
+ 
+
+The provisions contained in this Part are without prejudice to the powers conferred on RLDC under sections 28 and 29 of the Electricity Act, 2003. 
+ 
+
+6.3 Scope. -This code will be applicable to NLDC, RLDC/SLDCs, ISGS, Distribution Licensees/SEBs/STUs/regional entities, Power Exchanges, wind and solar generating stations and other concerned persons in the National and Regional grid. 
+ 
+
+The scheduling and despatch procedure for the generating stations of Bhakra Beas Management Board (BBMB) shall be as per the procedure formulated by the BBMB in consultation with NRLDC. 
+ 
+
+Similarly, the scheduling and despatch procedure for the generating stations of Sardar Sarovar Project (SSP) shall be as per the procedure formulated by the Western Regional Load Despatch Centre (WRLDC) in consultation with Narmada Control Authority (NCA). 
+ 
+
+6.4 Demarcation of responsibilities. -1. The national interconnected grid is divided into control areas, like Regional ISTS, States, DVC, etc., where the load dispatch centre or system operator of the respective control area controls its generation and/or load to maintain its interchange schedule with other control areas whenever required to do so and contributes to frequency regulation of the synchronously operating system. The Load Despatch Centre of a control area therefore is responsible for coordinating the scheduling of a generating station, within the control area, real-time monitoring of the station's operation, checking that there is no gaming (gaming is an intentional mis-declaration of a parameter related to commercial mechanism in vogue, in order to make an undue commercial gain) in its availability declaration, or in any other way revision of availability declaration and injection schedule, switching instructions, metering and energy accounting, issuance of UI accounts within the control area, collections/disbursement of UI payments, outage planning, etc. The following clause gives the criteria for demarcation of control area jurisdiction. 
+ 
+
+2. The following generating stations shall come under the respective Regional ISTS control area and hence the respective RLDC shall coordinate the scheduling of the following generating stations:- 
+ 
+ 
+
+(a) Central Generating Stations (excluding stations where full Share is allocated to host state); 
+ 
+
+(b) UItra-Mega power projects; 
+ 
+
+(c) In other cases, the control area shall be decided on the following criteria:- 
+ 
+ 
+
+(i) If a generating station is connected only to the ISTS, RLDC shall coordinate the scheduling, except for Central Generating Stations where full Share is allocated to one State. 
+ 
+
+(ii) If a generating station is connected only to the State transmission network, the SLDC shall coordinate scheduling, except for the case as at (a) above. 
+ 
+
+(iii) If a generating station is connected both to ISTS and the State network, scheduling and other functions performed by the system operator of a control area will be done by SLDC, only if state has more than 50% Share of power. The role of concerned RLDC, in such a case, shall be limited to consideration of the schedule for inter state exchange of power on account of this ISGS while determining the net drawal schedules of the respective states. If the State has a Share of 50% or less, the scheduling and other functions shall be performed by RLDC. 
+ 
+
+(iv) In case commissioning of a plant is done in stages the decision regarding scheduling and other functions performed by the system operator of a control area would be taken on the basis of above criteria depending on generating capacity put into commercial operation at that point of time. Therefore it could happen that the plant may be in one control area ( i.e.  SLDC) at one point of time and another control area ( i.e.  RLDC) at another point of time. The switch over of control area would be done expeditiously after the change, w.e.f. the next billing period. 
+
+
+ 
+
+3. There may be exceptions with respect to above provisions, for reasons of operational expediency, subject to approval of CERC. Irrespective of the control area the jurisdiction, if a generating station is connected both to the ISTS and the STU, the load dispatch centre of the control area under whose jurisdiction the generating station falls, shall take into account grid security implication in the control area of he other load dispatch centre. 
+ 
+
+4. For those generating station supplying power to any state other than host state and whose scheduling is not coordinated by RLDC, the role of the concerned RLDC shall be limited to consideration of the schedule for inter-State exchange of power on account of this generating station while determining the net drawal schedules of the respective control area. 
+ 
+
+5. The Regional grids shall be operated as power pools with decentralized scheduling and despatch, in which the States shall have operational autonomy, and SLDCs shall have the total responsibility for- 
+ 
+ 
+
+(i) scheduling/despatching their own generation (including generation of their embedded licensees), 
+ 
+
+(ii) regulating the demand of its control area, 
+ 
+
+(iii) scheduling their drawal from the ISGS (within their share in the respective plant's expected capability), 
+ 
+
+(iv) permitting long-term access, medium-term and short-term open access transactions for embedded generators/consumers, in accordance with the contracts, and 
+ 
+
+(v) regulating the net drawal of their control area from the regional grid in accordance with the respective regulations of the CERC. 
+
+ 
+
+6. The system of each regional entity shall be treated and operated as a notional control area. The algebraic summation of scheduled drawal from ISGS and from contracts through a long-term access, medium-term and short-term open access arrangements shall provide the drawal schedule of each regional entity, and this shall be determined in advance on day-ahead basis. The regional entities shall regulate their generation and/or consumers' load so as to maintain their actual drawal from the regional grid close to the above schedule. If regional entities deviate from the drawal schedule, within the limit specified by the CERC in UI Regulations as long as such deviations do not cause system parameters to deteriorate beyond permissible limits and/or do not lead to unacceptable line loading. However, such deviations from net drawal schedule shall be priced through the Unscheduled Interchange (UI) mechanism. 
+ 
+
+7. The SLDC, SEB/distribution licensee shall always endeavour to restrict the net drawal of the state from the grid to within the drawal schedules, whenever the system frequency is below 49.7 Hz. The concerned SEB/distribution licensee User, SLDC shall ensure that their automatic demand management scheme mentioned in clause 5.4.2 acts to ensure that there is no over drawl when frequency is 49.5 Hz or below. If the automatic demand management scheme has not yet been commissioned, then action has to be taken as per manual demand management scheme to ensure zero overdrawal when frequency is 49.5 Hz. or below. 
+ 
+
+8. The SLDCs/STUs/Distribution Licensees shall regularly carry out the necessary exercises regarding short-term demand estimation for their respective States/area, to enable them to plan in advance as to how they would meet their consumers' load without overdrawing from the grid. 
+ 
+
+9. The ISGS, other generating stations and sellers shall be responsible for power generation/power injection generally according to the daily schedules advised to them by the RLDC/SLDC on the basis of the contracts/ requisitions received from the SLDCs/buyers/Power Exchanges. 
+ 
+
+10. The ISGS would normally be expected to generate power according to the daily schedules advised to them. The ISGS may also deviate from the given schedules within the limits specified in the CERC UI Regulations of CERC, depending on the plant and system conditions. In particular, they may be allowed to generate beyond the given schedule under deficit conditions as long as such deviations do not cause system parameters to deteriorate beyond permissible limits and/or do not lead to unacceptable line loading. Deviations, if any, from the ex-power plant generation schedules shall be appropriately priced in accordance with UI Regulations. In addition, deviations, from schedules causing congestion, shall also be priced in accordance with the Congestion Charge Regulations of CERC. 
+ 
+
+11. Provided that when the frequency is higher than 50.2 Hz, the actual net injection shall not exceed the scheduled despatch for that time block. Also, while the frequency is above 50.2 Hz, the ISGS may (at their discretion) back down without waiting for an advice from RLDC to restrict the frequency rise. When the frequency falls below 49.7 Hz, the generation at all ISGS (except those on peaking duty) shall be maximized, at least upto the level to which can be sustained, without waiting for an advice from RLDC subject to the condition that such increase does not lead to unacceptable line loading or system parameters to deteriorate beyond permissible limit. 
+ 
+
+12. However, notwithstanding the above, the RLDC may direct the SLDCs/ISGS/other regional entities to increase/decrease their drawal/generation in case of contingencies e.g ., overloading of lines/transformers, abnormal voltages, threat to system security. Such directions shall immediately be acted upon. In case the situation does not call for very urgent action, and RLDC has some time for analysis, it shall be checked whether the situation has arisen due deviations from schedules, pursuant to short-term open access. These shall be got terminated first, before an action, which would affect the scheduled supplies to the long-term and medium-term customers is initiated in accordance with Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Medium-term Open Access in inter-State Transmission and related matters) Regulations, 2009. 
+ 
+
+13. For all outages of generation and transmission system, which may have an effect on the regional grid, all Regional entities shall co-operate with each other and coordinate their actions through Operational Coordination Committee (OCC) for outages foreseen sufficiently in advance and through RLDC (in all other cases), as per procedures finalized separately by OCC. In particular, outages requiring restriction of ISGS generation and/or restriction of ISGS Share which a beneficiary can receive and curtailment of other long-term transactions shall be planned carefully to achieve the best optimization. 
+ 
+
+14. The regional entities shall enter into separate joint/bilateral agreement(s) to identify the beneficiary's Shares in ISGS (based on the allocations by the Govt. of India, where applicable), scheduled drawal pattern, tariffs, payment terms etc. All such agreements shall be filed with the concerned RLDC(s) and RPC, Secretariat, for being considered in scheduling and regional energy accounting. Any bilateral agreements between buyer and seller for scheduled interchanges on long-term, medium-term basis shall also specify the interchange schedule, which shall be duly filed with CTU and CTU shall inform RLDC and SLDC, as the case may be about these agreements in accordance with Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Medium-term Open Access in inter-State Transmission and Related Matters) Regulations, 2009. 
+ 
+
+15. All regional entities should abide by the concept of frequency-linked load despatch and pricing of deviations from schedule, i.e. , unscheduled interchanges. All regional entities should normally be operated according to the standing frequency-linked load despatch guidelines issued by the RLDC, to the extent possible, unless otherwise advised by the RLDC/SLDC. 
+ 
+
+16. The ISGS shall make an advance declaration of ex-power plant MW and MWh capabilities foreseen for the next day, i.e. , from 0000 hrs to 2400 hrs. During fuel shortage condition, in case of thermal stations, they may specify minimum MW, maximum MW, MWh capability and declaration of fuel shortage. The generating stations shall also declare the possible ramping up/ramping down in a block. In case of a gas turbine generating station or a combined cycle generating station, the generating station shall declare the capacity for units and modules on APM gas, RLNG and liquid fuel separately, and these shall be scheduled separately. 
+ 
+
+17. While making or revising its declaration of capability, except in case of Run Off the River (with up to three hour pondage) hydro stations, the ISGS shall ensure that the declared capability during peak hours is not less than that during other hours. However, exception to this rule shall be allowed in case of tripping/re-synchronisation of units as a result of forced outage of units. 
+ 
+
+18. It shall be incumbent upon the ISGS to declare the plant capabilities faithfully, i.e. , according to their best assessment. In case, it is suspected that they have deliberately over/under declared the plant capability contemplating to deviate from the schedules given on the basis of their capability declarations (and thus make money either as undue capacity charge or as the charge for deviations from schedule), the RLDC may ask the ISGS to explain the situation with necessary backup data. 
+ 
+
+19. The ISGS shall be required to demonstrate the declared capability of its generating station as and when asked by the Regional Load Despatch Centre of the region in which the ISGS is situated. In the event of the ISGS failing to demonstrate the declared capability, the capacity charges due to the generator shall be reduced as a measure of penalty. 
+ 
+
+20. The quantum of penalty for the first mis-declaration for any duration/block in a day shall be the charges corresponding to two days fixed charges. For the second mis-declaration the penalty shall be equivalent to fixed charges for four days and for subsequent mis-declarations, the penalty shall be multiplied in the geometrical progression over a period of a month. 
+ 
+
+21. The CTU shall install special energy meters on all inter connections between the regional entities and other identified points for recording of actual net MWh interchanges and MVArh drawals. The installation, operation and maintenance of special energy meters shall be in accordance with Central Electricity Authority (Installation and Operation of Meters) Regulations, 2006. All concerned entities (in whose premises the special energy meters are installed) shall take weekly meter readings and transmit them to the RLDC by Tuesday noon. The SLDC must ensure that the meter data from all installations within their control area are transmitted to the RLDC within the above schedule. 
+ 
+
+22. The RLDC shall be responsible for computation of actual net injection/drawal of concerned regional entities, 15 minute-wise, based on the above meter readings. The above data along with the processed data of meters shall be forwarded by the RLDC to the RPC secretariat on a weekly basis by each Thursday noon for the seven day period ending on the previous Sunday mid-night, to enable the latter to prepare and issue the Unscheduled inter-change (UI) account in accordance with the CERC (Unschesduled Interchange charges and related matters) Regulations, 2010, as amended form time-to-time. All computations carried out by RLDC shall be open to all regional entities for checking/verifications for a period of 15 days. In case any mistake/omission is detected, the RLDC shall forthwith make a complete check and rectify the same. 
+ 
+
+23. The operating log books of the generating station shall be available for review by the Regional Power Committee. These books shall keep record of machine operation and maintenance. 
+ 
+
+24. Hydro generating stations are expected to respond to grid frequency changes and inflow fluctuations. The hydro generating stations shall be free to deviate from the given schedule without causing grid constraint and a compensation for difference between the actual net energy supply by the hydro generating station and the scheduled energy (ex-bus) over day shall be made by the concerned Regional Load Despatch Centre in the day ahead schedule for the 4th day (day plus 3). 
+ 
+
+25. RLDC shall periodically review the actual deviation from the despatch and net drawal schedules being issued, to check whether any of the regional entities are indulging in unfair gaming or collusion. In case any such practice is detected, the matter shall be reported to the Member Secretary, RPC for further investigation/action. 
+ 
+
+26. NLDC shall be responsible for scheduling and despatch of electricity over inter-regional links in accordance with the grid code specified by Central Commission in coordination with Regional Load Despatch Centers. NLDC shall be responsible for coordination with Regional Load Despatch Centers for the energy accounting of inter-regional exchange of power. NLDC shall also be responsible for coordination for trans-national exchange of power. 
+ 
+
+27. NLDC shall develop a procedure for scheduling of collective transaction through Power Exchanges, scheduling of inter-regional power exchanges including HVDC setting responsibility and power exchanges of the country with other countries. 
+ 
+
+6.5 Scheduling and Despatch procedure for long-term access, medium-term and short-term open access. -(to be read with provisions of Open Access Regulations 2008 as amended from time-to-time. The scheduling procedure for medium-term open access transactions shall be similar to the scheduling procedure for long-term access transactions and is as given below, except where it is specifically mentioned for collective transactions): 
+ 
+
+1. All inter-State generating stations (ISGS) shall be duly listed on the respective RLDC and SLDC web-sites. The station capacities and allocated/contracted Shares of different beneficiaries shall also be listed out. 
+ 
+
+2. Each State shall be entitled to a MW despatch up to (foreseen ex- power plant MW capability for the day) x (State's Share in the station's capacity) for all such stations. In case of hydro-electric stations, there would also be a limit on daily MWh despatch equal to (MWh generation capacity for the day) X (State's Share in the station's capacity). 
+ 
+
+3. By 8 AM every day, the ISGS shall advise the concerned RLDC, the station-wise ex-power plant MW and MWh capabilities foreseen for the next day, i.e. , from 0000 hrs to 2400 hrs of the following day. 
+ 
+
+4. The above information of the foreseen capabilities of the ISGS and the corresponding MW and MWh entitlements of each State, shall be compiled by the RLDC every day for the next day, and advised to all beneficiaries by 10 AM. The SLDCs shall review it vis-a-vis their foreseen load pattern and their own generating capability including bilateral exchanges, if any, and advise the RLDC by 3 PM their drawal schedule for each of the ISGS in which they have Shares, long-term and medium-term bilateral interchanges, approved short-term bilateral interchanges. 
+ 
+
+5. Scheduling of collective transaction:- 
+ 
+ 
+
+(a) NLDC shall indicate to Power Exchange(s), the list of interfaces/control areas/regional transmission systems on which unconstrained flows are required to be advised by the Power Exchange(s) to the NLDC. Power Exchange(s) shall furnish the interchange on various interfaces/control areas/regional transmission systems as intimated by NLDC. Power Exchange(s) shall also furnish the information of total drawal and injection in each of the regions. Based on the information furnished by the Power Exchanges, NLDC shall check for congestion. In case of congestion, NLDC shall inform the Exchanges about the period of congestion and the available limit for scheduling of collective transaction on respective interface/control area/transmission systems during the period of congestion for Scheduling of Collective Transaction through the respective Power Exchange. The limit for scheduling of collective transaction for respective Power Exchange shall be worked out in accordance with CERC directives. Based on the application for scheduling of Collective Transaction submitted by the Power Exchange(s), NLDC shall send the details (Scheduling Request of Collective Transaction) to different RLDCs for final checking and incorporating them in their schedules. After getting confirmation from RLDCs, NLDC shall convey the acceptance of scheduling of collective transaction to Power Exchange(s). RLDCs shall schedule the Collective Transaction at the respective periphery of the Regional Entities. 
+ 
+
+(b) The individual transactions for State Utilities/intra-State Entities shall be scheduled by the respective SLDCs. Power Exchange(s) shall send the detailed break up of each point of injection and each point of drawal within the State to respective SLDCs after receipt of acceptance from NLDC. Power Exchange(s) shall ensure necessary coordination with SLDCs for scheduling of the transactions. 
+ 
+
+(c) Timeline for above activities will be as per detailed procedure for Scheduling of Collective Transaction issued in accordance with CERC (Open access in inter-State transmission) Regulations, 2008 and as amended from time-to-time. 
+
+ 
+
+6. The SLDCs may also give standing instructions to the RLDC such that the RLDC itself may decide the best drawal schedules for the States. 
+ 
+
+7. By 6 PM each day, the RLDC shall convey: 
+ 
+ 
+
+(i) The ex-power plant "despatch schedule" to each of the ISGS, in MW for different time block, for the next day. The summation of the ex-power plant drawal schedules advised by all beneficiaries shall constitute the ex-power plant station-wise despatch schedule. 
+ 
+
+(ii) The "net drawal schedule" to each regional entity, in MW for different time block, for the next day. The summation of the station-wise ex-power plant drawal schedules from all ISGS and drawal from/injection to regional grid consequent to other long-term access, medium-term and short-term open access transactions, after deducting the transmission losses (estimated), shall constitute the regional entity-wise drawal schedule. 
+
+ 
+
+8. The SLDCs/ISGS shall inform any modifications/changes to be made in drawal schedule/foreseen capabilities, if any, to RLDC by 10 PM or preferably earlier. 
+ 
+
+9. The hydro electric generation stations are expected to respond to grid frequency changes and inflow fluctuations. They would, therefore, be free to deviate from the given schedule as long as they do not cause a grid constraint. As a result, the actual net energy supply by a hydro generating station over a day may differ from schedule energy (ex-bus) for that day. A compensation shall then be made by the concerned  
+
+  load despatch centre in the day ahead schedule for the 4th day (day plus 3). 
+ 
+
+10. The declaration of the generating capability by hydro ISGS should include limitation on generation during specific time periods, if any, on account of restriction(s) on water use due to irrigation, drinking water, industrial, environmental considerations etc. The concerned Load Despatch Centre shall periodically check that the generating station is declaring the capacity and energy sincerely, and is not manipulating the declaration with the intent of making undue money through UI. 
+ 
+
+11. Since variation of generation in run-of-river power stations shall lead to spillage, these shall be treated as must run stations. All renewable energy power plants, except for biomass power plants, and non-fossil fuel based cogeneration plants whose tariff is determined by the CERC shall be treated as 'MUST RUN' power plants and shall not be subjected to 'merit order despatch' principles. 
+ 
+
+12. Run-of-river power station with pondage and storage type power stations are designed to operate during peak hours to meet system peak demand. Maximum capacity of the station declared for the day shall be equal to the installed capacity including overload capability, if any, minus auxiliary consumption, corrected for the reservoir level. The Regional Load Despatch Centers shall ensure that generation schedules of such type of stations are prepared and the stations despatched for optimum utilization of available hydro energy except in the event of specific system requirements/constraints. 
+ 
+
+13. The schedule finalized by the concerned load despatch centre for hydro generating station, shall normally be such that the scheduled energy for a day equals the total energy (ex-bus) expected to be available on that day, as declared by the generating station, based on foreseen/planned water availability/release. It is also expected that the total net energy actually supplied by the generating station on that day would equal the declared total energy, in order that the water release requirement is met. While the 15- minute wise, deviations from schedule would be accounted for as Unscheduled Interchange (UI), the net energy deviation for the whole day, if any, shall be additionally accounted for as shown in the illustration. 
+ 
+
+Illustration 
+ 
+
+Suppose the foreseen/expected total energy (ex-bus) for Day-1 is E1, the scheduled energy is S1, actual net energy (metered) is A1, all in ex-bus MWh. Suppose the expected energy availability for Day 4, as declared by the generator, is E4. Then, the schedule for day 4 shall be drawn up such that the scheduled energy for Day 4, shall be 
+ 
+
+S4=E4+(A1-(E1)), Similarly, 
+ 
+
+S5= E5+(A2-(E2)), 
+ 
+
+S6=E6+(A3-(E3)), S7=E7+(A4- 
+ 
+
+(E4)), and so on." 
+ 
+
+14. While finalizing the above daily despatch schedules for the ISGS, RLDC shall ensure that the same are operationally reasonable, particularly in terms of ramping-up/ramping-down rates and the ratio between minimum and maximum generation levels. A ramping rate of upto 200 MW per hour should generally be acceptable for an ISGS and for a regional entity (50 MW in NER), except for hydro-electric generating stations which may be able to ramp up/ramp down at a faster rate. 
+ 
+
+15. While finalizing the drawal and despatch schedules as above, the RLDC shall also check that the resulting power flows do not give rise to any transmission constraints. In case any impermissible constraints are foreseen, the RLDC shall moderate the schedules to the required extent, under intimation to the concerned regional entities. Any changes in the scheduled quantum of power which are too fast or involve unacceptably large steps, may be converted into suitable ramps by the RLDC. 
+ 
+
+16. In the event of bottleneck in evacuation of power due to any constraint, outage, failure or limitation in the transmission system, associated switchyard and substations owned by the Central Transmission Utility or any other transmission licensee involved in inter-state transmission (as certified by the RLDC) necessitating reduction in generation, the RLDC shall revise the schedules which shall become effective from the 4th time block, counting the time block in which the bottleneck in evacuation of power has taken place to be the first one. Also, during the first, second and third time blocks of such an event, the scheduled generation of the ISGS shall be deemed to have been revised to be equal to actual generation, and the scheduled drawals of the beneficiaries shall be deemed to have been revised accordingly. 
+ 
+
+17. In case of any grid disturbance, scheduled generation of all the ISGS and scheduled drawal of all the beneficiaries shall be deemed to have been revised to be equal to their actual generation/drawal for all the time blocks affected by the grid disturbance. Certification of grid disturbance and its duration shall be done by the RLDC. 
+ 
+
+18. Revision of declared capability by the ISGS(s) having two part tariff with capacity charge and energy charge (except hydro stations) and requisition by beneficiary(ies) for the remaining period of the day shall also be permitted with advance notice. Revised schedules/declared capability in such cases shall become effective from the 6th time block, counting the time block in which the request for revision has been received in the RLDC to be the first one. Provided that RLDC may allow revision, of the DC at 6 hourly intervals effective form 0000,0600,1200 and 1800 hours in case of Run of the River (ROR) and pondage based hydro generating stations, if there is large variation of expected energy (MWh) for the day compared to previous declaration. 
+ 
+
+2[18(a). Notwithstanding anything contained in Regulation 6.5.18, in case of forced outages of a unit, for those stations who have a two part tariff based on capacity charge and energy charge for long-term, and medium-term contracts, the RLDC shall revise the schedule on the basis of revised declared capability. The revised declared capability and the revised schedules shall become effective from the fourth time block, counting the time block in which the revision is advised by the ISGS to be the first one.] 
+ 
+
+19. Notwithstanding anything contained in Regulation 6.5(18), in case of forced outage of a unit for a Short-Term bilateral transaction, where a generator of capacity of 100 MW and above is seller, the generator shall immediately intimate the same along with the requisition for revision of schedule and estimated time of restoration of the unit, to SLDC/RLDC as the case may be. With the objective of not affecting the existing contracts, the revision of schedule shall be with the consent of the buyer till 31-7-2010. Thereafter, consent of the buyer shall not be a pre-requisite for such revision of schedule. The schedule of the generator and the buyer shall be revised, accordingly. The revised schedules shall become effective from the 4th time block, counting the time block in which the forced outage is declared to be the first one. The RLDC shall inform the revised schedule to the seller and the buyer. The original schedule shall become effective from the estimated time of restoration of the unit. However the transmission charges as per original schedule shall continue to be paid for two days. 
+ 
+
+20. If, at any point of time, the RLDC observes that there is need for revision of the schedules in the interest of better system operation, it may do so on its own, and in such cases, the revised schedules shall become effective from the 4th time block, counting the time block in which the revised schedule is issued by the RLDC to be the first one. 
+ 
+
+21. To discourage frivolous revisions, an RLDC may, at its sole discretion, refuse to accept schedule/capability changes of less than two (2) percent of previous schedule/capability. The schedule of thermal generating stations indicating fuel shortage while intimating the Declared Capacity to the RLDC shall not be revised except in case of forced outage of generating unit: 
+ 
+
+Provided that in case of gas based ISGS, for optimum utilization of gas, this shall be permitted, i.e.,  in case of tripping of a unit, this gas may be diverted to another unit using the same gas. 
+ 
+
+22. The Regional Load Despatch Centre shall also formulate the procedure for meeting contingencies both in the long run and in the short run (Daily scheduling). 
+ 
+
+23. Special dispensation for scheduling of wind and solar generation 
+ 
+ 
+
+(i) With effect from 1-1-2011 Scheduling of wind power generation plants would have to be done for the purpose of UI where the sum of generation capacity of such plants connected at the connection point to the transmission or distribution system is 10 MW and above and connection point is 33 KV and above, and where PPA has not yet been signed. For capacity and voltage level below this, as well as for old wind farms (A wind farm is collection of wind turbine generators that are connected to a common connection point) it could be mutually decided between the Wind Generator and the transmission or distribution utility, as the case may be, if there is no existing contractual agreement to the contrary. The schedule by wind power generating stations may be revised by giving advance notice to SLDC/RLDC, as the case may be. Such revisions by wind power generating stations shall be effective from 6th time-block, the first being the time-block in which notice was given. There may be maximum of 8 revisions for each 3 hour time slot starting from 00:00 hours during the day. 
+ 
+
+(ii) The schedule of solar generation shall be given by the generator based on availability of the generator, weather forecasting, solar insolation, season and normal solar generation curve and shall be vetted by the RLDC in which the generator is located and incorporated in the inter-State schedule. If RLDC is of the opinion that the schedule is not realistic, it may ask the solar generator to modify the schedule. 
+ 
+
+(iii) Concerned RLDC and SLDC shall maintain the record of schedule from renewable power generating stations based on type of renewable energy sources i.e.,  wind or solar from the point of view of grid security. While scheduling generating stations in a region, system operator shall aim at utilizing available wind and solar energy fully. 
+
+ 
+
+24. Generation schedules and drawal schedules issued/revised by the Regional Load Despatch Centre shall become effective from designated time block irrespective of communication success. 
+ 
+
+25. For any revision of scheduled generation, including post facto deemed revision, there shall be a corresponding revision of scheduled drawals of the beneficiaries. 
+ 
+
+26. A procedure for recording the communication regarding changes to schedules duly taking into account the time factor shall be evolved by the Central Transmission Utility. 
+ 
+
+27. When for the reason of transmission constraints e.g.,  congestion or in the interest of grid security, it becomes necessary to curtail power flow on a transmission corridor, the transactions already scheduled may be curtailed by the Regional Load Despatch Centre. 
+ 
+
+28. The short-term customer shall be curtailed first followed by the medium-term customers, which shall be followed by the long-term customers and amongst the customers of a particular category, curtailment shall be carried out on pro rata basis. 
+ 
+
+29. After the operating day is over at 2400 hours, the schedule finally implemented during the day (taking into account all before-the-fact changes in despatch schedule of generating stations and drawal schedule of the States) shall be issued by RLDC. These schedules shall be the datum for commercial accounting. The average ex-bus capability for each ISGS shall also be worked out based on all before-the-fact advice to RLDC. 
+ 
+
+30. Collective Transaction through Power Exchange(s) would normally be curtailed subsequent to the Short-Term Bilateral Transaction(s). 
+ 
+
+31. RLDCs would curtail a Transaction at the periphery of the Regional Entities. SLDC(s) shall further incorporate the inter-se curtailment of intra-State Entities to implement the curtailment. 
+ 
+
+32. RLDC shall properly document all above information i.e.,  station-wise foreseen ex-power plant capabilities advised by the generating stations, the drawal schedules advised by regional entities, all schedules issued by the RLDC, and all revisions/updating of the above. 
+ 
+
+33. The procedure for scheduling and the final schedules issued by RLDC, shall be open to all regional entities and other regional open access customers entities for any checking/verification, for a period of 5 days. In case any mistake/omission is detected, the RLDC shall forthwith make a complete check and rectify the same. 
+ 
+
+34. While availability declaration by ISGS shall have a resolution of one (1) MW and one (1) MWh, all entitlements, requisitions and schedules shall be rounded off to the nearest two decimal at each control area boundary for each of the transaction, to have a resolution of 0.01 MW and 0.01 MWh. 
+ 
+
+6.6 Reactive Power and Voltage Control. -1. Reactive power compensation should ideally be provided locally, by generating reactive power as close to the reactive power consumption as possible. The Regional Entities except Generating Stations are therefore expected to provide local VAr compensation/generation such that they do not draw VArs from the EHV grid, particularly under low-voltage condition. To discourage VAr drawals by Regional Entities except Generating Stations, VAr exchanges with ISTS shall be priced as follows: 
+ 
+
+The Regional Entity except Generating Stations pays for VAr drawal when voltage at the metering point is below 97% 
+ 
+
+The Regional Entity except Generating Stations gets paid for VAr return when voltage is below 97% 
+ 
+
+The Regional Entity except Generating Stations gets paid for VAr drawal when voltage is above 103% 
+ 
+
+The Regional Entity except Generating Stations pays for VAr return when voltage is above 103% 
+ 
+
+Provided that there shall be no charge/payment for VAr drawal/retura by a Regional Entity except Generating Stations on its own line emanating directly from an ISGS. 
+ 
+
+2. The charge for VArh shall be at the rate of 10 paise/kVArh w.e.f. 3-5-2010, and this will be applicable between the Regional Entity, except Generating Stations, and the regional pool account for VAr inter-changes. This rate shall be escalated at 0.5 paise/kVArh per year thereafter, unless otherwise revised by the Commission. 
+ 
+
+3. Notwithstanding the above, RLDC may direct a Regional Entity except Generating Stations to curtail its VAr drawal/injection in case the security of grid or safety of any equipment is endangered. 
+ 
+
+4. In general, the Regional Entities except Generating Stations shall endeavor to minimize the VAr drawal at an interchange point when the voltage at that point is below 95% of rated, and shall not return VAr when the voltage is above 105%. ICT taps at the respective drawal points may be changed to control the VAr inter-change as per a Regional Entity except Generating Stations's request to the RLDC, but only at reasonable intervals. 
+ 
+
+5. Switching in/out of all 400 kV bus and line Reactors throughout the grid shall be carried out as per instructions of RLDC. Tap changing on all 400/220 kV ICTs shall also be done as per RLDCs instructions only. 
+ 
+
+6. The ISGS and other generating stations connected to regional grid shall generate/absorb reactive power as per instructions of RLDC, within capability limits of the respective generating units, that is without sacrificing on the active generation required at that time. No payments shall be made to the generating companies for such VAr generation/absorption. 
+ 
+
+7. VAr exchange directly between two Regional Entities except Generating Stations on the interconnecting lines owned by them (singly or jointly) generally address or cause a local voltage problem, and generally do not have an impact on the voltage profile of the regional grid. Accordingly, the management/control and commercial handling of the VAr exchanges on such lines shall be as per following provisions, on case-by-case basis:- 
+ 
+ 
+
+(i) The two concerned Regional Entities except Generating Stations may mutually agree not to have any charge/payment for VAr exchanges between them on an interconnecting line. 
+ 
+
+(ii) The two concerned Regional Entities except Generating Stations may mutually agree to adopt a payment rate/scheme for VAr exchanges between them identical to or at variance from that specified by CERC for VAr exchanges with ISTS. If the agreed scheme requires any additional metering, the same shall be arranged by the concerned Beneficiaries. 
+ 
+
+(iii) In case of a disagreement between the concerned Regional Entities except Generating Stations ( e.g.,  one party wanting to have the charge/payment for VAr exchanges, and the other party refusing to have the scheme), the scheme as specified in Annexure-2 shall be applied. The per kVArh rate shall be as specified by CERC for VAr exchanges with ISTS. 
+ 
+
+(iv) The computation and payments for such VAr exchanges shall be effected as mutually agreed between the two beneficiaries. 
+
+ 
+
+------- 
+ 
+
+1. Vide  Central Electricity Regulatory Commission F. No. L-1/18/2010-CERC, dated 28th April, 2010, published in the Gazette of India, Extra., Pt. III, Sec. 4, dated 28th April, 2010, No. 115, as corrected by Corrigendum Notification No. L-1/18/2010-CERC, dated 28th June, 2010. 
+ 
+
+2. Added by No. L-1/18/2010-CERC, dated 28th June, 2010.
+</form><form>
+ 
+
+THE CENTRAL ELECTRICITY REGULATORY COMMISSION (INDIAN ELECTRICITY GRID CODE) REGULATIONS, 20101
+ 
+
+ 
+ 
+
+PART 7 
+ 
+
+MISCELLANEOUS 
+ 
+
+(1) Nothing in these Regulations shall be deemed to limit or otherwise affect the power of the Commission to pass such orders as may be necessary for meeting the ends of justice or to prevent the abuse of the process of the Commission. 
+ 
+
+(2) Nothing in these Regulations shall bar the Commission from adopting in conformity with the provisions of the Act, a procedure, which is at variance with any of the provisions of these Regulations including summary procedures, if the Commission, in view of the special circumstance of a matter or class of matters and for reasons to be recorded in writing, deems it necessary or expedient for so dealing with such a matter or class of matters. 
+ 
+
+(3) Nothing in these Regulations shall bar the Commission to deal with any matter or exercise any power under the Act for which no regulations have been framed, and the Commission may deal with such matters, powers and functions in a manner it thinks fit. 
+ 
+
+(4) The Commission may by general or special order, for reasons to be recorded in writing, and after giving an opportunity of hearing to the parties likely to be affected by grant of relaxation, may relax any of the provisions of these regulations on its own motion or on an application made before it by an interested person. 
+ 
+
+------- 
+ 
+
+1. Vide  Central Electricity Regulatory Commission F. No. L-1/18/2010-CERC, dated 28th April, 2010, published in the Gazette of India, Extra., Pt. III, Sec. 4, dated 28th April, 2010, No. 115, as corrected by Corrigendum Notification No. L-1/18/2010-CERC, dated 28th June, 2010. 
+</form>
+<pagefootnote></pagefootnote>
+</act>

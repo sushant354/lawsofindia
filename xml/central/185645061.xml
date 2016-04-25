@@ -1,0 +1,138 @@
+<act><title>THE STANDARDS OF QUALITY OF SERVICE OF BASIC TELEPHONE SERVICE (WIRELINE) AND CELLULAR MOBILE TELEPHONE 
+  SERVICE REGULATIONS, 20091 </title> 
+
+  
+  
+ <article><title><number>1</number> Short title, commencement and application. </title>-
+<section><number>1</number> These regulations may be called the Standards of Quality of Service of Basic Telephone Service (Wireline) and Cellular Mobile Telephone Service Regulations, 2009. 
+ </section><section><number>2</number> They shall come into force with effect from the 1st day of July, 2009. 
+ </section><section><number>3</number> These regulations shall apply to- 
+ all service providers [including Bharat Sanchar Nigam Limited and Mahanagar Telephone Nigam Limited, being the companies registered under the Companies Act, 1956 (1 of 1956) providing,- 
+ 
+ <subsection><number>i</number> Basic Telephone Service; 
+ </subsection><subsection><number>ii</number> Unified Access Services; 
+ </subsection><subsection><number>iii</number> Cellular Mobile Telephone Service. 
+</subsection>
+
+
+</section></article> 
+
+  
+  
+ <article><title><number>2</number> Definitions. </title>-
+<section><number>1</number> In these regulations, unless the context otherwise requires,- 
+ 
+ <subsection><number>a</number> "Act" means the Telecom Regulatory Authority of India Act, 1997 (24 of 1997); 
+ </subsection><subsection><number>b</number> "Authority" means the Telecom Regulatory Authority of India established under sub-section (1) of section 3 of the Act; 
+ </subsection><subsection><number>c</number> "Basic Telephone Service" covers collection, carriage, transmission and delivery of voice or non-voice messages over licensee's Public Switched Telephone Network in licensed service area and includes provision of all types of services except those requiring a separate licence; 
+ </subsection><subsection><number>d</number> "Cell" means the radio frequency coverage area of a site in radio access network which is part of a cellular mobile telephone network and- 
+ 
+ <subsubsection><number>i</number> in case it is an omni-site, it is synonymous with the site; and 
+ </subsubsection><subsubsection><number>ii</number> at a sectored site, it is synonymous with the sector; 
+</subsubsection>
+ </subsection><subsection><number>e</number> "Cell Bouncing Busy Hour" means the one hour period in a day during which a cell in a cellular mobile telephone network experiences the maximum traffic; 
+ </subsection><subsection><number>f</number> "Cellular Mobile Telephone Service"- 
+ 
+ <subsubsection><number>i</number> means telecommunication service provided by means of a telecommunication system for the conveyance of messages through the agency of wireless telegraphy where every message that is conveyed thereby has been, or is to be, conveyed by means of a telecommunication system which is designed or adapted to be capable of being used while in motion; 
+ </subsubsection><subsubsection><number>ii</number> refers to transmission of voice or non-voice messages over licensee's network in real time only but service does not cover broadcasting of any messages, voice or non-voice, however, Cell Broadcast is permitted only to the subscribers of the service; 
+ </subsubsection><subsubsection><number>iii</number> in respect of which the subscriber (all types, pre-paid as well as post-paid) has to be registered and authenticated at the network point of registration and approved numbering plan shall be applicable; 
+ </subsubsection><subsubsection><number>iv</number> includes both Global System for Mobile Communications (GSM) and Code Division Multiple Access (CDMA) Technology; 
+</subsubsection>
+ </subsection><subsection><number>g</number> "Call Centre" means a department or a section or a facility established by the service provider under regulation 3 of the Telecom Consumers Protection and Redressal Grievances Regulations, 2007 (3 of 2007); 
+ </subsection><subsection><number>h</number> "consumer" means a consumer of a service provider falling in sub-regulation (3) of regulation 1 and includes its customer and subscriber; 
+ </subsection><subsection><number>i</number> "licence" means a licence granted or having effect as if granted under section 4 of the Indian Telegraph Act, 1885 (13 of 1885) or the provisions of the Indian Wireless Telegraphy Act, 1933 (17 of 1933); 
+ </subsection><subsection><number>j</number> "licensee" means any person licensed under sub-section (1) of section 4 of the Indian Telegraph Act, 1885 (13 of 1885) for providing specified public telecommunication services; 
+ </subsection><subsection><number>k</number> "message" shall have the same meaning assigned to it in clause (3) of section 3 of the Indian Telegraph Act, 1885 (13 of 1885); 
+ </subsection><subsection><number>l</number> "MTTR" means Mean Time to Repair; 
+ </subsection><subsection><number>m</number> "OMC" means Operation and Maintenance Centre; 
+ </subsection><subsection><number>n</number> "Paging Channel" means a signalling control channel in a CDMA network to send control, call set up and paging messages used for communication between Mobile Station (MS), i.e., mobile handset and Base Transceiver Station (BTS) before such mobile station is assigned a Traffic Channel (TCH); 
+ </subsection><subsection><number>o</number> "Point of Interconnection (POI)" means a mutually agreed upon point of demarcation where the exchange of traffic between the networks of two service providers takes place; 
+ </subsection><subsection><number>p</number> "Public Switched Telephone Network" means a fixed specified switched public telephone network providing a two-way switched telecommunication services to the general public; 
+ </subsection><subsection><number>q</number> "Public Land Mobile Network" means a network set up and operated by any of the licensed operators including Mahanagar Telephone Nigam Limited and Bharat Sanchar Nigam Limited, for the purpose of providing land based mobile communication services to the public and which provides communication facilities to subscribers using mobile stations (MS), i.e., mobile handsets; 
+ </subsection><subsection><number>r</number> "Quality of Service" is the main indicator of the performance of a telecommunication network and of the degree to which such network conforms to the standards of such quality of service as specified in these regulations for specified parameters; 
+ </subsection><subsection><number>s</number> "regulations" means the Standards of Quality of Service of Basic Telephone Service (Wireline) and Cellular Mobile Telephone Service Regulations, 2009; 
+ </subsection><subsection><number>t</number> "Stand-alone Dedicated Control Channel" or "SDCCH" means, a GSM control channel for signalling purposes where the majority of call set up occurs, which is used for communication between mobile station (MS), i.e., mobile handset and Base Transceiver Station (BTS) before such mobile station is assigned a Traffic Channel (TCH); 
+ </subsection><subsection><number>u</number> "service provider" means any service provider to which these regulations apply; 
+ </subsection><subsection><number>v</number> "Traffic Channel" or "TCH" means, a logical channel in a GSM or CDMA network which carries either encoded speech or user data; 
+ </subsection><subsection><number>w</number> "telecommunication services" means service of any description (including electronic mail, voice mail, data services, audio-tex services, video-tex services, radio paging and cellular mobile telephone services) which is made available to users by means of any transmission or reception of signs, signals, writing images, and sounds or intelligence of any nature, by wire, radio, visual or other electromagnetic means but shall not include broadcasting services; 
+ </subsection><subsection><number>x</number> "Time Consistent Busy Hour" or "TCBH" means the one hour period starting at the same time each day for which the average traffic of the resource group concerned is greatest over the days under consideration and such Time Consistent Busy Hour shall be established on the basis of analysis of traffic data for a period of ninety days; 
+ </subsection><subsection><number>y</number> "Unified Access Services"- 
+ 
+ <subsubsection><number>i</number> means telecommunication service provided by means of a telecommunication system for the conveyance of messages through the agency of wired or wireless telegraphy; 
+ </subsubsection><subsubsection><number>ii</number> refers to transmission of voice or non-voice messages over Licensee's Network in real time only but service does not cover broadcasting of any messages, voice or non-voice, except, Cell Broadcast which is permitted only to the subscribers of the service; 
+ </subsubsection><subsubsection><number>iii</number> in respect of which the subscriber (all types, pre-paid as well as post-paid) has to be registered and authenticated at the network point of registration and approved numbering plan shall be applicable; 
+</subsubsection>
+</subsection>
+ </section><section><number>2</number> Words and expressions used but not defined in these regulations and defined in the Act and the rules and other regulations made thereunder shall have the meanings respectively assigned to them in the Act or the rules or the regulations, as the case may be. 
+
+
+</section></article> 
+
+  
+  
+ <article><title><number>8</number> Record Keeping. </title>-
+<section><number>1</number> Every service provider shall maintain documented process of collection of data for each Quality of Service parameter specified by the Authority in regulation 3, regulation 4, regulation 5 and regulation 6 and submit to the Authority, within sixty days of notification of these regulations, the documented process of collection of data of each Quality of Service parameter, indicating the correlation with the primary data which are derived from system counters or codes in Operation and Maintenance Centre or Network Management System or Mobile Switching Centre or telephone exchange, along with record keeping procedure. 
+ </section><section><number>2</number> Every service provider shall maintain complete and accurate records of  
+  its compliance benchmark of each Quality of Service parameter specified in regulation 3, regulation 4, regulation 5 and regulation 6 in such manner and in such formats as may be directed by the Authority, from time to time. 
+ </section><section><number>3</number> The Authority may, from time-to-time, either by order of by direction, specify uniform record keeping procedures and formats, including guidelines on measurement methodology for various Quality of Service parameters specified in these regulations, to be followed by the service providers. 
+ </section><section><number>4</number> The Authority may, if it considers it expedient so to do, and to ensure compliance of the provisions of sub-regulations (2) and (3), at any time, direct any of its officers or employees or an agency appointed by the Authority to inspect the records maintained under sub-regulations (2) and (3) or to get such records audited. 
+ </section><section><number>5</number> The Authority may, if it considers it expedient so to do, require the concerned service provider to get the records maintained by it under sub- regulations (2) and (3) audited through an agency as may be specified by the Authority and submit the report in respect of such audit to the Authority and the cost of such audit shall be borne by the concerned service provider. 
+
+
+</section></article> 
+
+  
+  
+ <article><title><number>9</number> Reporting. </title>-Every service provider shall submit to the Authority its compliance reports of benchmarks in respect of each Quality of Service parameter specified under regulation 3 and regulation 5 in such manner and format, at such periodic intervals and within such time limit as may be specified by the Authority, from time-to-time, by an order or direction. 
+
+
+</article> 
+
+  
+  
+ <article><title><number>10</number> Publication. </title>-
+<section><number>1</number> The Authority may publish, in such manner and in such format, as may be decided by the Authority from time-to-time- 
+ 
+ <subsection><number>a</number> the compliance reports of benchmarks of each Quality of Service parameter reported to it by the service providers in accordance with regulation 9; 
+ </subsection><subsection><number>b</number> the results of the audit and objective assessment of Quality of Service undertaken by the Authority or its authorised agency as per sub-regulation (3) of regulation 3, sub-regulation (3) of regulation 5 and sub-regulations (4) and (5) of regulation 8; and 
+ </subsection><subsection><number>c</number> the results of the customer satisfaction surveys undertaken by the Authority as per regulation 7- 
+</subsection>
+ through its website or through press releases or through advertisements in the newspapers, for the information of the general public. 
+ </section><section><number>2</number> Every service provider shall publish, for the information of the consumers, its performance with respect to the benchmark of Quality of Service parameter specified in regulation 3, regulation 4, regulation 5 and regulation 6, in such manner and in such format, as may be directed by the Authority from time-to-time. 
+
+
+</section></article> 
+
+  
+  
+ <article><title><number>11</number> Review. </title>-
+<section><number>1</number> The Quality of Service parameters specified in regulation 3, regulation 4, regulation 5, regulation 6 and regulation 7 may be reviewed by the Authority from time-to-time. 
+ </section><section><number>2</number> The Authority, on reference from any affected party for good and sufficient reasons, may review and modify these regulations. 
+
+
+</section></article> 
+
+  
+  
+ <article><title><number>12</number> Overriding Effect. </title>-Wherever higher quality parameter has been stipulated as a condition of licence, the Quality of Service as required by the licence shall have precedence over the parameters specified in these regulations. 
+
+
+</article> 
+
+  
+  
+ <article><title><number>13</number> Repeal and Saving. </title>-
+<section><number>1</number> The regulation on Quality of Service of Basic and Cellular Mobile Telephone Services, 2005 (11 of 2005) is hereby repealed. 
+ </section><section><number>2</number> Notwithstanding such repeal, anything done or any action taken under the said regulation shall be deemed to have been done or taken under the corresponding provisions of these regulations. 
+
+
+</section></article> 
+
+  
+  
+ <article><title><number>14</number> Interpretation. </title>-In case of any doubt regarding interpretation of any of the provisions of these regulations, the clarification of the Authority shall be final and binding. 
+
+
+</article>
+<pagefootnote></pagefootnote>
+</act>

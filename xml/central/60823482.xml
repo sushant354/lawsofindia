@@ -1,0 +1,175 @@
+<act><title>
+THE 
+    INFORMATION TECHNOLOGY (SECURITY 
+    PROCEDURE) RULES, 20041</title> 
+ 
+ 
+ 
+  
+ 
+
+ 
+
+ 
+
+ <article>
+
+
+    <number>1</number> Short title and commencement.—
+<section><number>1</number> 
+    These rules may be called the Information Technology (Security Procedure) 
+    Rules, 2004. 
+ </section><section>
+
+
+    <number>2</number> They shall come into force on the date of their publication in the 
+    Official Gazette.
+ 
+
+
+
+
+
+ 
+
+
+
+</section></article> 
+ 
+ 
+ 
+  
+ 
+
+ 
+
+ 
+
+ <article>
+
+
+    <number>2</number> Definitions.—In 
+    these rules, unless the context, otherwise requires,—
+ <section>
+
+
+    <number>a</number>    “Act” means the Information Technology Act, 2000 (21 of 2000);  
+ </section><section>
+
+
+    <number>b</number>    “digital signature” means authentication of any electronic record by 
+    a subscriber by means of an electronic method or procedure in accordance 
+    with the provisions of section 3 of the Act;  
+ </section><section>
+
+
+    <number>c</number>    “hardware token” means a token which can be connected to any computer 
+    system using Universal Serial Bus (USB) port;  
+ </section><section>
+
+
+    <number>d</number>    “smart card” means a device containing one or more integrated circuit 
+    chips, which perform the functions of a computer’s centre processor, memory 
+    and input or output interface;  
+ </section><section>
+
+
+    <number>e</number>    words and expressions used in these rules and not defined but defined 
+    in the Act shall have the meaning respectively assigned to them in the Act.  
+
+ 
+  
+
+
+</section></article> 
+ 
+ 
+ 
+  
+ 
+
+ 
+
+ 
+
+ <article>
+
+
+    <number>3</number> Secure electronic record.—An 
+    electronic record shall be deemed to be a secure electronic record for the 
+    purposes of the Act if it has been authenticated by means of a secure 
+    digital signature.
+ 
+
+
+ 
+  
+
+
+</article> 
+ 
+ 
+ 
+  
+ 
+
+ 
+
+ 
+
+ <article>
+
+
+    <number>4</number> Secure digital signature.—A 
+    digital signature shall be deemed to be a secure digital signature for the 
+    purposes of the Act, if the following procedure has been applied to it, 
+    namely:— 
+ <section>
+
+
+    <number>a</number>    that the smart card or hardware token, as the case may be, with 
+    cryptographic module, in it, is used to create the key pair;  
+ </section><section>
+
+
+    <number>b</number>    that the private key used to create the digital signature always 
+    remains in the smart card or hardware token as the case may be;  
+ </section><section>
+
+
+    <number>c</number>    that the hash of the content to be signed is taken from the host 
+    system to the smart card or hardware token and the private key is used to 
+    create the digital signature and the signed hash is returned to the host 
+    system;  
+ </section><section>
+
+
+    <number>d</number>    that the information contained in the smart card or hardware token, 
+    as the case may be, is solely under the control of the person who is 
+    purported to have created the digital signature;  
+ </section><section>
+
+
+    <number>e</number>    that the digital signature can be verified by using the public key 
+    listed in the Digital Signature Certificate issued to that person;  
+ </section><section>
+
+
+    <number>f</number>    that the standards referred to in rule 6 of the Information 
+    Technology (Certifying Authorities) Rules, 2000 have been complied with, in 
+    so far as they relate to the creation, storage and transmission of the 
+    digital signature; and  
+ </section><section>
+
+
+    <number>g</number>    that the digital signature is linked to the electronic record in such 
+    a manner that if the electronic record was altered the digital signature 
+    would be invalidated.  
+  
+ 
+  
+
+
+</section></article>
+<pagefootnote></pagefootnote>
+</act>

@@ -1,0 +1,122 @@
+<act><title>THE INFORMATION TECHNOLOGY (CERTIFYING AUTHORITY) 
+  REGULATIONS, 20011</title> 
+
+  
+ <article><title><number>1</number> Short title and commencement. </title>-
+<section><number>1</number> These Regulations may be called the Information Technology (Certifying Authority) Regulations, 2001. 
+ </section><section><number>2</number> They shall come into force on the date of their publication in the Official Gazette. 
+  
+
+
+</section></article> 
+
+  
+ <article><title><number>2</number> Definitions. </title>-In these Regulations, unless the context otherwise requires,- 
+ 
+ <section><number>a</number> "Act" means the Information Technology Act, 2000 (21 of 2000); 
+ </section><section><number>b</number> "Certifying Authority" means a person who has been granted a licence to issue a Digital Signature Certificate under section 24 of the Act; 
+ </section><section><number>c</number> "Certificate Revocation List" means a periodically (or exigently) issued list, digitally signed by a Certifying Authority, of identified Digital Signature Certificates that have been suspended or revoked prior to their expiration dates; 
+ </section><section><number>d</number> "Controller" means the Controller of Certifying Authorities appointed under sub-section (1) of section 17 of the Act; 
+ </section><section><number>e</number> "Form" means the form appended to these Regulations; 
+ </section><section><number>f</number> "Public Key Certificate" means a Digital Signature Certificate issued by Certifying Authority; 
+ </section><section><number>g</number> "subscriber" means a person in whose name the Digital Signature Certificate is issued; 
+ </section><section><number>h</number> Words and expressions used herein and not defined, but defined in the Act, shall have the meanings respectively assigned to them in the Act. 
+</section>
+  
+
+
+</article> 
+
+  
+ <article><title><number>3</number> Terms and conditions of licence to issue Digital Signature Certificate. </title>-Every licence to issue Digital Signature Certificates shall be granted under the Act subject to the following terms and conditions, namely:- 
+ 
+ <section><number>i</number> General- 
+ <subsection><number>a</number> The licence shall be valid for a period of five years from the date of issue. 
+ </subsection><subsection><number>b</number> The licence shall not be transferable or heritable; 
+ </subsection><subsection><number>c</number> The Controller can revoke or suspend the licence in accordance with the provisions of the Act. 
+ </subsection><subsection><number>d</number> The Certifying Authority shall be bound to comply with all the parameters against which it was audited prior to issue of licence and shall consistently and continuously comply with those parameters during the period for which the licence shall remain valid. 
+ </subsection><subsection><number>e</number> The Certifying Authority shall subject itself to periodic audits to ensure that all conditions of the licence are consistently complied with by it. As the cryptographic components of the Certifying Authority systems are highly sensitive and critical, the components must be subjected to periodic expert review to ensure their integrity and assurance. 
+ </subsection><subsection><number>f</number> The Certifying Authority must maintain secure and reliable records and logs for activities that are core to its operations. 
+ </subsection><subsection><number>g</number> Public Key Certificates and Certificate Revocation Lists must be archived for a minimum period of seven years to enable verification of past transactions. 
+ </subsection><subsection><number>h</number> The Certifying Authority shall provide Time Stamping Service for its subscribers. Error of the Time Stamping clock shall not be more than 1 in 10. 
+ </subsection><subsection><number>i</number> The Certifying Authority shall use methods, which are approved by the Controller, to verify the identity of a subscriber before issuing or renewing any Public Key Certificate. 
+ </subsection><subsection><number>j</number> The Certifying Authority shall publish a notice of suspension or revocation of any certificate in the Certificate Revocation List in its repository immediately after receiving an authorised request of such suspension or revocation. 
+ </subsection><subsection><number>k</number> The Certifying Authority shall always assure the confidentiality of subscriber information. 
+ </subsection><subsection><number>l</number> All changes in Certificate Policy and certification practice statement shall be published on the web site of the Certifying Authority and brought to the notice of the Controller well in advance of such publication. However any change shall not contravene any provision of the Act, rule or regulation or made thereunder. 
+ </subsection><subsection><number>m</number> The Certifying Authority shall comply with every order or direction issued by the Controller within the stipulated period. 
+ 
+ 
+ </subsection><subsection><number>a</number> The Certifying Authority shall manage its functions in accordance with the levels of integrity and security approved by the Controller from time to time. 
+ </subsection><subsection><number>b</number> The Certifying Authority shall disclose information on the assurance levels of the certificates that it issues and the limitations of its liabilities to each of its subscribers and relying parties. 
+ </subsection><subsection><number>c</number> The Certifying Authority shall as approved, in respect of security and risk management controls continuously ensure that security policies and safeguards are in place. Such controls include personnel security and incident handling measures to prevent fraud and security breaches. 
+ 
+ 
+ </subsection><subsection><number>a</number> To ensure the integrity of its digital certificates, the Certifying Authority shall ensure the use of approved security controls in the certificate management processes, i.e.,  certificate registration, generation, issuance, publication, renewal, suspension, revocation and archival. 
+ </subsection><subsection><number>b</number> The method of verification of the identity of the applicant of a Public Key Certificates shall be commensurate with the level of assurance accorded to the certificate. 
+ </subsection><subsection><number>c</number> The Certifying Authority shall ensure the continued accessibility and availability of its Public Key Certificates and Certificate Revocation Lists in its repository to its subscribers and relying parties. 
+ </subsection><subsection><number>d</number> In the event of a compromise of the private key the Certifying Authority shall follow the established procedures for immediate revocation of the affected subscribers' certificates. 
+ </subsection><subsection><number>e</number> The Certifying Authority shall make available the information relating to certificates issued and/or revoked by it to the Controller for inclusion in the National Repository. 
+ </subsection><subsection><number>f</number> The private key of the Certifying Authority shall be adequately secured at each phase of its life cycle, i.e.,  key generation, distribution, storage, usage, backup, archival and destruction. 
+ </subsection><subsection><number>g</number> The private key of the Certifying Authority shall be stored in high security module in accordance with FIPS 140-1 level 3 recommendations for Cryptographic Modules Validation List. 
+ </subsection><subsection><number>h</number> Continued availability of the private key be ensured through approved backup measures in the event of loss or corruption of its private key. 
+ </subsection><subsection><number>i</number> All submissions of Public Key Certificates and Certificate Revocation Lists to the National Repository of the Controller must ensure that subscribers and relying parties are able to access the National Repository using LDAP ver 3 for X.500 Directories. 
+ </subsection><subsection><number>j</number> The Certifying Authority shall ensure that the subscriber can verify the Certifying Authority's Public Key Certificate, if he chooses to do so, by having access to the Public Key Certificate of the Controller. 
+ 
+ 
+ </subsection><subsection><number>a</number> Every Certifying Authority shall get an independent periodic audit done through an approved auditor. Such periodic audits shall focus on the following issues among others:- 
+ 
+ 
+ </subsection><subsection><number>b</number> The Certifying Authority shall follow approved procedures to ensure that all the activities referred to in (i) to (iv) in sub-regulation (a) are recorded properly and made available during audits. 
+ 
+ 
+</subsection></section><section><number>ii</number> Overall Management and Obligations- 
+</section><section><number>iii</number> Certificate and Key Management- 
+</section><section><number>iv</number> Systems and Operations- <title></title>
+ 
+ <subsection><number>a</number> The Certifying Authority shall prepare detailed manuals for performing all its activities and shall scrupulously adhere to them. 
+ </subsection><subsection><number>b</number> Approved access and integrity controls such as intrusion detection, virus scanning ,  prevention of denial-of service attacks and physical security measures shall be followed by the Certifying Authority for all its systems that store and process the subscribers' information and certificates. 
+ </subsection><subsection><number>c</number> The Certifying Authority shall maintain records of all activities and review them regularly to detect any anomaly in the system. 
+</subsection>
+ </section><section><number>v</number> <title></title>Physical, procedural and personnel security- <title></title>
+</section><section><number>i</number> changes/additions in physical controls such as site location, access, etc.; 
+ </section><section><number>ii</number> re-deployment of personnel from an approved role/task to a new one; 
+ </section><section><number>iii</number> appropriate security clearances for outgoing employees such as deletion of keys and all access privileges; 
+ </section><section><number>iv</number> thorough background checks, etc., during employment of new personnel. 
+</section><section><number>vi</number> <title></title>Financial- <title></title>
+ 
+ <subsection><number>a</number> Every Certifying Authority shall comply with all the financial parameters during the period of validity of the licence, issued under the Act. 
+ </subsection><subsection><number>b</number> Any loss to the subscriber, which is attributable to the Certifying Authority, shall be made good by the Certifying Authority. 
+</subsection>
+ </section><section><number>vii</number> <title></title>Compliance Audits- <title></title>
+ 
+ <subsection><number>a</number> The Certifying Authority shall subject itself to Compliance Audits that shall be carried out by one of the empanelled Auditors duly authorized by the Controller for the purpose. Such audits shall be based on the Internet Engineering Task Force document RFC 2527- Internet X.509 PKI Certificate Policy and Certification Practices Framework. 
+ </subsection><subsection><number>b</number> If a Digital Signature Certificate issued by the Certifying Authority is found to be fictitious or that proper identification procedures have not been followed by the Certifying Authority while issuing such certificate, the Certifying Authority shall be liable for any losses resulting out of this lapse and shall be liable to pay compensation as decided by the Controller. 
+</subsection>
+</section>
+
+
+</article> 
+
+  
+ <article><title><number>5</number> Every Certifying Authority shall disclose </title>.-
+<section><number>1</number> 
+<subsection><number>a</number> its Digital Signature Certificate which contains the public key corresponding to the private key used by that Certifying Authority to digitally sign another Digital Signature Certificate; 
+ 
+ 
+ </subsection><subsection><number>b</number> any Certification Practice Statement relevant thereto; 
+ </subsection><subsection><number>c</number> notice of the revocation or suspension of its Certifying Authority Certificate, if any; and 
+ </subsection><subsection><number>d</number> any other fact that materially or adversely affect either the reliability of a Digital Signature Certificate, which that Authority has issued by it or the Authority's ability to perform its services. 
+</subsection></section><section><number>2</number> The above disclosure shall be made available to the Controller through filling up of online forms on the Web site of the Controller on the date and time the information is made public. The Certifying Authority shall digitally sign the information. 
+
+
+</section></article> 
+
+  
+ <article><title><number>6</number> Communication of compromise of Private Key: </title>- 
+<section><number>1</number> Where the private key corresponding to the public key listed in the Digital Signature Certificate has been compromised, the subscriber shall communicate the same without any delay to the Certifying Authority. 
+ </section><section><number>2</number> An application for revocation of the key pair shall be made in Form online on the web site of the concerned Certifying Authority to enable revocation and publication in the Certificate Revocation List. The subscriber shall encrypt this transaction by using the public key of the Certifying Authority. The transaction shall be further authenticated with the private key of the subscriber even though it may have already been compromised. 
+
+
+</section></article>
+<pagefootnote></pagefootnote>
+</act>

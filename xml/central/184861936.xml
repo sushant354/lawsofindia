@@ -1,0 +1,355 @@
+<act><title> THE INTERNATIONAL TELECOMMUNICATION ACCESS TO ESSENTIAL FACILITIES AT 
+  CABLE LANDING STATIONS 
+REGULATIONS, 20071</title> 
+
+  
+ <article><title><number>1</number> Short title, extent and commencement. </title>-
+<section><number>1</number> These regulations may be called the International Telecommunication Access to Essential Facilities at Cable Landing Stations Regulations, 2007. 
+ </section><section><number>2</number> They shall come into force on their publication in the Official Gazette. 
+
+
+</section></article> 
+
+  
+ <article><title><number>2</number> Definitions. </title>-In these regulations, unless the context otherwise requires,- 
+ 
+ <section><number>a</number> "Access Facilitation" means access or interconnection, as the case may be, to the essential facilities (including landing facilities for submarine cable) at cable landing station; 
+ </section><section><number>b</number> "Access Facilitation Charges" means charges payable by the eligible Indian International Telecommunication Entity to the owner of the cable landing station to interconnect or access the capacity acquired on Indefeasible Right of Use basis or on short-term lease basis from an owner of the submarine cable capacity or a member of consortium owning submarine cable capacity; 
+ </section><section><number>c</number> "Act" means the Telecom Regulatory Authority of India Act, 1997 (24 of 1997); 
+ </section><section><number>d</number> "Authority" means the Telecom Regulatory Authority of India established under sub-section (1) of section 3 of the Act; 
+ </section><section><number>e</number> "backhaul circuit" means a domestic telecom circuit which connects a cable landing station to the infrastructure or equipment of the eligible Indian International Telecommunication Entity at its premises; 
+ </section><section><number>f</number> "cable landing station" means the location,- 
+ 
+ <subsection><number>i</number> at which the international submarine cable capacity is connectable to the backhaul circuit; 
+ </subsection><subsection><number>ii</number> at which International submarine cables are available on shore, for accessing international submarine cable capacity; and such location includes buildings containing the onshore end of the submarine cable and equipment for connecting to backhaul circuits; 
+</subsection>
+ </section><section><number>g</number> "Cable Landing Station-Reference Interconnect Offer" means an offer made by the owner of cable landing station containing the terms and conditions of Access Facilitation and Co-location of equipment (including landing facilities for submarine cables at cable landing stations for connectable system of International submarine cable) published after the approval of the Authority under sub-regulation (4) of regulation 3; 
+ </section><section><number>h</number> "Co-location Facilities" means the facilities at a submarine cable landing station (including building space, power, environment services, security and site maintenance) which may be offered by the owner of cable landing station to the eligible Indian International Telecommunication Entity to facilitate access to the cable landing station of such owner (including installation of co-location equipment); 
+ </section><section><number>i</number> "Co-location charges" means the charges payable by the eligible Indian International Telecommunication Entity based on the type of facilities used, for the purpose of housing the equipment of such eligible Indian International Telecommunication Entity, at the premises of owner of cable landing station which provides the access to its cable landing station, and such charges include charges for providing space, power supply, accessing physical facilities, operation and maintenance of co-location site for the said purpose; 
+ </section><section><number>j</number> "Co-location lead-time" means the time taken by the owner of the cable landing station to make available co-location site to an eligible Indian International Telecommunication Entity; 
+ </section><section><number>k</number> "Capacity owner" means an International Telecom Carrier or Foreign Carrier or Indian International Long Distance Operator who owns capacity on the international submarine cable landing at the cable landing station in India; 
+ </section><section><number>l</number> "eligible Indian International Telecommunication Entity" means- 
+ 
+ <subsection><number>i</number> an International Long Distance Operator, holding licence to act as such, and, who has been allowed under the licence to seek access to the international submarine cable capacity in submarine cable system landing at the cable landing stations in India; or 
+ </subsection><subsection><number>ii</number> an Internet Service Provider, holding valid international gateway permission or licence to act as such, and, who has been allowed under the licence to seek access to the International submarine cable capacity in submarine cable system landing at the cable landing stations in India; 
+</subsection>
+ </section><section><number>m</number>  "Grooming Service" means breaking down higher capacity outputs from the submarine cable at a place or point at which it terminates into the lower capacity channels for connection to the backhaul circuits of the eligible Indian International Telecommunication Entity; 
+ </section><section><number>n</number> "International Long Distance Operator" means a service provider or operator who has been granted licence to act as such to provide international long distance service; 
+ </section><section><number>o</number> "Indefeasible Right of Use" means the right to use the Reference Capacity, 
+ <subsection><number>i</number> on long term lease for the period for which the submarine cable remains in effective use; 
+ </subsection><subsection><number>ii</number> acquired (including equipment, fibers or capacity) under an agreement entered into between the Capacity owner and an eligible Indian International Telecommunication Entity; 
+ </subsection><subsection><number>iii</number> in respect of which maintenance cost incurred becomes payable in any circumstances during the period of validity of the agreement referred to in sub-clause (i) of this clause; 
+ </subsection></section><section><number>p</number> "licence" means a licence granted or having effect as if granted under section 4 of the Indian Telegraph Act, 1885 (13 of 1885) and Indian Wireless Telegraphy Act, 1933 (17 of 1933); 
+ </section><section><number>q</number> "operation and maintenance charges" means the annual charges,- 
+ <subsection><number>i</number> payable to the owner of cable landing station by the eligible Indian International Telecommunication Entity; 
+ </subsection><subsection><number>ii</number> for operation and maintenance of facilities for accessing the capacity of the cable landing station of such owner; 
+ </subsection></section><section><number>r</number> "Reference Capacity" means the international submarine cable capacity,- 
+ 
+ 
+ <subsection><number>i</number> in the submarine cable system landing at the cable landing station in India ; 
+ </subsection><subsection><number>ii</number> acquired whether on ownership basis or lease basis by the eligible Indian International Telecommunication Entity; 
+ </subsection><subsection><number>iii</number> activated by the owner of the submarine cable system or a member or members of consortium of submarine cable system; 
+ </subsection>
+
+ </section><section><number>s</number> "regulations" means the International Telecommunication Access to Essential Facilities at Cable Landing Stations Regulations, 2007; 
+</section><section><number>t</number> "Schedule" means the Schedule appended to these regulations; 
+ </section><section><number>u</number> "specified international submarine cable" means any submarine cable having International submarine cable capacity landing at a cable landing station in India ; 
+ </section><section><number>v</number> "owner of cable landing station" means a service provider who owns and manages submarine cable landing station in India and has been granted licence to provide international long distance service or Internet service provider; 
+ </section><section><number>w</number> "Virtual Co-location" means a location- 
+ 
+ <subsection><number>i</number> of the eligible Indian International Telecommunication Entity, being outside the cable landing station, whether adjacent or at a distant from such station; 
+ </subsection><subsection><number>ii</number> at which the eligible Indian International Telecommunication Entity may install its equipment so as to access the sub-marine cable capacity from the cable landing station; 
+</subsection>
+ </section><section><number>x</number> all other words and expressions used in these regulations but not defined, and defined in the Act and the rules and other regulations made thereunder, shall have the meanings respectively assigned to them in the Act or the rules or other regulations, as the case may be. 
+</section>
+
+
+</article> 
+
+  
+ <article><title><number>3</number> Provision of access to cable landing station and related international submarine cable capacity by owner of cable landing station. </title>-
+<section><number>1</number> Every owner of cable landing station shall, in respect of its each cable landing station,- 
+ 
+ <subsection><number>a</number> provide, on fair and non-discriminatory terms and conditions, at its cable landing station, access to any eligible Indian International Telecommunication Entity requesting for accessing international submarine cable capacity on any submarine cable systems; 
+ </subsection><subsection><number>b</number> interconnect specified international submarine cable landing at its cable landing station in India in accordance with the provisions of these regulations; 
+ </subsection><subsection><number>c</number> provide landing facilities for submarine cables at its cable landing station to a service provider, who has been granted licence to act as an International Long Distance Operator under the licence; 
+ </subsection><subsection><number>d</number> submit to the Authority, within thirty days from the date of commencement of these regulations, a document containing the terms and conditions of Access Facilitation and Co-location facilities including landing facilities for submarine cables at its cable landing stations for specified international submarine cable capacity in accordance with the provisions of these regulations (hereinafter referred to as the "Cable Landing Station-Reference Interconnect Offer") for approval of Authority: 
+</subsection>
+ Provided that in case of a cable landing station which comes into existence after commencement of these regulations, the owner of such cable landing station shall submit, on or before the date of coming into existence of such cable landing station, the Cable Landing Station-Reference Interconnect Offer in respect of such cable landing station to the Authority for its approval. 
+ </section><section><number>2</number> Every Cable Landing Station-Reference Interconnect Offer including co- location charges shall be prepared in accordance with the Schedule appended to these regulations for submitting the same under sub-regulation (1) to the Authority for its approval. 
+ </section><section><number>3</number> The Authority shall approve the Cable Landing Station-Reference Interconnect Offer within sixty days from the date of its submission under sub-Provided that in case the Authority is of the opinion, that the Cable Landing Station-Reference Interconnect Offer requires modifications so as to protect the interests of service providers or consumers of the telecom sector, or to promote or ensure orderly growth of the telecom sector or the Cable Landing Station-Reference Interconnect Offer has not been prepared in accordance with the provisions of these regulations, it may, after giving an opportunity of being heard to the concerned owner of the cable landing station, require such owner to modify the said offer submitted by him and such owner shall make such modifications and submit, within fifteen days of receipt of requirement for the modifications, the said offer after incorporating such modifications, for approval to the Authority. 
+ </section><section><number>4</number> Every owner of a cable landing station shall publish, on its website and in such other manner as the Authority may specify, within fifteen days from the date of approval of the Cable Landing Station-Reference Interconnect Offer by the Authority, the Cable Landing Station-Reference Interconnect Offer so approved by the Authority and forward a copy thereof to the Authority along with a confirmation to the effect that such offer had been published in accordance with the offer so approved by the Authority and in the manner specified in this sub-regulation. 
+ </section><section><number>5</number> Every owner of cable landing station, desirous of making any modification to its Cable Landing Station-Reference Interconnect Offer published under sub- regulation (4), shall submit all such modifications in such Cable Landing Station-Reference Interconnect offer for prior approval of the Authority. 
+ </section><section><number>6</number> All the provisions of these regulations, which apply for approval of the Cable Landing Station-Reference Interconnect offer, shall, mutatis mutandis, apply to the modifications to the Cable Landing Station-Reference Interconnect offer approved by the Authority under sub-regulation (3).
+
+
+</section></article> 
+
+  
+ <article><title><number>4</number> Application by eligible Indian International Telecommunication Entity for access facilitation to cable landing station and related international submarine cable capacity. </title>-
+<section><number>1</number> Every eligible Indian International Telecommunication Entity desirous of accessing International submarine cable capacity on any submarine cable systems may make an application, to the owner of cable landing station for Access Facilitation, in the Form specified in Part-I of the Schedule along with the registration fee to be adjusted subsequently against the Access Facilitation Charges payable by such Entity enclosing therewith the following, namely:- 
+ 
+ <subsection><number>a</number> a copy of the licence agreement of the eligible Indian International Telecommunication Entity to act as international long distance operator or a copy of licence agreement with valid international gateway permission to act as internet service provider, as the case may be; 
+ </subsection><subsection><number>b</number> a certificate by the eligible Indian International Telecommunication Entity confirming that it has been granted the permission or approval by the Government of India, Ministry of Communication and Information Technology (Department of Telecommunications) for the operation of international gateway or any other authority required, if any under the law; 
+ </subsection><subsection><number>c</number> a confirmation, severally or jointly, from the owner of submarine cable or member of consortium owning Submarine Cable System or capacity owner in the concerned cable system stating that the eligible Indian International Telecommunication Entity has entered into agreement or Memorandum of Understanding with it or them for sale or lease of Reference Capacity. 
+ </subsection><subsection><number>d</number> a certificate by the eligible Indian International Telecommunication Entity confirming that it shall utilise the reference capacity in accordance with the terms and conditions of its licence. 
+</subsection>
+ </section><section><number>2</number> The confirmation referred to in clause (c) of sub-regulation (1) shall, among other things, specify,- 
+ 
+ <subsection><number>a</number> the number of units to be acquired or agreed to be acquired, as Indefeasible Right of Use or on annual lease basis, by the eligible Indian International Telecommunication Entity; 
+ </subsection><subsection><number>b</number> the period of lease of the Reference Capacity to be acquired or agreed to be acquired as Indefeasible Right of Use or on annual lease; 
+ </subsection><subsection><number>c</number> technical information relating to- 
+ 
+ <subsubsection><number>i</number> slot allocation of Reference Capacity in relevant submarine cable system acquired or agreed to be acquired by the eligible Indian International Telecommunication Entity; 
+ </subsubsection><subsubsection><number>ii</number> bearer designation of the capacity acquired or agreed to be acquired; 
+ </subsubsection><subsubsection><number>iii</number> the tentative date or likely date of testing of Reference Capacity by the eligible Indian International Telecommunication Entity. 
+</subsubsection>
+</subsection>
+
+
+</section></article> 
+
+  
+ <article><title><number>5</number> Confirmation by the owner of cable landing station after receipt of </title><title>application under regulation 4. </title>-
+<section><number>1</number> Every owner of cable landing station shall, within a period of ten days after receipt of the application for Access Facilitation and the requisite information and documents under regulation 4, send its confirmation of its ability to provide the Access Facilitation and details of required test to be undertaken for providing such Access Facilitation to the eligible Indian International Telecommunication Entity. 
+ </section><section><number>2</number> In case it is not feasible due to any valid reason for the owner of cable landing station to comply with the access facilitation procedure or the required test to be undertaken, as the case may be, referred to in sub-regulation (1), such owner shall, within a period of ten days of receipt of the application made under regulation 4, intimate in writing, to the eligible Indian International Telecommunication Entity, an alternative plan for Access Facilitation and required test to be undertaken along with such valid reasons for not complying with such procedure or test. 
+
+
+</section></article> 
+
+  
+ <article><title><number>6</number> Entering into an agreement for providing Access Facilitation. </title>-
+<section><number>1</number> After receipt of confirmation for Access Facilitation, the eligible Indian International Telecommunication Entity shall, within five days from the date of receipt of such conformation , enter into an Access Facilitation agreement with the owner of the cable landing station: 
+ Provided that in case an International Long Distance Operator or Internet Service Provider, falling under the sub-clause (i) or (ii) of clause (1) of regulation 2, had entered, before commencement of these regulations, into an agreement with an owner of a cable landing station and the Cable Landing Station-Reference Interconnect Offer of such owner has been approved by the Authority under sub-regulation (3) of regulation 3, such owner shall, after publication of the said offer under sub-regulation (4) of regulation 3, give an option to such International Long Distance Operator or Internet Service Provider, as the case may be, to make an application for Access Facilitation in accordance with these regulations. 
+ </section><section><number>2</number> In case the owner of a cable landing station and the eligible Indian International Telecommunication Entity fail to enter into an agreement under sub-regulation (1), in that case, both of them, may, jointly, without prejudice to the provisions of section 14A of the Act, at any time, request the Authority to facilitate in the process for entering into the agreement referred to in sub-regulation (1). 
+ </section><section><number>3</number> Nothing contained in sub-regulation (2) shall be construed to take away any legal right conferred upon the eligible Indian International Telecommunication Entity and the owner of cable landing station under any law for the time being in force and either of them may, at any time during the facilitation process under that sub-regulation, exercise such right conferred upon them under any law for the time being in force. 
+ </section><section><number>4</number> Nothing contained in sub-regulation (2) shall apply to any matter or issue for which- 
+ 
+ <subsection><number>a</number> any proceedings, before any court or tribunal, or under the Act or any other law for the time being in force, are pending; or 
+ </subsection><subsection><number>b</number> a decree, award or an order has already been passed by any competent court or tribunal or authority, as the case may be. 
+</subsection>
+
+
+</section></article> 
+
+  
+ <article><title><number>7</number> Demand for access to Reference Capacity. </title>-
+<section><number>1</number> The eligible Indian International Telecommunication Entity shall, within five days of entering into an agreement under regulation 6, make payment of such fees and charges as specified in the Part II of the Schedule for seeking Access Facilitation for Reference Capacity. 
+ </section><section><number>2</number> The owner of cable landing station, on receipt of the payment of fees and charges payable under sub-regulation (1), shall consider, the number of units to be acquired or agreed to be acquired as Indefeasible Right of Use or on an annual lease basis as referred to in the agreement, as firm demand made by the eligible Indian International Telecommunication Entity. 
+ </section><section><number>3</number> The owner of cable landing station shall, immediately after considering the firm demand referred to in sub-regulation (2), initiate the provisioning of the Access Facilitation for the eligible Indian International Telecommunication Entity. 
+
+
+</section></article> 
+
+  
+ <article><title><number>8</number> Ensuring provision of backhaul circuit by eligible Indian International Telecommunication Entity. </title>-
+<section><number>1</number> Every eligible Indian International Tele-communication Entity shall arrange, within ten days after entering into an agreement under sub-regulation (1) of regulation 6, for backhaul circuit from- 
+ 
+ <subsection><number>a</number> the owner of the cable landing station; or 
+ </subsection><subsection><number>b</number> a service provider who has been granted licence to provide basic service or cellular mobile telephone service or national long distance service, or international long distance service, so as to make ready the backhaul circuit between cable landing station and the premises of the eligible Indian International Telecommunication Entity. 
+</subsection>
+ </section><section><number>2</number> The owner of the cable landing station and the eligible International Telecommunication Entity shall conduct necessary tests as per mutually agreed testing procedure so that that the backhaul circuit remains in a state of readiness for interconnection before the tests for Reference Capacity provisioning are carried out. 
+ </section><section><number>3</number> The owner of the cable landing station shall facilitate the interconnection between the eligible Indian International Telecommunication Entity and the service providers referred to in clauses (a) and (b) of sub-regulation (1) at 
+  the cable landing station for provisioning of backhaul circuit under sub-regulation (1). 
+
+
+</section></article> 
+
+  
+ <article><title><number>9</number> Testing of Reference Capacity proposed to be acquired by eligible </title><title>Indian International Telecommunication Entity. </title>-
+<section><number>1</number> The owner of the cable landing station shall, upon successful testing of the backhaul circuit to the cable landing station, complete all necessary steps for Access Facilitation to the Reference Capacity and such steps shall, inter alia, include- 
+ 
+ <subsection><number>a</number> testing of links; 
+ </subsection><subsection><number>b</number> interconnecting the Reference Capacity to the backhaul circuit or equipment of the service providers co-located at the cable landing station of such owner or at a Virtual Co-location. 
+</subsection>
+ </section><section><number>2</number> The owner of cable landing station and the eligible Indian International Telecommunication Entity, being an applicant under regulation 4, shall conduct necessary tests, as per the testing procedure for the provisioning of Reference Capacity from cable landing station in India to distant end or the other country's submarine cable station, within ten days or as may be mutually agreed upon by them. 
+ </section><section><number>3</number> The owner of the cable landing station shall- 
+ 
+ <subsection><number>a</number> send an intimation, after taking steps referred to in sub-regulation (2), to the eligible International Telecommunication Entity for taking control of the Reference Capacity; 
+ </subsection><subsection><number>b</number> deliver, upon receipt of all necessary payments from the eligible International Telecommunication Entity, the Reference Capacity to such Entity immediately but not later than two days after receipt of such payment and declare the Reference Capacity as commissioned. 
+</subsection>
+
+
+</section></article> 
+
+  
+ <article><title><number>10</number> Access Facilitation Charges and payment terms. </title>-
+<section><number>1</number> For the purposes of accessing the landing facilities at a cable landing station the Access Facilitation charges as specified in Part II of the Schedule shall be- 
+ 
+ <subsection><number>a</number> payable by the eligible Indian International Telecommunication Entity to the owner of the cable landing station; 
+ </subsection><subsection><number>b</number> determined on the basis of the cost of network elements involved in the provision of access and distributed over the complete capacity of the system. 
+</subsection>
+ </section><section><number>2</number> The Access Facilitation arrangement shall, subject to the payment of the operation and maintenance charges by the eligible Indian International Telecommunication Entity to the owner of cable landing station, continue to be in force during the period of the Indefeasible Right of Use or on an annual lease basis, as the case may be. 
+ </section><section><number>3</number> The owner of cable landing station shall allow the eligible Indian International Telecommunication Entity to provide Grooming Services at cable landing station of such owner. 
+
+
+</section></article> 
+
+  
+ <article> <title><number>11</number> Capacity up-gradation and payment for capacity up-gradation charges by eligible Indian International Telecommunication Entity. </title>-In case the capacity up-gradation is required to be provided for Access Facilitation to international submarine cable capacity at cable landing station, the owner of the cable landing station shall, on receipt of request for such up-gradation and payment of charges for such up-gradation from the eligible Indian International Telecommunication Entity, being an applicant under regulation 4, facilitate, without prejudice to the provisions of these regulations, the up-gradation as per mutually agreed terms and conditions including time frame for such up-gradation. 
+
+
+</article> 
+
+  
+ <article> <title><number>12</number> Cancellation charges. </title>-
+<section><number>1</number> In case the eligible Indian International Tele-communication Entity fails to acquire number of units mentioned in clause 
+<subsection><number>a</number> of sub-regulation (2) of regulation 4, either due to withdrawing of authorization or rescinding of agreement referred to in regulation 7 or any other reasons, cancellation charge for the units not so acquired shall be payable by such eligible Indian International Telecommunication Entity to the owner of the cable landing station. 
+ </subsection></section><section><number>2</number> The cancellation charges referred to in sub-regulation (1) shall be such as are specified in Part-II of the Schedule. 
+
+
+</section></article> 
+
+  
+ <article> <title><number>13</number> Termination or discontinuance of Access Facilitation by owner of cable landing station. </title>-
+<section><number>1</number> The Access Facilitation shall be terminated by the owner of cable landing station- 
+ 
+ <subsection><number>a</number> if the eligible Indian International Telecommunication Entity ceases to hold valid licence either by way of termination or suspension; 
+ </subsection><subsection><number>b</number> in case the arrangement to acquire Reference Capacity on the Indefeasible Right of Use or on an annual lease basis, as the case may be, by the eligible Indian International Telecommunication Entity from submarine cable system owner or a member of the submarine cable system consortium or from concerned cable consortium, is terminated. 
+</subsection>
+ </section><section><number>2</number> In case the annual operation and maintenance charges due and payable by the eligible Indian International Telecommunication Entity remain unpaid for more than fifteen days from the date such charges became payable, the owner of cable landing station may discontinue the Access Facilitation provided to eligible Indian International Telecommunication Entity after giving a notice, in writing, of not less than fifteen days, of such discontinuance to the eligible Indian International Telecommunication Entity and Access Facilitation shall be restored immediately after due payment of such charges by the eligible Indian International Telecommunication Entity. 
+
+
+</section></article> 
+
+  
+ <article> <title><number>14</number> Restoration of Access Facilities. </title>-(l) In case the licence of the eligible Indian International Telecommunication Entity has been terminated or suspended but the same is subsequently restored, the Access Facilitation arrangement if discontinued due to such termination or suspension under regulation 13 may be restored by the owner of cable landing station upon payment of all costs incurred by the owner of cable landing station for the purposes of reconnection or restoration of the Access Facilities, as the case may be, by the eligible Indian International Telecommunication Entity to the owner of cable landing station and such reconnection or restoration charges shall be such as may be mutually agreed upon between them or failing which in accordance with the costs specified in Part II of the Schedule. 
+ <section><number>2</number> If an authorization of the eligible Indian International Telecommunication Entity or arrangement entered into by it to acquire Reference Capacity on Indefeasible Right of Use or lease from submarine cable system or from a member of the submarine cable system consortium or from concerned submarine cable consortium, has been earlier withdrawn or rescinded but is subsequently restored, the access facilitation arrangement, if discontinued due to such withdrawal or rescinding may be restored by the owner of cable landing station upon payment of all costs incurred by owner of cable landing station for the purpose of reconnection or restoration, as the case may be, by the eligible Indian International Telecommunication Entity to owner of cable landing station and such reconnection or restoration charges shall be such as may be mutually agreed upon them or failing which in accordance with the costs specified in Part II of the Schedule. 
+
+
+</section></article> 
+
+  
+ <article> <title><number>15</number> Application by eligible Indian International Telecommunication Entity for provisioning of Co-location space.- </title>
+<section><number>1</number> Every eligible Indian International Telecommunication Entity, who makes an application for accessing international submarine cable capacity on any submarine cable systems under regulation 4, shall make, simultaneously, another application to the owner of cable landing station in the Form specified in Part IV of the Schedule for Co-location space at a cable landing station, if such Co-location space is required by it for accessing international submarine cable capacity on any submarine cable system from the owner of such cable landing station, enclosing therewith the following, namely:- 
+ 
+ <subsection><number>a</number> equipment layout plan at the Co-location site at which Co-location space is requested for; 
+ </subsection><subsection><number>b</number> purpose of accessing submarine cable capacity; 
+ </subsection><subsection><number>c</number> details of Co-location equipment proposed to be installed; 
+ </subsection><subsection><number>d</number> the details of space and power requirements; 
+ </subsection><subsection><number>e</number> the floor loading of the Co-location equipment; 
+ </subsection><subsection><number>f</number> the specification of the Transmission Tie-Cable required; 
+ </subsection><subsection><number>g</number> the type of optical fibre cable to be used; 
+ </subsection><subsection><number>h</number> the address, phone number, fax and e-mail of the eligible Indian International Telecommunication Entity at which communications may be sent by the owner of the cable landing station; 
+ </subsection><subsection><number>i</number> any other requirement for Co-location of equipment. 
+</subsection>
+ </section><section><number>2</number> The owner of the cable landing station shall, within ten days after receipt of the application made under sub-regulation (1), acknowledge the receipt and communicate the acceptance or rejection thereof to the requesting eligible Indian International Telecommunication Entity referred to in sub- regulation (1). 
+ </section><section><number>3</number> In case it is not feasible, due to any valid reasons, for the owner of cable landing station to provide co-location at the cable landing station referred to in sub-regulation (1), such owner shall, within a period of ten days, of receipt of the application made under sub-regulation (1), intimate in writing such non-feasibility along with valid reasons therefor, to the eligible Indian International Telecommunication Entity. 
+ </section><section><number>4</number> The owner of the cable landing station shall reject the application made by the eligible Indian International Telecommunication Entity under sub-regulation (1) if it is not an eligible Indian International Telecommunication Entity or it has not been granted international gateway permission or licence. 
+ </section><section><number>5</number> After receipt of acceptance from the owner of cable landing station under sub-regulation (2), the eligible Indian International Telecommunication Entity shall, within five days from the date of receipt of such conformation, enter into a Co-location Lease agreement with the owner of the cable landing station. 
+
+
+</section></article> 
+
+  
+ <article> <title><number>16</number> Co-location charges and payment terms. </title>-(l) The Co-location charges shall be payable, by the eligible Indian International Telecommunication Entity who has been provided Co-location by the owner of cable landing station, to such owner of the cable landing station within five days of entering into an agreement under sub-regulation (5) of regulation 15. 
+ <section><number>2</number> The Co-location charges referred to in sub-regulation (1) shall be such as had been included in the Cable Landing Station-Reference Interconnect Offer published under sub-regulation (4) of regulation 3: 
+ Provided that the Authority may specify, by other regulation made by it under the Act, such Co-location charges which shall be payable by a class or classes of eligible Indian International Telecommunication Entity and in such case the approval of the Co-location charges, as specified in Part II of the Schedule by the Authority shall not be required to be obtained under these regulations. 
+ </section><section><number>3</number> Not withstanding the time period for provision of co-location services specified under sub-para B of Part III of the Schedule approved by the Authority, the Co-location charges shall be payable by the eligible Indian International Telecommunication Entity as per time schedule as may be mutually agreed upon by them and where no such time schedule has been agreed upon, the Co-location charges shall be payable with in such time period as specified in sub-  
+  regulation (1). 
+(4) The owner of cable landing station shall, upon receipt of application under regulation (1) of regulation 15 and receipt of all charges and fulfillment of other requirements under these regulations, provide the Co-location facility at the cable landing station to the Indian International Telecommunication Entity who made such application.
+
+
+</section></article> 
+
+  
+ <article> <title><number>17</number> Allocation of alternative Co-location space. </title>-
+<section><number>1</number> In case the owner of cable landing station is unable to offer, due to space limitations or any other valid reason, the physical Co-location requested for by the eligible Indian International Telecommunication Entity, the owner of the cable landing station shall take reasonable measures to give an options of virtual Co-location to enable such eligible Indian International Telecommunication Entity to have Access Facilitation: 
+ Provided that in case the owner of cable landing station is unable to offer Co-location space at cable landing station and the eligible Indian International Telecommunication Entity fails to arrange a Virtual Co-location site, then the owner of cable landing station shall endeavour to provide an alternate site other than the Virtual Co-location. 
+ </section><section><number>2</number> The charges relating to alternate site for Co-location and interconnecting link to the cable landing station shall be borne by the eligible Indian International Telecommunication Entity. 
+ </section><section><number>3</number> In case an eligible Indian International Telecommunication Entity is offered, due to space constraints at cable landing station or any other valid technical reason, a Virtual Co-location facility by the owner of the cable landing station, in that case the owner of the cable landing station shall make available required elements including duct within the building for the purpose of running an interconnection cable within the cable landing station for which the charges shall be payable and borne by eligible Indian International Telecommunication Entity. 
+ </section><section><number>4</number> The eligible Indian International Telecommunication Entity shall arrange the telecommunication link from Virtual Co-location Site to cable landing station, cost of which shall be borne by such eligible Indian International Telecommunication Entity. 
+
+
+</section></article> 
+
+  
+ <article> <title><number>18</number> Additional Co-location space and Co-location equipment. </title>-
+<section><number>1</number> If the eligible Indian International Telecommunication Entity intends to replace, modify or rearrange any of its Co-location equipments in the Co-location space or install additional Co-location equipment in the Co-location space, it shall submit a request in writing to the owner of cable landing station for such modification, rearrangement or additional Co-location equipment or replacement, as the case may be and owner of cable landing station shall intimate, within ten days of receipt of such request, its decision for such replacement, modification or rearrangement. 
+ </section><section><number>2</number> The eligible Indian International Telecommunication Entity shall, upon receipt of acceptance from the owner of cable landing station for such request made under sub-regulation (1), modify, rearrange or replace, as the case may be, any of its Co-location equipments in the Co-location space or install additional Co-location equipment in the Co-location space after making payment of all charges and fulfillment of other requirements under these regulations. 
+
+
+</section></article> 
+
+  
+ <article> <title><number>19</number> Installation of Co-location Equipment by eligible Indian 
+International Telecommunication Entity. </title>-The eligible Indian International Telecommunication Entity, which has entered into an agreement under sub-regulation (5) of regulation 15 with the owner of cable landing station shall install its Co-location equipment in the Co-location space as may be mutually agreed upon between him and the owner of cable landing station, in accordance with the Co-location equipment installation and maintenance procedures specified in  
+Part - V of the Schedule. 
+
+
+</article> 
+
+  
+ <article> <title><number>20</number> Authorization for physical access for Co-location space at cable landing station.- </title>If the application made by the eligible Indian International Tele-communication Entity under sub-regulation 
+<section><number>1</number> of regulation 15 has been accepted by the owner of the cable landing station, the eligible Indian International Telecommunication Entity shall communicate, the names of its personnel in the Form specified in the Part-VII of Schedule to the owner of cable landing station who shall allow them access to the Co-location space and issue the authorization for physical access in the Form specified in the Part-VI of the Schedule. 
+
+
+</section></article> 
+
+  
+ <article> <title><number>21</number> Prohibition to sub-lease the Co-location space. </title>-The eligible Indian International Telecommunication Entity shall not assign the lease in respect of or sub-let the Co-location space at the cable landing station and Co-location site. 
+
+
+</article> 
+
+  
+ <article> <title><number>22</number> The Co-location space to be used for the purpose of accessing submarine cable capacity in the cable landing station by the eligible Indian International Telecommunication Entity. </title>-
+<section><number>1</number> The Co-location space shall be used by the eligible Indian International Telecommunication Entity for the purpose of accessing submarine cable capacity in the cable landing station. 
+ </section><section><number>2</number> The equipment of the eligible Indian International Telecommunication Entity installed at the Co-location space may be used for, 
+ 
+ <subsection><number>a</number> interconnections amongst eligible Indian International Telecommunication Entities and backhaul circuit providers referred to in sub-regulation (1) of regulation 8 at the cable landing station for provisioning of backhaul circuit; 
+ </subsection><subsection><number>b</number> extending the Reference Capacity to the Point of Presence or premises of eligible Indian International Telecommunication Entity. 
+</subsection>
+
+
+</section></article> 
+
+  
+ <article> <title><number>23</number> Termination of lease of Co-location space. </title>-
+<section><number>1</number> The owner of cable landing station may, in the event of closure of Co-location site or the expiry of the lease of Reference Capacity, terminate the lease of Co-location space, after giving to the eligible Indian International Telecommunication Entity a notice, in writing, of not less than six months from such closure or before the expiry of the lease of Reference Capacity, as the case may be, and such termination of the lease of co-location space shall take effect from the date specified in the notice. 
+ </section><section><number>2</number> The owner of cable landing station may terminate the lease of Co-location space, if- 
+ 
+ <subsection><number>a</number> the eligible Indian International Telecommunication Entity ceases to hold valid licence or the licensor directs, in the interest of the sovereignty and integrity of India, the security of the State, friendly relations with foreign States, public order, decency or morality or for any other reason, the termination of such lease; 
+ </subsection><subsection><number>b</number> the eligible Indian International Telecommunication Entity uses or allows to be used the Co-location space in contravention of the regulations or directions issued under the Act or any other law for the time being in force or in contravention of the terms of the licence; 
+ </subsection><subsection><number>c</number> the eligible Indian International Telecommunication Entity removes or abandons its Co-location equipments or keeps such space idle for a period of more than ninety days; 
+ </subsection><subsection><number>d</number> the Co-location space has become unsafe or unsuitable for the purpose of accessing facilities under these regulations: 
+</subsection>
+ Provided that the owner of cable landing station shall not terminate the lease of Co-location space under clauses (b) to (d) unless a notice of not less than ten days had been given to the eligible Indian International Telecommunication Entity. 
+ </section><section><number>3</number> Upon termination of the lease of Co-location space on request by the eligible Indian International Telecommunication Entity, prior to the expiry of the lease term, the following charges shall be payable by the eligible Indian International Telecommunication Entity, namely:- 
+ 
+ <subsection><number>a</number> Co-location charges payable for a period not exceeding six months; 
+ </subsection><subsection><number>b</number> outstanding pro-rata site preparation work charges. 
+</subsection>
+ </section><section><number>4</number> Subject to the provisions contained in sub-regulation (3), the owner of cable landing station may, at any time, by giving notice of not less than ten days to the eligible Indian International Telecommunication Entity, terminate the lease of Co-location space if the eligible Indian International Telecommunication Entity fails to complete the installation of its Co-location equipment within ninety days. 
+ </section><section><number>5</number> If the eligible Indian International Telecommunication Entity fails to complete installation of its Co-location equipment due to circumstances beyond its reasonable control, it shall intimate such circumstances to the owner of cable landing station who shall grant an extension of reasonable time for installation of its Co-location equipment to the eligible Indian International Telecommunication Entity. 
+ </section><section><number>6</number> If the eligible Indian International Telecommunication Entity, upon termination of the lease under sub-regulation (1), fails to discontinue the use of its Co-location equipment and remove its Co-location equipment under that sub-regulation, the owner of the cable Landing station may remove the Co-location equipment and restore the Co-location site to its original condition. 
+ </section><section><number>7</number> Upon expiry or termination of the lease of Co-location space of the eligible Indian International Telecommunication Entity, it shall pay to the owner of cable landing station all reasonable costs, connected with the work undertaken for restoration under sub-regulation (6) after removal of co-location equipment (including the disposal of the Co-location equipment). 
+ </section><section><number>8</number> Upon expiry or termination of the lease of Co-location space of the eligible Indian International Telecommunication Entity, any physical access granted to the Co-location site shall stand withdrawn. 
+ </section><section><number>9</number> In case the eligible Indian International Telecommunication Entity requires restoration of co-location facilities already terminated, it may make a request to the owner of cable landing station which shall undertake reasonable endeavors and make all efforts to get the co-location facilities restored to the eligible Indian International Telecommunication Entity, at the earliest. 
+ </section><section><number>10</number> Nothing contained in these regulations shall be construed as binding the owner of cable landing station for any service guarantee agreement or any representation by owner of cable landing station on the performance of the specified international submarine cable system. 
+ </section><section><number>11</number> Without prejudice to the rights of the owner of the cable landing station specified in sub-regulation (2), the eligible Indian International Telecommunication Entity may negotiate with the owner of submarine cable system or Member of the Consortium of submarine cable system, as the case may be, for any restoration arrangement including alternate transmission medium, if necessary. 
+
+
+</section></article> 
+
+  
+ <article> <title><number>24</number> No obligation of owner of cable landing station to place Co-location equipment of the eligible Indian International Telecommunication Entity adjacent to each other.- </title>Every owner of the cable landing station shall endeavor to accommodate any reasonable request by the eligible Indian International Telecommunication Entity for adjacent placement of its Co-location equipment adjacent to each other but such request shall not confer any right upon the eligible Indian International Telecommunication Entity for adjacent placement of its Co-location equipment and the Co-location space allocated and the actual placement of the Co-location equipment as determined by the owner of the cable landing station shall be final. 
+
+
+</article> 
+
+  
+ <article> <title><number>25</number> Period of Co-location agreement. </title>-
+<section><number>1</number> The agreement between the parties regarding each Co-location space to be leased under the Co-location frame work shall commence on the date the eligible Indian International Telecommunication Entity confirms its acceptance of the charges for the Co-location site and makes payment therefor and remain in force for a minimum period of three years after such commencement or for such period as may be mutually agreed upon between the parties. 
+ </section><section><number>2</number> The period of Co-location facility referred to sub-regulation (1) shall be renewed by the owner of cable landing station if the eligible Indian International Telecommunication Entity has not defaulted in payment of co-location charges or has not committed any breach of the terms and conditions of such agreement. 
+
+
+</section></article> 
+
+  
+ <article> <title><number>26</number> Reporting Requirements. </title>-The Access Facilitation agreement entered under regulation 6 or Co-location Lease agreement entered under sub-regulation (5) of regulation 15 or every other agreements entered into in pursuance of the provisions of these regulations between owner of cable landing station and eligible Indian International Telecommunication Entity shall be submitted to the Authority for registration within 15 days from the date of entering into such agreements. 
+
+
+</article>
+<pagefootnote></pagefootnote>
+</act>
