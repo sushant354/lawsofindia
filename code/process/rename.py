@@ -1,5 +1,4 @@
 from xml.dom import minidom, Node
-import string
 from xml.sax import saxutils
 import re
 import os
@@ -48,5 +47,5 @@ if __name__ == '__main__':
         files.append((filename, newfile))
 
     for f in files:
-        print 'git mv %s %s' % (f[0], f[1])
+        os.system('git mv %s %s' % (f[0], f[1]))
 
